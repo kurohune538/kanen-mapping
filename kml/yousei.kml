@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ウイルス性肝炎の陽性指摘後の精密検査費補助が受けられる医療機関</name>
+	<Style id="Style2-point-10">
+		<IconStyle>
+			<color>ffdadaff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/iryokikan.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>33ffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="Style2-point-1-hover00">
+		<IconStyle>
+			<color>ffdadaff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/iryokikan.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>33ffffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="Style2-point-1-map0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style2-point-10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style2-point-1-hover00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>医療法人二期会 小島病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人二期会 小島病院</p>
+<p class="hospital_address">伊万里市黒川町塩屋２０５番地１</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>129.8511299,33.33121091,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人光仁会 西田病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人光仁会 西田病院</p>
+<p class="hospital_address">伊万里市山代町楠久８９０番地２</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>129.8167046,33.29696093,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>社会保険浦之崎病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 社会保険浦之崎病院</p>
+<p class="hospital_address">伊万里市山代町立岩４１７番地</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>129.7916769,33.33396153,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>社会医療法人謙仁会山元記念病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 社会医療法人謙仁会山元記念病院</p>
+<p class="hospital_address">伊万里市二里町八谷搦８８番地４</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>129.8706644,33.27460878,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人精仁会  隅田病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人精仁会  隅田病院</p>
+<p class="hospital_address">伊万里市立花町４０００番地</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>129.882966,33.27382037,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>うれしのふくだクリニック</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> うれしのふくだクリニック</p>
+<p class="hospital_address">嬉野市嬉野町大字下宿甲４７１５番地５</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>129.9955052,33.10234639,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人  太田医院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人  太田医院</p>
+<p class="hospital_address">嬉野市嬉野町大字岩屋川内甲7７番地１</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>129.9861035,33.09432192,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人敬天堂  古賀病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人敬天堂  古賀病院</p>
+<p class="hospital_address">杵島郡江北町大字上小田１１５０番地</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.1373234,33.21846135,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>大町町立病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 大町町立病院</p>
+<p class="hospital_address">杵島郡大町町大字大町８８７８番地１</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.1123809,33.21302536,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人　戸原内科</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人　戸原内科</p>
+<p class="hospital_address">杵島郡大町町大字福母４０４番地６</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.1062925,33.21355573,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人回春堂　有明医院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人回春堂　有明医院</p>
+<p class="hospital_address">杵島郡白石町大字築切８５１番地</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.145538,33.16647801,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>副島医院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 副島医院</p>
+<p class="hospital_address">杵島郡白石町大字堤１４６８番地</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.1062145,33.18130661,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人静便堂 白石共立病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人静便堂 白石共立病院</p>
+<p class="hospital_address">杵島郡白石町大字福田１２９６番地</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.1410354,33.18170698,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>独立行政法人国立病院機構　嬉野医療センター</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 独立行政法人国立病院機構　嬉野医療センター</p>
+<p class="hospital_address">佐賀県嬉野市嬉野町大字下宿丙2436番地</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>129.9784541,33.098885,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人  高柳内科</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人  高柳内科</p>
+<p class="hospital_address">佐賀県佐賀市嘉瀬町大字十五2291番地1</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.2567096,33.21945391,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>地方独立行政法人佐賀県医療センター好生館</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 地方独立行政法人佐賀県医療センター好生館</p>
+<p class="hospital_address">佐賀県佐賀市嘉瀬町大字中原400</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.2688228,33.24156052,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人福翔会 福岡病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人福翔会 福岡病院</p>
+<p class="hospital_address">佐賀県佐賀市開成６丁目１４番１０号</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.2716566,33.27067437,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人　せとぐち内科</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人　せとぐち内科</p>
+<p class="hospital_address">佐賀県佐賀市久保田町大字久保田１３０番地６</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.2256223,33.24835857,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>中山内科クリニック</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 中山内科クリニック</p>
+<p class="hospital_address">佐賀県佐賀市高木瀬西４丁目６番１４号</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.2839853,33.28505871,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人社団敬愛会  佐賀記念病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人社団敬愛会  佐賀記念病院</p>
+<p class="hospital_address">佐賀県佐賀市高木瀬町大字長瀬１２４０番地１</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.2825024,33.29318685,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>国立大学法人佐賀大学医学部附属病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 国立大学法人佐賀大学医学部附属病院</p>
+<p class="hospital_address">佐賀県佐賀市鍋島5丁目1番1号</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.2669066,33.28469262,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>独立行政法人国立病院機構　佐賀病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 独立行政法人国立病院機構　佐賀病院</p>
+<p class="hospital_address">佐賀県佐賀市日の出1丁目20番1号</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.2940076,33.27580521,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>佐賀社会保険病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 佐賀社会保険病院</p>
+<p class="hospital_address">佐賀県佐賀市兵庫南3丁目8番1号</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.318414,33.26459044,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>伊万里・有田地区医療福祉組合　伊万里有田共立病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 伊万里・有田地区医療福祉組合　伊万里有田共立病院</p>
+<p class="hospital_address">佐賀県西松浦郡有田町二ノ瀬甲860</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>129.8512718,33.23922661,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>社会福祉法人恩賜財団済生会唐津病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 社会福祉法人恩賜財団済生会唐津病院</p>
+<p class="hospital_address">佐賀県唐津市元旗町817番地</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>129.9630287,33.45506467,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>唐津赤十字病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 唐津赤十字病院</p>
+<p class="hospital_address">佐賀県唐津市二夕子1丁目1番1号</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>129.9580299,33.4563798,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人源流会 橋野医院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人源流会 橋野医院</p>
+<p class="hospital_address">佐賀市高木瀬東５丁目１７番１５号</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.2974959,33.28617392,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>池田内科･消化器科</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 池田内科･消化器科</p>
+<p class="hospital_address">佐賀市若宮３丁目１番２４号</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.2876943,33.27356072,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人　永田天寿堂医院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人　永田天寿堂医院</p>
+<p class="hospital_address">佐賀市諸富町大字大堂７３番地</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.3706758,33.23437985,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>佐賀県医療生活協同組合神野診療所</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 佐賀県医療生活協同組合神野診療所</p>
+<p class="hospital_address">佐賀市神野東４丁目１０番５号</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.2991573,33.26975034,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人社団真仁会  諸隈病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人社団真仁会  諸隈病院</p>
+<p class="hospital_address">佐賀市水ケ江２丁目６番２２号</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.3082458,33.24982744,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人九曜会　こが内科こどもクリニック</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人九曜会　こが内科こどもクリニック</p>
+<p class="hospital_address">佐賀市西与賀町大字厘外８５９番１５号</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.2788235,33.2384081,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人源勇会  枝國医院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人源勇会  枝國医院</p>
+<p class="hospital_address">佐賀市川副町早津江２６５番地</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.3360472,33.20489348,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>さとうクリニック</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> さとうクリニック</p>
+<p class="hospital_address">佐賀市川副町大字南里３７２番地１</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.3120074,33.21217562,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人同愛会 副島病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人同愛会 副島病院</p>
+<p class="hospital_address">佐賀市大財１丁目６番６０号</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.3038794,33.25681832,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人  清和医院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人  清和医院</p>
+<p class="hospital_address">佐賀市大和町大字久池井２５５２番地１</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.2775298,33.31643507,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人大和正信会 ふじおか病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人大和正信会 ふじおか病院</p>
+<p class="hospital_address">佐賀市大和町大字尼寺２６８５番地</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.2830241,33.30718584,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>満岡内科消化器科医院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 満岡内科消化器科医院</p>
+<p class="hospital_address">佐賀市大和町大字尼寺８４８番地１１</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.286296,33.31048288,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>かじはら内科クリニック</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> かじはら内科クリニック</p>
+<p class="hospital_address">佐賀市八戸溝２丁目１０番２号</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.2728457,33.26185568,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>佐賀市立富士大和温泉病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 佐賀市立富士大和温泉病院</p>
+<p class="hospital_address">佐賀市富士町大字梅野１７２１番地１</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.2495921,33.35590328,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人春陽会  上村病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人春陽会  上村病院</p>
+<p class="hospital_address">佐賀市兵庫町大字渕１９０３番地１</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.3134947,33.28208594,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>二宮内科医院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 二宮内科医院</p>
+<p class="hospital_address">佐賀市兵庫南２丁目１４番１９号</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.3151171,33.26346818,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人　吉本クリニック</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人　吉本クリニック</p>
+<p class="hospital_address">佐賀市堀川町１番１０号</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.2972218,33.25088806,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>独立行政法人国立病院機構　東佐賀病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 独立行政法人国立病院機構　東佐賀病院</p>
+<p class="hospital_address">三養基郡みやき町大字原古賀７３２４番地</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.4453181,33.33696371,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>平井内科</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 平井内科</p>
+<p class="hospital_address">三養基郡上峰町大字坊所２７３３番地１</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.4180263,33.32060591,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人三樹会　三樹病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人三樹会　三樹病院</p>
+<p class="hospital_address">三養基郡上峰町大字坊所２７６番地１</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.4250898,33.32035055,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人祐愛会  織田病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人祐愛会  織田病院</p>
+<p class="hospital_address">鹿島市大字高津原４３０６番地</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.095519,33.11139728,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人  犬塚病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人  犬塚病院</p>
+<p class="hospital_address">鹿島市大字高津原６０２番地３</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.0963468,33.10742553,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人祐仁会　吉田病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人祐仁会　吉田病院</p>
+<p class="hospital_address">鹿島市大字中村２１９５番地２</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.0965604,33.11994078,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人芳山堂　薬師寺医院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人芳山堂　薬師寺医院</p>
+<p class="hospital_address">鹿島市浜町１２８０番地１</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.1128095,33.09451608,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人和敬会 樋口クリニック</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人和敬会 樋口クリニック</p>
+<p class="hospital_address">小城市牛津町牛津２４５番地２</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.2047908,33.2439894,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>しまうちクリニック</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> しまうちクリニック</p>
+<p class="hospital_address">小城市牛津町勝１４９９番地１</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.1996494,33.24957757,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人ロコメディカル 江口病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人ロコメディカル 江口病院</p>
+<p class="hospital_address">小城市三日月町金田１０５４番地２</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.2309258,33.2605955,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人　ひらまつ病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人　ひらまつ病院</p>
+<p class="hospital_address">小城市小城町８１５番地１</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.2058847,33.30113442,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>小城市民病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 小城市民病院</p>
+<p class="hospital_address">小城市小城町松尾４１００番地</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.1968412,33.29599206,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>松本医院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 松本医院</p>
+<p class="hospital_address">神埼郡吉野ヶ里町三津７５１番地９</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.3989095,33.34848132,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人久和会  和田医院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人久和会  和田医院</p>
+<p class="hospital_address">神埼市神埼町神埼２９３番地</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.3739431,33.30605726,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人久和会  和田記念病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人久和会  和田記念病院</p>
+<p class="hospital_address">神埼市神埼町尾崎３７８０番地</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.3468757,33.32838795,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>おおつぼ内科医院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> おおつぼ内科医院</p>
+<p class="hospital_address">神埼市神埼町本堀２５０４番地１</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.3782429,33.30351302,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人聖母会  古賀内科</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人聖母会  古賀内科</p>
+<p class="hospital_address">神埼市千代田町境原２８２番地２</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.3563295,33.26211673,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>多久市立病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 多久市立病院</p>
+<p class="hospital_address">多久市多久町１７７１番地４</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.0911104,33.2613258,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人　剛友会　諸隈病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人　剛友会　諸隈病院</p>
+<p class="hospital_address">多久市多久町大字多久原2414番地70</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.1144405,33.2905264,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人　きざと外科医院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人　きざと外科医院</p>
+<p class="hospital_address">鳥栖市原町８６１番地１</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.5294671,33.38412064,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人社団如水会  今村病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人社団如水会  今村病院</p>
+<p class="hospital_address">鳥栖市轟木町１５２３番地６</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.5051252,33.36776617,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人　前山内科</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人　前山内科</p>
+<p class="hospital_address">鳥栖市宿町１４６５番地１</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.5012997,33.38050411,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人　野田内科</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人　野田内科</p>
+<p class="hospital_address">鳥栖市西田町２１１番地１</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.4912483,33.34923084,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人はらだ会はらだ内科胃腸科</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人はらだ会はらだ内科胃腸科</p>
+<p class="hospital_address">鳥栖市鎗田町２８１番地３</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.5131659,33.38039324,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>こが医療館　明彦まきこクリニック</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> こが医療館　明彦まきこクリニック</p>
+<p class="hospital_address">鳥栖市大正町７６４−５</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.5147882,33.37603799,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人清明会やよいがおか鹿毛病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人清明会やよいがおか鹿毛病院</p>
+<p class="hospital_address">鳥栖市弥生が丘２丁目１４３番地</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.5224708,33.40533621,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>山下町クリニック</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 山下町クリニック</p>
+<p class="hospital_address">唐津市山下町１１４１番地２</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>129.963012,33.45116231,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人松籟会  河畔病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人松籟会  河畔病院</p>
+<p class="hospital_address">唐津市松南町１１９番地２</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>129.9971869,33.43842926,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人尚誠会　冬野病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人尚誠会　冬野病院</p>
+<p class="hospital_address">唐津市相知町相知２２６４番地</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.0073369,33.35148837,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人春陽会　野口内科</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人春陽会　野口内科</p>
+<p class="hospital_address">唐津市大名小路２番４４号</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>129.9722113,33.45180148,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人　いのうえ内科クリニック</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人　いのうえ内科クリニック</p>
+<p class="hospital_address">唐津市町田１丁目８番５号</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>129.9665868,33.44309938,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>町立太良病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 町立太良病院</p>
+<p class="hospital_address">藤津郡太良町大字多良１５２０番地１２</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.1786925,33.02695972,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人養寿堂 まつお内科・眼科</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人養寿堂 まつお内科・眼科</p>
+<p class="hospital_address">武雄市朝日町大字甘久１８５７番地</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.0414618,33.21309094,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人　たけお内科医院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人　たけお内科医院</p>
+<p class="hospital_address">武雄市武雄町大字昭和11番地２</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.0220582,33.19423692,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人　つちはし医院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人　つちはし医院</p>
+<p class="hospital_address">武雄市武雄町大字昭和７５番地</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.0247581,33.19326206,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>医療法人敬和会  持田病院</name>
+		<snippet></snippet>
+		<description><![CDATA[<div class="hospital_balloon">
+<p class="hospital_name"> 医療法人敬和会  持田病院</p>
+<p class="hospital_address">武雄市武雄町大字武雄５８５８番地１</p>
+
+
+</div>]]></description>
+		<styleUrl>#Style2-point-1-map0</styleUrl>
+		<Point>
+			<coordinates>130.0092759,33.18946499,50.00000000000001</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

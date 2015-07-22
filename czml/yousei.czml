@@ -1,0 +1,4115 @@
+[
+    {
+        "id": "document",
+        "name": "yousei",
+        "version": "1.0"
+    },
+    {
+        "id": "yousei1",
+        "name": "医療法人二期会 小島病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人二期会 小島病院</p>\n<p class=\"hospital_address\">伊万里市黒川町塩屋２０５番地１</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                129.8511299,
+                33.33121091,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    129.8511299,
+                    33.33121091,
+                    50,
+                    129.8511299,
+                    33.33121091,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei2",
+        "name": "医療法人光仁会 西田病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人光仁会 西田病院</p>\n<p class=\"hospital_address\">伊万里市山代町楠久８９０番地２</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                129.8167046,
+                33.29696093,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    129.8167046,
+                    33.29696093,
+                    50,
+                    129.8167046,
+                    33.29696093,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei3",
+        "name": "社会保険浦之崎病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 社会保険浦之崎病院</p>\n<p class=\"hospital_address\">伊万里市山代町立岩４１７番地</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                129.7916769,
+                33.33396153,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    129.7916769,
+                    33.33396153,
+                    50,
+                    129.7916769,
+                    33.33396153,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei4",
+        "name": "社会医療法人謙仁会山元記念病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 社会医療法人謙仁会山元記念病院</p>\n<p class=\"hospital_address\">伊万里市二里町八谷搦８８番地４</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                129.8706644,
+                33.27460878,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    129.8706644,
+                    33.27460878,
+                    50,
+                    129.8706644,
+                    33.27460878,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei5",
+        "name": "医療法人精仁会  隅田病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人精仁会  隅田病院</p>\n<p class=\"hospital_address\">伊万里市立花町４０００番地</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                129.882966,
+                33.27382037,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    129.882966,
+                    33.27382037,
+                    50,
+                    129.882966,
+                    33.27382037,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei6",
+        "name": "うれしのふくだクリニック",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> うれしのふくだクリニック</p>\n<p class=\"hospital_address\">嬉野市嬉野町大字下宿甲４７１５番地５</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                129.9955052,
+                33.10234639,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    129.9955052,
+                    33.10234639,
+                    50,
+                    129.9955052,
+                    33.10234639,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei7",
+        "name": "医療法人  太田医院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  太田医院</p>\n<p class=\"hospital_address\">嬉野市嬉野町大字岩屋川内甲7７番地１</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                129.9861035,
+                33.09432192,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    129.9861035,
+                    33.09432192,
+                    50,
+                    129.9861035,
+                    33.09432192,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei8",
+        "name": "医療法人敬天堂  古賀病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人敬天堂  古賀病院</p>\n<p class=\"hospital_address\">杵島郡江北町大字上小田１１５０番地</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.1373234,
+                33.21846135,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.1373234,
+                    33.21846135,
+                    50,
+                    130.1373234,
+                    33.21846135,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei9",
+        "name": "大町町立病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 大町町立病院</p>\n<p class=\"hospital_address\">杵島郡大町町大字大町８８７８番地１</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.1123809,
+                33.21302536,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.1123809,
+                    33.21302536,
+                    50,
+                    130.1123809,
+                    33.21302536,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei10",
+        "name": "医療法人　戸原内科",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　戸原内科</p>\n<p class=\"hospital_address\">杵島郡大町町大字福母４０４番地６</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.1062925,
+                33.21355573,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.1062925,
+                    33.21355573,
+                    50,
+                    130.1062925,
+                    33.21355573,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei11",
+        "name": "医療法人回春堂　有明医院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人回春堂　有明医院</p>\n<p class=\"hospital_address\">杵島郡白石町大字築切８５１番地</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.145538,
+                33.16647801,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.145538,
+                    33.16647801,
+                    50,
+                    130.145538,
+                    33.16647801,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei12",
+        "name": "副島医院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 副島医院</p>\n<p class=\"hospital_address\">杵島郡白石町大字堤１４６８番地</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.1062145,
+                33.18130661,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.1062145,
+                    33.18130661,
+                    50,
+                    130.1062145,
+                    33.18130661,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei13",
+        "name": "医療法人静便堂 白石共立病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人静便堂 白石共立病院</p>\n<p class=\"hospital_address\">杵島郡白石町大字福田１２９６番地</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.1410354,
+                33.18170698,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.1410354,
+                    33.18170698,
+                    50,
+                    130.1410354,
+                    33.18170698,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei14",
+        "name": "独立行政法人国立病院機構　嬉野医療センター",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 独立行政法人国立病院機構　嬉野医療センター</p>\n<p class=\"hospital_address\">佐賀県嬉野市嬉野町大字下宿丙2436番地</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                129.9784541,
+                33.098885,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    129.9784541,
+                    33.098885,
+                    50,
+                    129.9784541,
+                    33.098885,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei15",
+        "name": "医療法人  高柳内科",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  高柳内科</p>\n<p class=\"hospital_address\">佐賀県佐賀市嘉瀬町大字十五2291番地1</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2567096,
+                33.21945391,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2567096,
+                    33.21945391,
+                    50,
+                    130.2567096,
+                    33.21945391,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei16",
+        "name": "地方独立行政法人佐賀県医療センター好生館",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 地方独立行政法人佐賀県医療センター好生館</p>\n<p class=\"hospital_address\">佐賀県佐賀市嘉瀬町大字中原400</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2688228,
+                33.24156052,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2688228,
+                    33.24156052,
+                    50,
+                    130.2688228,
+                    33.24156052,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei17",
+        "name": "医療法人福翔会 福岡病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人福翔会 福岡病院</p>\n<p class=\"hospital_address\">佐賀県佐賀市開成６丁目１４番１０号</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2716566,
+                33.27067437,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2716566,
+                    33.27067437,
+                    50,
+                    130.2716566,
+                    33.27067437,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei18",
+        "name": "医療法人　せとぐち内科",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　せとぐち内科</p>\n<p class=\"hospital_address\">佐賀県佐賀市久保田町大字久保田１３０番地６</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2256223,
+                33.24835857,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2256223,
+                    33.24835857,
+                    50,
+                    130.2256223,
+                    33.24835857,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei19",
+        "name": "中山内科クリニック",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 中山内科クリニック</p>\n<p class=\"hospital_address\">佐賀県佐賀市高木瀬西４丁目６番１４号</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2839853,
+                33.28505871,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2839853,
+                    33.28505871,
+                    50,
+                    130.2839853,
+                    33.28505871,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei20",
+        "name": "医療法人社団敬愛会  佐賀記念病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人社団敬愛会  佐賀記念病院</p>\n<p class=\"hospital_address\">佐賀県佐賀市高木瀬町大字長瀬１２４０番地１</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2825024,
+                33.29318685,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2825024,
+                    33.29318685,
+                    50,
+                    130.2825024,
+                    33.29318685,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei21",
+        "name": "国立大学法人佐賀大学医学部附属病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 国立大学法人佐賀大学医学部附属病院</p>\n<p class=\"hospital_address\">佐賀県佐賀市鍋島5丁目1番1号</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2669066,
+                33.28469262,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2669066,
+                    33.28469262,
+                    50,
+                    130.2669066,
+                    33.28469262,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei22",
+        "name": "独立行政法人国立病院機構　佐賀病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 独立行政法人国立病院機構　佐賀病院</p>\n<p class=\"hospital_address\">佐賀県佐賀市日の出1丁目20番1号</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2940076,
+                33.27580521,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2940076,
+                    33.27580521,
+                    50,
+                    130.2940076,
+                    33.27580521,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei23",
+        "name": "佐賀社会保険病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 佐賀社会保険病院</p>\n<p class=\"hospital_address\">佐賀県佐賀市兵庫南3丁目8番1号</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.318414,
+                33.26459044,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.318414,
+                    33.26459044,
+                    50,
+                    130.318414,
+                    33.26459044,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei24",
+        "name": "伊万里・有田地区医療福祉組合　伊万里有田共立病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 伊万里・有田地区医療福祉組合　伊万里有田共立病院</p>\n<p class=\"hospital_address\">佐賀県西松浦郡有田町二ノ瀬甲860</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                129.8512718,
+                33.23922661,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    129.8512718,
+                    33.23922661,
+                    50,
+                    129.8512718,
+                    33.23922661,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei25",
+        "name": "社会福祉法人恩賜財団済生会唐津病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 社会福祉法人恩賜財団済生会唐津病院</p>\n<p class=\"hospital_address\">佐賀県唐津市元旗町817番地</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                129.9630287,
+                33.45506467,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    129.9630287,
+                    33.45506467,
+                    50,
+                    129.9630287,
+                    33.45506467,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei26",
+        "name": "唐津赤十字病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 唐津赤十字病院</p>\n<p class=\"hospital_address\">佐賀県唐津市二夕子1丁目1番1号</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                129.9580299,
+                33.4563798,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    129.9580299,
+                    33.4563798,
+                    50,
+                    129.9580299,
+                    33.4563798,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei27",
+        "name": "医療法人源流会 橋野医院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人源流会 橋野医院</p>\n<p class=\"hospital_address\">佐賀市高木瀬東５丁目１７番１５号</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2974959,
+                33.28617392,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2974959,
+                    33.28617392,
+                    50,
+                    130.2974959,
+                    33.28617392,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei28",
+        "name": "池田内科･消化器科",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 池田内科･消化器科</p>\n<p class=\"hospital_address\">佐賀市若宮３丁目１番２４号</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2876943,
+                33.27356072,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2876943,
+                    33.27356072,
+                    50,
+                    130.2876943,
+                    33.27356072,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei29",
+        "name": "医療法人　永田天寿堂医院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　永田天寿堂医院</p>\n<p class=\"hospital_address\">佐賀市諸富町大字大堂７３番地</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.3706758,
+                33.23437985,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.3706758,
+                    33.23437985,
+                    50,
+                    130.3706758,
+                    33.23437985,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei30",
+        "name": "佐賀県医療生活協同組合神野診療所",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 佐賀県医療生活協同組合神野診療所</p>\n<p class=\"hospital_address\">佐賀市神野東４丁目１０番５号</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2991573,
+                33.26975034,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2991573,
+                    33.26975034,
+                    50,
+                    130.2991573,
+                    33.26975034,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei31",
+        "name": "医療法人社団真仁会  諸隈病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人社団真仁会  諸隈病院</p>\n<p class=\"hospital_address\">佐賀市水ケ江２丁目６番２２号</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.3082458,
+                33.24982744,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.3082458,
+                    33.24982744,
+                    50,
+                    130.3082458,
+                    33.24982744,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei32",
+        "name": "医療法人九曜会　こが内科こどもクリニック",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人九曜会　こが内科こどもクリニック</p>\n<p class=\"hospital_address\">佐賀市西与賀町大字厘外８５９番１５号</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2788235,
+                33.2384081,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2788235,
+                    33.2384081,
+                    50,
+                    130.2788235,
+                    33.2384081,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei33",
+        "name": "医療法人源勇会  枝國医院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人源勇会  枝國医院</p>\n<p class=\"hospital_address\">佐賀市川副町早津江２６５番地</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.3360472,
+                33.20489348,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.3360472,
+                    33.20489348,
+                    50,
+                    130.3360472,
+                    33.20489348,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei34",
+        "name": "さとうクリニック",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> さとうクリニック</p>\n<p class=\"hospital_address\">佐賀市川副町大字南里３７２番地１</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.3120074,
+                33.21217562,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.3120074,
+                    33.21217562,
+                    50,
+                    130.3120074,
+                    33.21217562,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei35",
+        "name": "医療法人同愛会 副島病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人同愛会 副島病院</p>\n<p class=\"hospital_address\">佐賀市大財１丁目６番６０号</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.3038794,
+                33.25681832,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.3038794,
+                    33.25681832,
+                    50,
+                    130.3038794,
+                    33.25681832,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei36",
+        "name": "医療法人  清和医院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  清和医院</p>\n<p class=\"hospital_address\">佐賀市大和町大字久池井２５５２番地１</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2775298,
+                33.31643507,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2775298,
+                    33.31643507,
+                    50,
+                    130.2775298,
+                    33.31643507,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei37",
+        "name": "医療法人大和正信会 ふじおか病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人大和正信会 ふじおか病院</p>\n<p class=\"hospital_address\">佐賀市大和町大字尼寺２６８５番地</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2830241,
+                33.30718584,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2830241,
+                    33.30718584,
+                    50,
+                    130.2830241,
+                    33.30718584,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei38",
+        "name": "満岡内科消化器科医院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 満岡内科消化器科医院</p>\n<p class=\"hospital_address\">佐賀市大和町大字尼寺８４８番地１１</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.286296,
+                33.31048288,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.286296,
+                    33.31048288,
+                    50,
+                    130.286296,
+                    33.31048288,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei39",
+        "name": "かじはら内科クリニック",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> かじはら内科クリニック</p>\n<p class=\"hospital_address\">佐賀市八戸溝２丁目１０番２号</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2728457,
+                33.26185568,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2728457,
+                    33.26185568,
+                    50,
+                    130.2728457,
+                    33.26185568,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei40",
+        "name": "佐賀市立富士大和温泉病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 佐賀市立富士大和温泉病院</p>\n<p class=\"hospital_address\">佐賀市富士町大字梅野１７２１番地１</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2495921,
+                33.35590328,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2495921,
+                    33.35590328,
+                    50,
+                    130.2495921,
+                    33.35590328,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei41",
+        "name": "医療法人春陽会  上村病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人春陽会  上村病院</p>\n<p class=\"hospital_address\">佐賀市兵庫町大字渕１９０３番地１</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.3134947,
+                33.28208594,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.3134947,
+                    33.28208594,
+                    50,
+                    130.3134947,
+                    33.28208594,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei42",
+        "name": "二宮内科医院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 二宮内科医院</p>\n<p class=\"hospital_address\">佐賀市兵庫南２丁目１４番１９号</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.3151171,
+                33.26346818,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.3151171,
+                    33.26346818,
+                    50,
+                    130.3151171,
+                    33.26346818,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei43",
+        "name": "医療法人　吉本クリニック",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　吉本クリニック</p>\n<p class=\"hospital_address\">佐賀市堀川町１番１０号</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2972218,
+                33.25088806,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2972218,
+                    33.25088806,
+                    50,
+                    130.2972218,
+                    33.25088806,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei44",
+        "name": "独立行政法人国立病院機構　東佐賀病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 独立行政法人国立病院機構　東佐賀病院</p>\n<p class=\"hospital_address\">三養基郡みやき町大字原古賀７３２４番地</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.4453181,
+                33.33696371,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.4453181,
+                    33.33696371,
+                    50,
+                    130.4453181,
+                    33.33696371,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei45",
+        "name": "平井内科",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 平井内科</p>\n<p class=\"hospital_address\">三養基郡上峰町大字坊所２７３３番地１</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.4180263,
+                33.32060591,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.4180263,
+                    33.32060591,
+                    50,
+                    130.4180263,
+                    33.32060591,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei46",
+        "name": "医療法人三樹会　三樹病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人三樹会　三樹病院</p>\n<p class=\"hospital_address\">三養基郡上峰町大字坊所２７６番地１</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.4250898,
+                33.32035055,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.4250898,
+                    33.32035055,
+                    50,
+                    130.4250898,
+                    33.32035055,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei47",
+        "name": "医療法人祐愛会  織田病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人祐愛会  織田病院</p>\n<p class=\"hospital_address\">鹿島市大字高津原４３０６番地</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.095519,
+                33.11139728,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.095519,
+                    33.11139728,
+                    50,
+                    130.095519,
+                    33.11139728,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei48",
+        "name": "医療法人  犬塚病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  犬塚病院</p>\n<p class=\"hospital_address\">鹿島市大字高津原６０２番地３</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.0963468,
+                33.10742553,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.0963468,
+                    33.10742553,
+                    50,
+                    130.0963468,
+                    33.10742553,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei49",
+        "name": "医療法人祐仁会　吉田病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人祐仁会　吉田病院</p>\n<p class=\"hospital_address\">鹿島市大字中村２１９５番地２</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.0965604,
+                33.11994078,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.0965604,
+                    33.11994078,
+                    50,
+                    130.0965604,
+                    33.11994078,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei50",
+        "name": "医療法人芳山堂　薬師寺医院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人芳山堂　薬師寺医院</p>\n<p class=\"hospital_address\">鹿島市浜町１２８０番地１</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.1128095,
+                33.09451608,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.1128095,
+                    33.09451608,
+                    50,
+                    130.1128095,
+                    33.09451608,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei51",
+        "name": "医療法人和敬会 樋口クリニック",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人和敬会 樋口クリニック</p>\n<p class=\"hospital_address\">小城市牛津町牛津２４５番地２</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2047908,
+                33.2439894,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2047908,
+                    33.2439894,
+                    50,
+                    130.2047908,
+                    33.2439894,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei52",
+        "name": "しまうちクリニック",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> しまうちクリニック</p>\n<p class=\"hospital_address\">小城市牛津町勝１４９９番地１</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.1996494,
+                33.24957757,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.1996494,
+                    33.24957757,
+                    50,
+                    130.1996494,
+                    33.24957757,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei53",
+        "name": "医療法人ロコメディカル 江口病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人ロコメディカル 江口病院</p>\n<p class=\"hospital_address\">小城市三日月町金田１０５４番地２</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2309258,
+                33.2605955,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2309258,
+                    33.2605955,
+                    50,
+                    130.2309258,
+                    33.2605955,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei54",
+        "name": "医療法人　ひらまつ病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　ひらまつ病院</p>\n<p class=\"hospital_address\">小城市小城町８１５番地１</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2058847,
+                33.30113442,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2058847,
+                    33.30113442,
+                    50,
+                    130.2058847,
+                    33.30113442,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei55",
+        "name": "小城市民病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 小城市民病院</p>\n<p class=\"hospital_address\">小城市小城町松尾４１００番地</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.1968412,
+                33.29599206,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.1968412,
+                    33.29599206,
+                    50,
+                    130.1968412,
+                    33.29599206,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei56",
+        "name": "松本医院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 松本医院</p>\n<p class=\"hospital_address\">神埼郡吉野ヶ里町三津７５１番地９</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.3989095,
+                33.34848132,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.3989095,
+                    33.34848132,
+                    50,
+                    130.3989095,
+                    33.34848132,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei57",
+        "name": "医療法人久和会  和田医院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人久和会  和田医院</p>\n<p class=\"hospital_address\">神埼市神埼町神埼２９３番地</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.3739431,
+                33.30605726,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.3739431,
+                    33.30605726,
+                    50,
+                    130.3739431,
+                    33.30605726,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei58",
+        "name": "医療法人久和会  和田記念病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人久和会  和田記念病院</p>\n<p class=\"hospital_address\">神埼市神埼町尾崎３７８０番地</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.3468757,
+                33.32838795,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.3468757,
+                    33.32838795,
+                    50,
+                    130.3468757,
+                    33.32838795,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei59",
+        "name": "おおつぼ内科医院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> おおつぼ内科医院</p>\n<p class=\"hospital_address\">神埼市神埼町本堀２５０４番地１</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.3782429,
+                33.30351302,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.3782429,
+                    33.30351302,
+                    50,
+                    130.3782429,
+                    33.30351302,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei60",
+        "name": "医療法人聖母会  古賀内科",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人聖母会  古賀内科</p>\n<p class=\"hospital_address\">神埼市千代田町境原２８２番地２</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.3563295,
+                33.26211673,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.3563295,
+                    33.26211673,
+                    50,
+                    130.3563295,
+                    33.26211673,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei61",
+        "name": "多久市立病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 多久市立病院</p>\n<p class=\"hospital_address\">多久市多久町１７７１番地４</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.0911104,
+                33.2613258,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.0911104,
+                    33.2613258,
+                    50,
+                    130.0911104,
+                    33.2613258,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei62",
+        "name": "医療法人　剛友会　諸隈病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　剛友会　諸隈病院</p>\n<p class=\"hospital_address\">多久市多久町大字多久原2414番地70</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.1144405,
+                33.2905264,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.1144405,
+                    33.2905264,
+                    50,
+                    130.1144405,
+                    33.2905264,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei63",
+        "name": "医療法人　きざと外科医院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　きざと外科医院</p>\n<p class=\"hospital_address\">鳥栖市原町８６１番地１</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.5294671,
+                33.38412064,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.5294671,
+                    33.38412064,
+                    50,
+                    130.5294671,
+                    33.38412064,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei64",
+        "name": "医療法人社団如水会  今村病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人社団如水会  今村病院</p>\n<p class=\"hospital_address\">鳥栖市轟木町１５２３番地６</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.5051252,
+                33.36776617,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.5051252,
+                    33.36776617,
+                    50,
+                    130.5051252,
+                    33.36776617,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei65",
+        "name": "医療法人　前山内科",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　前山内科</p>\n<p class=\"hospital_address\">鳥栖市宿町１４６５番地１</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.5012997,
+                33.38050411,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.5012997,
+                    33.38050411,
+                    50,
+                    130.5012997,
+                    33.38050411,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei66",
+        "name": "医療法人　野田内科",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　野田内科</p>\n<p class=\"hospital_address\">鳥栖市西田町２１１番地１</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.4912483,
+                33.34923084,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.4912483,
+                    33.34923084,
+                    50,
+                    130.4912483,
+                    33.34923084,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei67",
+        "name": "医療法人はらだ会はらだ内科胃腸科",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人はらだ会はらだ内科胃腸科</p>\n<p class=\"hospital_address\">鳥栖市鎗田町２８１番地３</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.5131659,
+                33.38039324,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.5131659,
+                    33.38039324,
+                    50,
+                    130.5131659,
+                    33.38039324,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei68",
+        "name": "こが医療館　明彦まきこクリニック",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> こが医療館　明彦まきこクリニック</p>\n<p class=\"hospital_address\">鳥栖市大正町７６４−５</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.5147882,
+                33.37603799,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.5147882,
+                    33.37603799,
+                    50,
+                    130.5147882,
+                    33.37603799,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei69",
+        "name": "医療法人清明会やよいがおか鹿毛病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人清明会やよいがおか鹿毛病院</p>\n<p class=\"hospital_address\">鳥栖市弥生が丘２丁目１４３番地</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.5224708,
+                33.40533621,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.5224708,
+                    33.40533621,
+                    50,
+                    130.5224708,
+                    33.40533621,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei70",
+        "name": "山下町クリニック",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 山下町クリニック</p>\n<p class=\"hospital_address\">唐津市山下町１１４１番地２</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                129.963012,
+                33.45116231,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    129.963012,
+                    33.45116231,
+                    50,
+                    129.963012,
+                    33.45116231,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei71",
+        "name": "医療法人松籟会  河畔病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人松籟会  河畔病院</p>\n<p class=\"hospital_address\">唐津市松南町１１９番地２</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                129.9971869,
+                33.43842926,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    129.9971869,
+                    33.43842926,
+                    50,
+                    129.9971869,
+                    33.43842926,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei72",
+        "name": "医療法人尚誠会　冬野病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人尚誠会　冬野病院</p>\n<p class=\"hospital_address\">唐津市相知町相知２２６４番地</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.0073369,
+                33.35148837,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.0073369,
+                    33.35148837,
+                    50,
+                    130.0073369,
+                    33.35148837,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei73",
+        "name": "医療法人春陽会　野口内科",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人春陽会　野口内科</p>\n<p class=\"hospital_address\">唐津市大名小路２番４４号</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                129.9722113,
+                33.45180148,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    129.9722113,
+                    33.45180148,
+                    50,
+                    129.9722113,
+                    33.45180148,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei74",
+        "name": "医療法人　いのうえ内科クリニック",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　いのうえ内科クリニック</p>\n<p class=\"hospital_address\">唐津市町田１丁目８番５号</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                129.9665868,
+                33.44309938,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    129.9665868,
+                    33.44309938,
+                    50,
+                    129.9665868,
+                    33.44309938,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei75",
+        "name": "町立太良病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 町立太良病院</p>\n<p class=\"hospital_address\">藤津郡太良町大字多良１５２０番地１２</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.1786925,
+                33.02695972,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.1786925,
+                    33.02695972,
+                    50,
+                    130.1786925,
+                    33.02695972,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei76",
+        "name": "医療法人養寿堂 まつお内科・眼科",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人養寿堂 まつお内科・眼科</p>\n<p class=\"hospital_address\">武雄市朝日町大字甘久１８５７番地</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.0414618,
+                33.21309094,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.0414618,
+                    33.21309094,
+                    50,
+                    130.0414618,
+                    33.21309094,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei77",
+        "name": "医療法人　たけお内科医院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　たけお内科医院</p>\n<p class=\"hospital_address\">武雄市武雄町大字昭和11番地２</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.0220582,
+                33.19423692,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.0220582,
+                    33.19423692,
+                    50,
+                    130.0220582,
+                    33.19423692,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei78",
+        "name": "医療法人　つちはし医院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　つちはし医院</p>\n<p class=\"hospital_address\">武雄市武雄町大字昭和７５番地</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.0247581,
+                33.19326206,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.0247581,
+                    33.19326206,
+                    50,
+                    130.0247581,
+                    33.19326206,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "yousei79",
+        "name": "医療法人敬和会  持田病院",
+        "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人敬和会  持田病院</p>\n<p class=\"hospital_address\">武雄市武雄町大字武雄５８５８番地１</p>\n\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+			"color": {
+                "rgba": [
+                    0,
+                    106,
+                    179,
+                    180
+                ]
+            }
+            ,"scale": 0.1,
+            "show": "true",
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.0092759,
+                33.18946499,
+                50
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.0092759,
+                    33.18946499,
+                    50,
+                    130.0092759,
+                    33.18946499,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]

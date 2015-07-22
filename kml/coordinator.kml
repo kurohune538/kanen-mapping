@@ -1,0 +1,2125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>肝炎コーディネーター</name>
+	<open>1</open>
+	<Style id="sh_000">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/00.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_26">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/26.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_12">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/12.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4dffffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_07">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_07</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_07</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_38">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_38</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_38</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_41</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_05">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/05.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_19">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/19.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_06">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/06.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_33">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/33.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4dffffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_27">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/27.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_36">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/36.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4cffffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_03">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_03</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_03</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_04">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/04.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4cffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_00">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/00.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4dffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_0000">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/00.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_18">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/18.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_11">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/11.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4dffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_02">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/02.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_26">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/26.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_35">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/35.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4dffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_24">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/24.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_0000">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/00.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_34">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/34.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_37">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/37.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4dffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_34">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/34.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_10">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/10.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4cffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_03">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/03.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_02">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_02</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_02</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_07">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/07.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4dffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_00">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/00.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4dffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_41">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/41.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4d666666</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_05">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/05.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_001">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/00.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4dffffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_09">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_09</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_09</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_09">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/09.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4cffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_40">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/40.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4cffffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_05">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_05</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_05</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_36">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_36</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_36</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_33">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_33</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_33</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_41">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/41.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4d666666</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_38">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/38.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4dffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_19">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/19.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_06">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/06.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_03">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/03.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_33">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/33.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4dffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_000">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/00.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_08">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_08</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_08</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_07">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/07.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4dffffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_06">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_06</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_06</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_26">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_26</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_26</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_12">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/12.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4dffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_18">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/18.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_34">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_34</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_34</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_40">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/40.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4cffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_11">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/11.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4dffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_02">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/02.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_35">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_35</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_35</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_04">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_04</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_04</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_36">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/36.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4cffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_01">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/01.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_27">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_27</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_27</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_08">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/08.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_01">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/01.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_24">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/24.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_0000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_0000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_24</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_09">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/09.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4cffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_10">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/10.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4cffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_04">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/04.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4cffffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_37">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_37</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_37</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_08">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/08.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_001">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/00.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4dffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_27">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/27.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00666666</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_38">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/38.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4dffffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_002">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_37">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/37.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4dffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_35">
+		<IconStyle>
+			<color>fdffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://kanen.mapping.jp/images/icon/35.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.05" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>4dffffff</color>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>江口 有一郎</name>
+		<address>佐賀県佐賀市 鍋島五丁目１番１号</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">江口 有一郎</p>
+<p class="hospital_name"> 佐賀大学　肝疾患センター</p>
+<p class="hospital_address"> 佐賀県佐賀市 鍋島五丁目１番１号</p>
+<p class="message"> 佐賀大学　肝疾患センターの江口です。
+ストップ！肝がんのためのグッド・チョイスを広めましょう！</p>
+
+</div>]]></description>
+		<styleUrl>#msn_01</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.266907,33.284693,2200</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>岩根　紳治</name>
+		<address>佐賀県佐賀市 鍋島五丁目１番１号</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">岩根　紳治</p>
+<p class="hospital_name"> 佐賀大学　肝疾患センター</p>
+<p class="hospital_address"> 佐賀県佐賀市 鍋島五丁目１番１号</p>
+<p class="message"> 佐賀大医学部の肝疾患センターで佐賀県の肝がんが減るように頑張っています！</p>
+
+</div>]]></description>
+		<styleUrl>#msn_02</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.266907,33.284693,1800</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>泉 夏美</name>
+		<address>佐賀県佐賀市 鍋島五丁目１番１号</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">泉 夏美</p>
+<p class="hospital_name"> 佐賀大学　肝疾患センター</p>
+<p class="hospital_address"> 佐賀県佐賀市 鍋島五丁目１番１号</p>
+<p class="message"> 佐賀はみんなで肝がん0を目指します。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_03</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.266907,33.284693,1400</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>黒木 司</name>
+		<address>佐賀県佐賀市 鍋島五丁目１番１号</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">黒木 司</p>
+<p class="hospital_name"> 佐賀大学　肝疾患センター
+</p>
+<p class="hospital_address"> 佐賀県佐賀市 鍋島五丁目１番１号</p>
+<p class="message"> 少しでも肝がんが減らせるようお手伝いさせていただきます。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_04</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.266907,33.284693,1000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>肝ちゃん</name>
+		<address>佐賀県佐賀市 鍋島五丁目１番１号</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">肝ちゃん</p>
+<p class="hospital_name"> 佐賀大学　肝疾患センター</p>
+<p class="hospital_address"> 佐賀県佐賀市 鍋島五丁目１番１号</p>
+<p class="message"> 佐賀県の肝がん対策ゆるキャラの「肝ちゃん」
+肝がんをやっつけるために、どこにでも出かけて行きま〜す。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_05</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.266907,33.284693,2600</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>江口 絵理子</name>
+		<address>佐賀県小城市三日月町金田1054-2</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">江口 絵理子</p>
+<p class="hospital_name"> 医療法人ロコメディカル江口病院</p>
+<p class="hospital_address"> 佐賀県小城市三日月町金田1054-2</p>
+<p class="message"> 薬剤師です。肝炎検査、お薬の飲み方や副作用のご相談など、お気軽にお声かけください。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_06</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.230819,33.260708,1800</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>倉田 順子</name>
+		<address>佐賀県小城市三日月町金田1054-2</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">倉田 順子</p>
+<p class="hospital_name"> 医療法人ロコメディカル江口病院</p>
+<p class="hospital_address"> 佐賀県小城市三日月町金田1054-2</p>
+<p class="message"> 医療ソーシャルワーカーです。肝炎治療に関する相談、お待ちしてます。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_07</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.230819,33.260708,1000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>藤木 佳那</name>
+		<address>佐賀県小城市三日月町金田1054-2</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">藤木 佳那</p>
+<p class="hospital_name"> 医療法人ロコメディカル江口病院</p>
+<p class="hospital_address"> 佐賀県小城市三日月町金田1054-2</p>
+<p class="message"> 肝炎コーディネーターのバッジを目印に、ご相談下さい。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_08</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.230819,33.260708,1400</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>伊東 享子</name>
+		<address>佐賀市城内1丁目1-59</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">伊東 享子</p>
+<p class="hospital_name"> 佐賀県国際経済・交流課　保健師</p>
+<p class="hospital_address"> 佐賀市城内1丁目1-59</p>
+<p class="message"> 県外でも肝炎対策がんばります！</p>
+
+</div>]]></description>
+		<styleUrl>#msn_09</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.298822,33.249367,1000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>堀野 麻由</name>
+		<address>東京都渋谷区宇田川町7-13</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">堀野 麻由</p>
+<p class="hospital_name"> NHK科学健康部</p>
+<p class="hospital_address"> 東京都渋谷区宇田川町7-13</p>
+<p class="message"> 肝炎ウイルス検査を受けましょう！そして周りへの呼びかけをお願いします！大事な家族や友人の命をみんなで守りましょう！</p>
+
+</div>]]></description>
+		<styleUrl>#msn_10</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>139.695907,35.663466,1000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>野方 美郷</name>
+		<address>佐賀県佐賀市城内2-15-8</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">野方 美郷</p>
+<p class="hospital_name"> NHK佐賀放送局</p>
+<p class="hospital_address"> 佐賀県佐賀市城内2-15-8</p>
+<p class="message"> 「NHKキャスターで全国初の肝炎コーディネーターキャスターです。NHK佐賀局では、平成２５年度から「佐賀県の課題」に取り組むべく「シリーズ　ストップ！肝がん」を企画し、「治療法」「克服した方のインタビュー」などキャスターが毎回取材して放送しています。そんなある日、いつもご協力くださっている江口有一郎教授（佐賀大学医学部肝疾患センター）から「NHKの皆さんにもぜひコーディネーターを目指してほしい」との一言！「はいっ！」と手を挙げたのが、堀野麻由・野方美郷の2人のキャスターでした。平成２５年10月5日（土）6日（日）に「B型肝炎」「C型肝炎」「肝がんの外科的治療」などの集中講義を佐賀大学で受け、その後多くの方にまじって研修し、試験も合格しました！江口教授は「“分かりやすく伝えるキャスターの能力”を活かして多くの人へ呼びかけるためにも、最新の正しい医学知識を習得してもらいたい。
+これもひとつの肝炎コーディネーターの役割と言える」とおっしゃってます。
+佐賀県の肝がんに対する取り組みは、今とてもヒートアップしています！頑張ります！」</p>
+
+</div>]]></description>
+		<styleUrl>#msn_11</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.303952,33.246556,1000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>鶴田 憲司</name>
+		<address>佐賀市今宿町５－５</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">鶴田 憲司</p>
+<p class="hospital_name"> がん対策NPOクレブスサポート 事務局長</p>
+<p class="hospital_address"> 佐賀市今宿町５－５</p>
+<p class="message"> 肝がん死亡率１４年連続全国ワースト１の汚名返上のために頑張りましょう。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_12</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.316596,33.247092,1000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>川原 千佳</name>
+		<address>佐賀市富士町大字梅野1721-1</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">川原 千佳</p>
+<p class="hospital_name"> キタ薬局中町店</p>
+<p class="hospital_address"> 佐賀県嬉野市塩田町大字馬場下甲７４２−５</p>
+<p class="message"> 肝炎ウイルス検査受けてください。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_00</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.059516,33.129547,1000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>白仁田 千恵子</name>
+		<open>1</open>
+		<address>佐賀市富士町大字梅野1721-1</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">白仁田 千恵子</p>
+<p class="hospital_name"> キタ薬局中町店</p>
+<p class="hospital_address"> 佐賀県嬉野市塩田町大字馬場下甲７４２−５</p>
+<p class="message"> 治療されてある方も、されてない方も気軽に相談して下さい。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_00</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.059516,33.129547,1400</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>山上 みずえ</name>
+		<open>1</open>
+		<address>佐賀市富士町大字梅野1721-1</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">山上 みずえ</p>
+<p class="hospital_name"> 佐賀市立富士大和温泉病院　外来
+</p>
+<p class="hospital_address"> 佐賀市富士町大字梅野1721-1</p>
+<p class="message"> 健診や受診の際肝炎について気になる場合は気軽にお尋ねください。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_002</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.249592,33.355904,1000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>野田 麻由</name>
+		<address>佐賀市富士町大字梅野1721-1</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">野田 麻由</p>
+<p class="hospital_name"> 佐賀市立富士大和温泉病院　外来
+</p>
+<p class="hospital_address"> 佐賀市富士町大字梅野1721-1</p>
+<p class="message"> 肝炎ウイルス検査を受けに来てくださいね！</p>
+
+</div>]]></description>
+		<styleUrl>#msn_000</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.249592,33.355904,1400</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>小城市民病院</name>
+		<address>佐賀県小城市小城町松尾4100</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">小城市民病院</p>
+<p class="hospital_name"> </p>
+<p class="hospital_address"> 佐賀県小城市小城町松尾4100</p>
+<p class="message"> 毎週火曜午前・木曜午前に肝臓内科診療を行っています。気軽にご来
+院ください。また糖尿病外来も火曜日午前中に診療しております。C
+型肝炎で糖尿病をお持ちの方は是非！！明るいスタッフがお待ちして
+おります。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_002</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.196842,33.295993,1400</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>松永 滝平</name>
+		<address>佐賀県小城市小城町松尾4100</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">松永 滝平</p>
+<p class="hospital_name"> 小城市民病院　臨床検査技師</p>
+<p class="hospital_address"> 佐賀県小城市小城町松尾4100</p>
+<p class="message"> 血液検査で分からない事があればご相談ください</p>
+
+</div>]]></description>
+		<styleUrl>#msn_18</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.196842,33.295993,6999.999999999999</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>溝口 博子</name>
+		<address>佐賀県小城市小城町松尾4100</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">溝口 博子</p>
+<p class="hospital_name"> 小城市民病院　看護師</p>
+<p class="hospital_address"> 佐賀県小城市小城町松尾4100</p>
+<p class="message"> 病棟で勤務してます。いつでもお声かけ下さいね。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_19</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.196842,33.295993,7400</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>北島 範子</name>
+		<address>佐賀県小城市小城町松尾4100</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">北島 範子</p>
+<p class="hospital_name"> 小城市民病院　看護師</p>
+<p class="hospital_address"> 佐賀県小城市小城町松尾4100</p>
+<p class="message"> 病棟勤務です。入院の際は気軽に声をかけて下さいね。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_001</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.196842,33.295993,2600</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>樋渡 貴代</name>
+		<address>佐賀県小城市小城町松尾4100</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">樋渡 貴代</p>
+<p class="hospital_name"> 小城市民病院　看護師</p>
+<p class="hospital_address"> 佐賀県小城市小城町松尾4100</p>
+<p class="message"> 外来勤務です。肝炎勉強中です。よろしくお願いします。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_001</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.196842,33.295993,3000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>平義 佐知子</name>
+		<address>佐賀県小城市小城町松尾4100</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">平義 佐知子</p>
+<p class="hospital_name"> 小城市民病院　看護師</p>
+<p class="hospital_address"> 佐賀県小城市小城町松尾4100</p>
+<p class="message"> 外来勤務です。初心者ですがよろしくお願いします。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_001</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.196842,33.295993,4600</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>久保 亮子</name>
+		<address>佐賀県小城市小城町松尾4100</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">久保 亮子</p>
+<p class="hospital_name"> 小城市民病院　看護師</p>
+<p class="hospital_address"> 佐賀県小城市小城町松尾4100</p>
+<p class="message"> 外来勤務です。まだまだ勉強中ですが、少しでもお役に立てたらと思
+います。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_001</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.196842,33.295993,5000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>中里 佳奈子</name>
+		<address>佐賀県小城市小城町松尾4100</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">中里 佳奈子</p>
+<p class="hospital_name"> 小城市民病院　看護師</p>
+<p class="hospital_address"> 佐賀県小城市小城町松尾4100</p>
+<p class="message"> 外来勤務です。妊婦検診などで陽性の方は気軽にご相談ください。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_24</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.196842,33.295993,5800</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>松浦 巳佳</name>
+		<address>佐賀県小城市小城町松尾4100</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">松浦 巳佳</p>
+<p class="hospital_name"> 小城市民病院　看護師</p>
+<p class="hospital_address"> 佐賀県小城市小城町松尾4100</p>
+<p class="message"> 外来勤務です。よろしくお願いします。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_001</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.196842,33.295993,3400</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>田中 英樹</name>
+		<address>佐賀県小城市小城町松尾4100</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">田中 英樹</p>
+<p class="hospital_name"> 小城市民病院　薬剤師</p>
+<p class="hospital_address"> 佐賀県小城市小城町松尾4100</p>
+<p class="message"> お薬の事なら、いつでも気軽にご相談ください。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_26</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.196842,33.295993,6200</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>畑野 瞳</name>
+		<address>佐賀県小城市小城町松尾4100</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">畑野 瞳</p>
+<p class="hospital_name"> 小城市民病院　薬剤師</p>
+<p class="hospital_address"> 佐賀県小城市小城町松尾4100</p>
+<p class="message"> 不勉強な点もあると思いますが、どうぞよろしくお願いします。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_27</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.196842,33.295993,6600</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>岡本 百合子</name>
+		<address>佐賀県小城市小城町松尾4100</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">岡本 百合子</p>
+<p class="hospital_name"> 小城市民病院　管理栄養士</p>
+<p class="hospital_address"> 佐賀県小城市小城町松尾4100</p>
+<p class="message"> 食事に関する事は気軽に相談して下さい。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_001</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.196842,33.295993,3800</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>山本 利恵</name>
+		<address>佐賀県小城市小城町松尾4100</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">山本 利恵</p>
+<p class="hospital_name"> 小城市民病院　医事�</p>
+<p class="hospital_address"> 佐賀県小城市小城町松尾4100</p>
+<p class="message"> まずは相談から・・</p>
+
+</div>]]></description>
+		<styleUrl>#msn_001</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.196842,33.295993,5400</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>岡本 香代子</name>
+		<address>佐賀県小城市小城町松尾4100</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">岡本 香代子</p>
+<p class="hospital_name"> 小城市民病院　医事�</p>
+<p class="hospital_address"> 佐賀県小城市小城町松尾4100</p>
+<p class="message"> 肝炎無料検診受けてみて下さい。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_001</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.196842,33.295993,4200</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>古賀 三重</name>
+		<address>佐賀県小城市小城町松尾4100</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">古賀 三重</p>
+<p class="hospital_name"> 小城市民病院　医事</p>
+<p class="hospital_address"> 佐賀県小城市小城町松尾4100</p>
+<p class="message"> 肝炎治療行かんばいかん！！</p>
+
+</div>]]></description>
+		<styleUrl>#msn_001</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.196842,33.295993,2200</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>副島 ひと美</name>
+		<address>佐賀県小城市小城町松尾4100</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">副島 ひと美</p>
+<p class="hospital_name"> 小城市民病院　医事</p>
+<p class="hospital_address"> 佐賀県小城市小城町松尾4100</p>
+<p class="message"> 小城市民病院に行かんばいかん！！</p>
+
+</div>]]></description>
+		<styleUrl>#msn_001</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.196842,33.295993,1800</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>田中 成子</name>
+		<address>嬉野市嬉野町大字下宿丙2436</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">田中 成子</p>
+<p class="hospital_name"> 独立行政法人国立病院機構　嬉野医療センター</p>
+<p class="hospital_address"> 嬉野市嬉野町大字下宿丙2436</p>
+<p class="message"> 肝炎についてのお尋ねがありましたら、気軽に相談して頂ければと思います。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_33</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>129.978454,33.098885,1000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>加賀良 節子</name>
+		<address>佐賀県西松浦郡有田町二ノ瀬甲８６０</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">加賀良 節子</p>
+<p class="hospital_name"> 伊万里有田共立病院</p>
+<p class="hospital_address"> 佐賀県西松浦郡有田町二ノ瀬甲８６０</p>
+<p class="message"> 私たちは病院で患者さんと触れ合いながら様々な相談に応じ、力になりたいと思っています。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_34</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>129.851272,33.239227,1400</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>山口 初江</name>
+		<address>佐賀県西松浦郡有田町二ノ瀬甲８６０</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">山口 初江</p>
+<p class="hospital_name"> 伊万里有田共立病院</p>
+<p class="hospital_address"> 佐賀県西松浦郡有田町二ノ瀬甲８６０</p>
+<p class="message"> 私たちは病院で患者さんと触れ合いながら様々な相談に応じ、力になりたいと思っています。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_35</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>129.851272,33.239227,1000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>大串 弘子</name>
+		<address>佐賀市嘉瀬町大字中原400</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">大串 弘子</p>
+<p class="hospital_name"> 佐賀医療センター好生館</p>
+<p class="hospital_address"> 佐賀市嘉瀬町大字中原400</p>
+<p class="message"> 治療に対する疑問や不安・相談も受けています。いつでも気軽に声をかけて下さい。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_36</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.269939,33.243938,1000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>松永 薫</name>
+		<address>佐賀市日の出1-20-1</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">松永 薫</p>
+<p class="hospital_name"> 独立行政法人国立病院機構　佐賀病院</p>
+<p class="hospital_address"> 佐賀市日の出1-20-1</p>
+<p class="message"> 肝炎コーディネーターが診察に同席し、安心して治療の継続や支援が受けられるようにサポートします</p>
+
+</div>]]></description>
+		<styleUrl>#msn_37</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.294008,33.275806,1000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>佐野 文乃</name>
+		<address>佐賀市兵庫南3-8-1</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">佐野 文乃</p>
+<p class="hospital_name"> 独立行政法人地域医療機能推進機構　佐賀中部病院</p>
+<p class="hospital_address"> 佐賀市兵庫南3-8-1</p>
+<p class="message"> 安心して受診・受療し頂けるようにお手伝いするのが私たちの役割です 。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_38</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>130.318414,33.264591,1000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>青木 由美子</name>
+		<address>佐賀県唐津市元旗町817</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">青木 由美子</p>
+<p class="hospital_name"> 社会福祉法人恩賜財団 済生会唐津病院</p>
+<p class="hospital_address"> 佐賀県唐津市元旗町817
+</p>
+<p class="message"> </p>
+
+</div>]]></description>
+		<styleUrl>#msn_40</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>129.963028,33.455065,1000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>丸尾 美紀</name>
+		<address>佐賀県唐津市二夕子1-5-1</address>
+		<snippet></snippet>
+		<description><![CDATA[<div class="coordinator_balloon">
+
+<p class="coordinator_name">丸尾 美紀</p>
+<p class="hospital_name"> 日本赤十字社　唐津赤十字病院</p>
+<p class="hospital_address"> 佐賀県唐津市二夕子1-5-1</p>
+<p class="message"> 私たち肝炎コーディネーターが医師の診察に同席しサポートします。安心して受診して下さい。</p>
+
+</div>]]></description>
+		<styleUrl>#msn_41</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>129.958803,33.460907,1000</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
