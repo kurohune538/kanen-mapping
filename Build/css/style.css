@@ -105,6 +105,52 @@ a:hover{
 	margin-left:-80px;
 }
 
+#icon_legend{
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+	padding: 5px 10px 10px;
+	background-color: rgba(255,255,255,0.9);
+	border-radius: 5px;
+	font-size: 14px;
+}
+
+.legends{
+    margin:10px 15px 5px 45px;
+}
+.legends:before{
+	content: "";
+	position: absolute;
+    width:26px;
+    height:26px;
+    -webkit-border-radius: 26px;
+    -moz-border-radius:26px;
+    border-radius:26px;
+    margin: -2px 0 0 -35px;
+}
+.legends:after{
+	content: "";
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	margin-top: 3px;
+	left: 25px;
+	background: #fff;
+	-webkit-border-radius: 16px;
+	-moz-border-radius: 16px;
+	border-radius: 16px;
+}
+
+.l_yellow:before{
+	background: rgb(255,190,0);
+}
+.l_green:before{
+	background: rgb(50,205,50);
+}
+.l_blue:before{
+	background: rgb(0,106,179);
+}
+
 .sharebutton {
 	position:absolute;
 	text-align:right;

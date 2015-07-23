@@ -40,6 +40,16 @@
 			<span class="icon-font">menu</span>
 		</div>
 	</div>
+
+	<div id="icon_legend">
+		<div class="legends l_yellow">
+		無料肝炎検査ができる医療機関</div>
+		<div class="legends l_green">
+		精密検査ができる医療機関</div>
+		<div class="legends l_blue">
+		肝炎治療を開始できる医療機関</div>
+	</div>
+
 	<div id="slide_menu"></div>
 		<div class="sharebutton">
 			<ul class="share-buttons">
@@ -154,7 +164,9 @@
 					var layers = viewer.imageryLayers;
 					osm = layers.addImageryProvider(newLayer);
 					osm.alpha = 1.0;
-					osm.brightness = 0.8;
+//					osm.brightness = 0.8;
+//					osm.saturation = 1.0;
+//					osm.contrast = 0.8;
 					setTimeout('blackOut(0)',3000);
 				}
 			}, 200);

@@ -1,1 +1,1 @@
-# kanen-mapping
+# kanenmapping
