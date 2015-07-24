@@ -1239,7 +1239,7 @@
     {
         "id": "coordinator29",
         "name": "山本 利恵",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/29.png\"><p class=\"coordinator_name\">山本 利恵</p><p class=\"hospital_name_coordinator\"> 小城市民病院　医事�</p><p class=\"hospital_address_coordinator\"> 佐賀県小城市小城町松尾4100</p></div><p class=\"message\">  まずは相談から・・</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/29.png\"><p class=\"coordinator_name\">山本 利恵</p><p class=\"hospital_name_coordinator\"> 小城市民病院　医事</p><p class=\"hospital_address_coordinator\"> 佐賀県小城市小城町松尾4100</p></div><p class=\"message\">  まずは相談から・・</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "http://kanenmapping.com/images/icon/29.png",
@@ -1283,7 +1283,7 @@
     {
         "id": "coordinator30",
         "name": "岡本 香代子",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/30.png\"><p class=\"coordinator_name\">岡本 香代子</p><p class=\"hospital_name_coordinator\"> 小城市民病院　医事�</p><p class=\"hospital_address_coordinator\"> 佐賀県小城市小城町松尾4100</p></div><p class=\"message\">  肝炎無料検診受けてみて下さい。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/30.png\"><p class=\"coordinator_name\">岡本 香代子</p><p class=\"hospital_name_coordinator\"> 小城市民病院　医事</p><p class=\"hospital_address_coordinator\"> 佐賀県小城市小城町松尾4100</p></div><p class=\"message\">  肝炎無料検診受けてみて下さい。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "http://kanenmapping.com/images/icon/30.png",
