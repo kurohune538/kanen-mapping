@@ -13,3 +13,19 @@ var menu = $('#slide_menu'),
 		}		     
 	});
 });    
+
+$(function(){
+var check = $('#icon_legend'),
+	checkBtn = $('#legend_button'),
+	body = $(document.body),	
+	checkWidth = check.outerWidth();	            
+		
+	checkBtn.on('click', function(){
+	body.toggleClass('open');
+		if(body.hasClass('open')){
+			check.animate({'left' : 60 }, 240);
+		} else {
+			check.animate({'left' : -500 }, 240);
+		}		     
+	});
+}); 
