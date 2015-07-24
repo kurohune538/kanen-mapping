@@ -1,7 +1,7 @@
 var gulp = require('gulp');
 var cssmin = require('gulp-cssmin');
 var jsmin = require('gulp-jsmin');
-
+var uglify = require('gulp-uglify');
 
 gulp.task('cssmin', function() {
 	gulp.src('./Build/css/*.css')
@@ -20,6 +20,12 @@ gulp.task('cssmin', function() {
 gulp.task('jsmin', function() {
 	gulp.src('./Build/Cesium/Cesium.js')
 		.pipe(jsmin())
+		.pipe(gulp.dest('./Build/Cesium/'));
+});
+
+gulp.task('uglify', function() {
+	gulp.src('./Build/Cesium/Cesium.js')
+		.pipe(uglify())
 		.pipe(gulp.dest('./Build/Cesium/'));
 });
 
