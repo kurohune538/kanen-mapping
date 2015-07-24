@@ -52,6 +52,8 @@ a:hover{
 	overflow:hidden;
 	padding:0px;
 	margin:0px;
+
+	background-color: red;
 }
 
 .cesium-infoBox-visible {
@@ -60,6 +62,27 @@ a:hover{
 	padding:0px;
 	margin:0px;
 }
+
+.coordinator_icon {
+
+}
+
+.coordinator_balloon {
+	background-color: red;
+}
+
+.coordinator_name {
+	background-color: green;
+}
+
+.hospital_name_coordinator {
+
+}
+
+.hospital_address_coordinator {
+
+}
+
 
 .sample {
 	position:absolute;
