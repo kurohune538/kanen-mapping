@@ -7,10 +7,10 @@
     {
         "id": "coordinator1",
         "name": "江口 有一郎",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/01.png\"><p class=\"coordinator_name\">江口 有一郎</p><p class=\"hospital_name_coordinator\"> 佐賀大学　肝疾患センター</p><p class=\"hospital_address_coordinator\"> 佐賀県佐賀市 鍋島五丁目１番１号</p></div><p class=\"message\">  佐賀大学　肝疾患センターの江口です。ストップ！肝がんのためのグッド・チョイスを広めましょう！</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/01.png\"><p class=\"coordinator_name\">江口 有一郎</p><p class=\"hospital_name_coordinator\">佐賀大学　肝疾患センター</p><p class=\"hospital_address_coordinator\">佐賀県佐賀市 鍋島五丁目１番１号</p></div><p class=\"message\">佐賀大学　肝疾患センターの江口です。ストップ！肝がんのためのグッド・チョイスを広めましょう！</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/01.png",
+            "image": "http://localhost:8080/images/icon/01.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -51,10 +51,10 @@
     {
         "id": "coordinator2",
         "name": "岩根　紳治",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/02.png\"><p class=\"coordinator_name\">岩根　紳治</p><p class=\"hospital_name_coordinator\"> 佐賀大学　肝疾患センター</p><p class=\"hospital_address_coordinator\"> 佐賀県佐賀市 鍋島五丁目１番１号</p></div><p class=\"message\">  佐賀大医学部の肝疾患センターで佐賀県の肝がんが減るように頑張っています！</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/02.png\"><p class=\"coordinator_name\">岩根　紳治</p><p class=\"hospital_name_coordinator\">佐賀大学　肝疾患センター</p><p class=\"hospital_address_coordinator\">佐賀県佐賀市 鍋島五丁目１番１号</p></div><p class=\"message\">佐賀大医学部の肝疾患センターで佐賀県の肝がんが減るように頑張っています！</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/02.png",
+            "image": "http://localhost:8080/images/icon/02.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -95,10 +95,10 @@
     {
         "id": "coordinator3",
         "name": "泉 夏美",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/03.png\"><p class=\"coordinator_name\">泉 夏美</p><p class=\"hospital_name_coordinator\"> 佐賀大学　肝疾患センター</p><p class=\"hospital_address_coordinator\"> 佐賀県佐賀市 鍋島五丁目１番１号</p></div><p class=\"message\">  佐賀はみんなで肝がん0を目指します。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/03.png\"><p class=\"coordinator_name\">泉 夏美</p><p class=\"hospital_name_coordinator\">佐賀大学　肝疾患センター</p><p class=\"hospital_address_coordinator\">佐賀県佐賀市 鍋島五丁目１番１号</p></div><p class=\"message\">佐賀はみんなで肝がん0を目指します。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/03.png",
+            "image": "http://localhost:8080/images/icon/03.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -139,10 +139,10 @@
     {
         "id": "coordinator4",
         "name": "黒木 司",
-        "description": "<div class=\"V\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/04.png\"><p class=\"coordinator_name\">黒木 司</p><p class=\"hospital_name_coordinator\"> 佐賀大学　肝疾患センター</p><p class=\"hospital_address_coordinator\"> 佐賀県佐賀市 鍋島五丁目１番１号</p></div><p class=\"message\">  少しでも肝がんが減らせるようお手伝いさせていただきます。</p></div>",
+        "description": "<div class=\"V\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/04.png\"><p class=\"coordinator_name\">黒木 司</p><p class=\"hospital_name_coordinator\">佐賀大学　肝疾患センター</p><p class=\"hospital_address_coordinator\">佐賀県佐賀市 鍋島五丁目１番１号</p></div><p class=\"message\">少しでも肝がんが減らせるようお手伝いさせていただきます。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/04.png",
+            "image": "http://localhost:8080/images/icon/04.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -183,10 +183,10 @@
     {
         "id": "coordinator5",
         "name": "肝ちゃん",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/05.png\"><p class=\"coordinator_name\">肝ちゃん</p><p class=\"hospital_name_coordinator\"> 佐賀大学　肝疾患センター</p><p class=\"hospital_address_coordinator\"> 佐賀県佐賀市 鍋島五丁目１番１号</p></div><p class=\"message\">  佐賀県の肝がん対策ゆるキャラの「肝ちゃん」肝がんをやっつけるために、どこにでも出かけて行きま〜す。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/05.png\"><p class=\"coordinator_name\">肝ちゃん</p><p class=\"hospital_name_coordinator\">佐賀大学　肝疾患センター</p><p class=\"hospital_address_coordinator\">佐賀県佐賀市 鍋島五丁目１番１号</p></div><p class=\"message\">佐賀県の肝がん対策ゆるキャラの「肝ちゃん」肝がんをやっつけるために、どこにでも出かけて行きま〜す。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/05.png",
+            "image": "http://localhost:8080/images/icon/05.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -227,10 +227,10 @@
     {
         "id": "coordinator6",
         "name": "江口 絵理子",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/06.png\"><p class=\"coordinator_name\">江口 絵理子</p><p class=\"hospital_name_coordinator\"> 医療法人ロコメディカル江口病院</p><p class=\"hospital_address_coordinator\"> 佐賀県小城市三日月町金田1054-2</p></div><p class=\"message\">  薬剤師です。肝炎検査、お薬の飲み方や副作用のご相談など、お気軽にお声かけください。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/06.png\"><p class=\"coordinator_name\">江口 絵理子</p><p class=\"hospital_name_coordinator\">医療法人ロコメディカル江口病院</p><p class=\"hospital_address_coordinator\">佐賀県小城市三日月町金田1054-2</p></div><p class=\"message\">薬剤師です。肝炎検査、お薬の飲み方や副作用のご相談など、お気軽にお声かけください。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/06.png",
+            "image": "http://localhost:8080/images/icon/06.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -271,10 +271,10 @@
     {
         "id": "coordinator7",
         "name": "倉田 順子",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/07.png\"><p class=\"coordinator_name\">倉田 順子</p><p class=\"hospital_name_coordinator\"> 医療法人ロコメディカル江口病院</p><p class=\"hospital_address_coordinator\"> 佐賀県小城市三日月町金田1054-2</p></div><p class=\"message\">  医療ソーシャルワーカーです。肝炎治療に関する相談、お待ちしてます。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/07.png\"><p class=\"coordinator_name\">倉田 順子</p><p class=\"hospital_name_coordinator\">医療法人ロコメディカル江口病院</p><p class=\"hospital_address_coordinator\">佐賀県小城市三日月町金田1054-2</p></div><p class=\"message\">医療ソーシャルワーカーです。肝炎治療に関する相談、お待ちしてます。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/07.png",
+            "image": "http://localhost:8080/images/icon/07.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -315,10 +315,10 @@
     {
         "id": "coordinator8",
         "name": "藤木 佳那",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/08.png\"><p class=\"coordinator_name\">藤木 佳那</p><p class=\"hospital_name_coordinator\"> 医療法人ロコメディカル江口病院</p><p class=\"hospital_address_coordinator\"> 佐賀県小城市三日月町金田1054-2</p></div><p class=\"message\">  肝炎コーディネーターのバッジを目印に、ご相談下さい。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/08.png\"><p class=\"coordinator_name\">藤木 佳那</p><p class=\"hospital_name_coordinator\">医療法人ロコメディカル江口病院</p><p class=\"hospital_address_coordinator\">佐賀県小城市三日月町金田1054-2</p></div><p class=\"message\">肝炎コーディネーターのバッジを目印に、ご相談下さい。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/08.png",
+            "image": "http://localhost:8080/images/icon/08.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -359,10 +359,10 @@
     {
         "id": "coordinator9",
         "name": "伊東 享子",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/09.png\"><p class=\"coordinator_name\">伊東 享子</p><p class=\"hospital_name_coordinator\"> 佐賀県国際経済・交流課　保健師</p><p class=\"hospital_address_coordinator\"> 佐賀市城内1丁目1-59</p></div><p class=\"message\">  県外でも肝炎対策がんばります！</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/09.png\"><p class=\"coordinator_name\">伊東 享子</p><p class=\"hospital_name_coordinator\">佐賀県国際経済・交流課　保健師</p><p class=\"hospital_address_coordinator\">佐賀市城内1丁目1-59</p></div><p class=\"message\">県外でも肝炎対策がんばります！</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/09.png",
+            "image": "http://localhost:8080/images/icon/09.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -403,10 +403,10 @@
     {
         "id": "coordinator10",
         "name": "堀野 麻由",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/10.png\"><p class=\"coordinator_name\">堀野 麻由</p><p class=\"hospital_name_coordinator\"> NHK科学健康部</p><p class=\"hospital_address_coordinator\"> 東京都渋谷区宇田川町7-13</p></div><p class=\"message\">  肝炎ウイルス検査を受けましょう！そして周りへの呼びかけをお願いします！大事な家族や友人の命をみんなで守りましょう！</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/10.png\"><p class=\"coordinator_name\">堀野 麻由</p><p class=\"hospital_name_coordinator\">NHK科学健康部</p><p class=\"hospital_address_coordinator\">東京都渋谷区宇田川町7-13</p></div><p class=\"message\">肝炎ウイルス検査を受けましょう！そして周りへの呼びかけをお願いします！大事な家族や友人の命をみんなで守りましょう！</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/10.png",
+            "image": "http://localhost:8080/images/icon/10.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -447,10 +447,10 @@
     {
         "id": "coordinator11",
         "name": "野方 美郷",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/11.png\"><p class=\"coordinator_name\">野方 美郷</p><p class=\"hospital_name_coordinator\"> NHK佐賀放送局</p><p class=\"hospital_address_coordinator\"> 佐賀県佐賀市城内2-15-8</p></div><p class=\"message\">  「NHKキャスターで全国初の肝炎コーディネーターキャスターです。NHK佐賀局では、平成２５年度から「佐賀県の課題」に取り組むべく「シリーズ　ストップ！肝がん」を企画し、「治療法」「克服した方のインタビュー」などキャスターが毎回取材して放送しています。そんなある日、いつもご協力くださっている江口有一郎教授（佐賀大学医学部肝疾患センター）から「NHKの皆さんにもぜひコーディネーターを目指してほしい」との一言！「はいっ！」と手を挙げたのが、堀野麻由・野方美郷の2人のキャスターでした。平成２５年10月5日（土）6日（日）に「B型肝炎」「C型肝炎」「肝がんの外科的治療」などの集中講義を佐賀大学で受け、その後多くの方にまじって研修し、試験も合格しました！江口教授は「“分かりやすく伝えるキャスターの能力”を活かして多くの人へ呼びかけるためにも、最新の正しい医学知識を習得してもらいたい。これもひとつの肝炎コーディネーターの役割と言える」とおっしゃってます。佐賀県の肝がんに対する取り組みは、今とてもヒートアップしています！頑張ります！」</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/11.png\"><p class=\"coordinator_name\">野方 美郷</p><p class=\"hospital_name_coordinator\">NHK佐賀放送局</p><p class=\"hospital_address_coordinator\">佐賀県佐賀市城内2-15-8</p></div><p class=\"message\">「NHKキャスターで全国初の肝炎コーディネーターキャスターです。NHK佐賀局では、平成２５年度から「佐賀県の課題」に取り組むべく「シリーズ　ストップ！肝がん」を企画し、「治療法」「克服した方のインタビュー」などキャスターが毎回取材して放送しています。そんなある日、いつもご協力くださっている江口有一郎教授（佐賀大学医学部肝疾患センター）から「NHKの皆さんにもぜひコーディネーターを目指してほしい」との一言！「はいっ！」と手を挙げたのが、堀野麻由・野方美郷の2人のキャスターでした。平成２５年10月5日（土）6日（日）に「B型肝炎」「C型肝炎」「肝がんの外科的治療」などの集中講義を佐賀大学で受け、その後多くの方にまじって研修し、試験も合格しました！江口教授は「“分かりやすく伝えるキャスターの能力”を活かして多くの人へ呼びかけるためにも、最新の正しい医学知識を習得してもらいたい。これもひとつの肝炎コーディネーターの役割と言える」とおっしゃってます。佐賀県の肝がんに対する取り組みは、今とてもヒートアップしています！頑張ります！」</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/11.png",
+            "image": "http://localhost:8080/images/icon/11.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -491,10 +491,10 @@
     {
         "id": "coordinator12",
         "name": "鶴田 憲司",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/12.png\"><p class=\"coordinator_name\">鶴田 憲司</p><p class=\"hospital_name_coordinator\"> がん対策NPOクレブスサポート 事務局長</p><p class=\"hospital_address_coordinator\"> 佐賀市今宿町５－５</p></div><p class=\"message\">  肝がん死亡率１４年連続全国ワースト１の汚名返上のために頑張りましょう。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/12.png\"><p class=\"coordinator_name\">鶴田 憲司</p><p class=\"hospital_name_coordinator\">がん対策NPOクレブスサポート 事務局長</p><p class=\"hospital_address_coordinator\">佐賀市今宿町５－５</p></div><p class=\"message\">肝がん死亡率１４年連続全国ワースト１の汚名返上のために頑張りましょう。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/12.png",
+            "image": "http://localhost:8080/images/icon/12.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -535,10 +535,10 @@
     {
         "id": "coordinator13",
         "name": "川原 千佳",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/13.png\"><p class=\"coordinator_name\">川原 千佳</p><p class=\"hospital_name_coordinator\"> キタ薬局中町店</p><p class=\"hospital_address_coordinator\"> 佐賀県嬉野市塩田町大字馬場下甲７４２−５</p></div><p class=\"message\">  肝炎ウイルス検査受けてください。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/13.png\"><p class=\"coordinator_name\">川原 千佳</p><p class=\"hospital_name_coordinator\">キタ薬局中町店</p><p class=\"hospital_address_coordinator\">佐賀県嬉野市塩田町大字馬場下甲７４２−５</p></div><p class=\"message\">肝炎ウイルス検査受けてください。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/13.png",
+            "image": "http://localhost:8080/images/icon/13.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -579,10 +579,10 @@
     {
         "id": "coordinator14",
         "name": "白仁田 千恵子",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/14.png\"><p class=\"coordinator_name\">白仁田 千恵子</p><p class=\"hospital_name_coordinator\"> キタ薬局中町店</p><p class=\"hospital_address_coordinator\"> 佐賀県嬉野市塩田町大字馬場下甲７４２−５</p></div><p class=\"message\">  治療されてある方も、されてない方も気軽に相談して下さい。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/14.png\"><p class=\"coordinator_name\">白仁田 千恵子</p><p class=\"hospital_name_coordinator\">キタ薬局中町店</p><p class=\"hospital_address_coordinator\">佐賀県嬉野市塩田町大字馬場下甲７４２−５</p></div><p class=\"message\">治療されてある方も、されてない方も気軽に相談して下さい。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/14.png",
+            "image": "http://localhost:8080/images/icon/14.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -623,10 +623,10 @@
     {
         "id": "coordinator15",
         "name": "山上 みずえ",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/15.png\"><p class=\"coordinator_name\">山上 みずえ</p><p class=\"hospital_name_coordinator\"> 佐賀市立富士大和温泉病院　外来</p><p class=\"hospital_address_coordinator\"> 佐賀市富士町大字梅野1721-1</p></div><p class=\"message\">  健診や受診の際肝炎について気になる場合は気軽にお尋ねください。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/15.png\"><p class=\"coordinator_name\">山上 みずえ</p><p class=\"hospital_name_coordinator\">佐賀市立富士大和温泉病院　外来</p><p class=\"hospital_address_coordinator\">佐賀市富士町大字梅野1721-1</p></div><p class=\"message\">健診や受診の際肝炎について気になる場合は気軽にお尋ねください。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/15.png",
+            "image": "http://localhost:8080/images/icon/15.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -667,10 +667,10 @@
     {
         "id": "coordinator16",
         "name": "野田 麻由",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/16.png\"><p class=\"coordinator_name\">野田 麻由</p><p class=\"hospital_name_coordinator\"> 佐賀市立富士大和温泉病院　外来</p><p class=\"hospital_address_coordinator\"> 佐賀市富士町大字梅野1721-1</p></div><p class=\"message\">  肝炎ウイルス検査を受けに来てくださいね！</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/16.png\"><p class=\"coordinator_name\">野田 麻由</p><p class=\"hospital_name_coordinator\">佐賀市立富士大和温泉病院　外来</p><p class=\"hospital_address_coordinator\">佐賀市富士町大字梅野1721-1</p></div><p class=\"message\">肝炎ウイルス検査を受けに来てくださいね！</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/16.png",
+            "image": "http://localhost:8080/images/icon/16.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -711,10 +711,10 @@
     {
         "id": "coordinator17",
         "name": "小城市民病院",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/17.png\"><p class=\"coordinator_name\">小城市民病院</p><p class=\"hospital_name_coordinator\"> </p><p class=\"hospital_address_coordinator\"> 佐賀県小城市小城町松尾4100</p></div><p class=\"message\">  毎週火曜午前・木曜午前に肝臓内科診療を行っています。気軽にご来院ください。また糖尿病外来も火曜日午前中に診療しております。C型肝炎で糖尿病をお持ちの方は是非！！明るいスタッフがお待ちしております。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/17.png\"><p class=\"coordinator_name\">小城市民病院</p><p class=\"hospital_name_coordinator\"></p><p class=\"hospital_address_coordinator\">佐賀県小城市小城町松尾4100</p></div><p class=\"message\">毎週火曜午前・木曜午前に肝臓内科診療を行っています。気軽にご来院ください。また糖尿病外来も火曜日午前中に診療しております。C型肝炎で糖尿病をお持ちの方は是非！！明るいスタッフがお待ちしております。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/17.png",
+            "image": "http://localhost:8080/images/icon/17.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -755,10 +755,10 @@
     {
         "id": "coordinator18",
         "name": "松永 滝平",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/18.png\"><p class=\"coordinator_name\">松永 滝平</p><p class=\"hospital_name_coordinator\"> 小城市民病院　臨床検査技師</p><p class=\"hospital_address_coordinator\"> 佐賀県小城市小城町松尾4100</p></div><p class=\"message\">  血液検査で分からない事があればご相談ください</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/18.png\"><p class=\"coordinator_name\">松永 滝平</p><p class=\"hospital_name_coordinator\">小城市民病院　臨床検査技師</p><p class=\"hospital_address_coordinator\">佐賀県小城市小城町松尾4100</p></div><p class=\"message\">血液検査で分からない事があればご相談ください</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/18.png",
+            "image": "http://localhost:8080/images/icon/18.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -799,10 +799,10 @@
     {
         "id": "coordinator19",
         "name": "溝口 博子",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/19.png\"><p class=\"coordinator_name\">溝口 博子</p><p class=\"hospital_name_coordinator\"> 小城市民病院　看護師</p><p class=\"hospital_address_coordinator\"> 佐賀県小城市小城町松尾4100</p></div><p class=\"message\"> 病棟で勤務してます。いつでもお声かけ下さいね。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/19.png\"><p class=\"coordinator_name\">溝口 博子</p><p class=\"hospital_name_coordinator\">小城市民病院　看護師</p><p class=\"hospital_address_coordinator\">佐賀県小城市小城町松尾4100</p></div><p class=\"message\">病棟で勤務してます。いつでもお声かけ下さいね。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/19.png",
+            "image": "http://localhost:8080/images/icon/19.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -843,10 +843,10 @@
     {
         "id": "coordinator20",
         "name": "北島 範子",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/20.png\"><p class=\"coordinator_name\">北島 範子</p><p class=\"hospital_name_coordinator\"> 小城市民病院　看護師</p><p class=\"hospital_address_coordinator\"> 佐賀県小城市小城町松尾4100</p></div><p class=\"message\">  病棟勤務です。入院の際は気軽に声をかけて下さいね。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/20.png\"><p class=\"coordinator_name\">北島 範子</p><p class=\"hospital_name_coordinator\">小城市民病院　看護師</p><p class=\"hospital_address_coordinator\">佐賀県小城市小城町松尾4100</p></div><p class=\"message\">病棟勤務です。入院の際は気軽に声をかけて下さいね。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/20.png",
+            "image": "http://localhost:8080/images/icon/20.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -887,10 +887,10 @@
     {
         "id": "coordinator21",
         "name": "樋渡 貴代",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/21.png\"><p class=\"coordinator_name\">樋渡 貴代</p><p class=\"hospital_name_coordinator\"> 小城市民病院　看護師</p><p class=\"hospital_address_coordinator\"> 佐賀県小城市小城町松尾4100</p></div><p class=\"message\">  外来勤務です。肝炎勉強中です。よろしくお願いします。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/21.png\"><p class=\"coordinator_name\">樋渡 貴代</p><p class=\"hospital_name_coordinator\">小城市民病院　看護師</p><p class=\"hospital_address_coordinator\">佐賀県小城市小城町松尾4100</p></div><p class=\"message\">外来勤務です。肝炎勉強中です。よろしくお願いします。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/21.png",
+            "image": "http://localhost:8080/images/icon/21.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -931,10 +931,10 @@
     {
         "id": "coordinator22",
         "name": "平義 佐知子",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/22.png\"><p class=\"coordinator_name\">平義 佐知子</p><p class=\"hospital_name_coordinator\"> 小城市民病院　看護師</p><p class=\"hospital_address_coordinator\"> 佐賀県小城市小城町松尾4100</p></div><p class=\"message\">  外来勤務です。初心者ですがよろしくお願いします。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/22.png\"><p class=\"coordinator_name\">平義 佐知子</p><p class=\"hospital_name_coordinator\">小城市民病院　看護師</p><p class=\"hospital_address_coordinator\">佐賀県小城市小城町松尾4100</p></div><p class=\"message\">外来勤務です。初心者ですがよろしくお願いします。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/22.png",
+            "image": "http://localhost:8080/images/icon/22.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -975,10 +975,10 @@
     {
         "id": "coordinator23",
         "name": "久保 亮子",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/23.png\"><p class=\"coordinator_name\">久保 亮子</p><p class=\"hospital_name_coordinator\"> 小城市民病院　看護師</p><p class=\"hospital_address_coordinator\"> 佐賀県小城市小城町松尾4100</p></div><p class=\"message\">  外来勤務です。まだまだ勉強中ですが、少しでもお役に立てたらと思います。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/23.png\"><p class=\"coordinator_name\">久保 亮子</p><p class=\"hospital_name_coordinator\">小城市民病院　看護師</p><p class=\"hospital_address_coordinator\">佐賀県小城市小城町松尾4100</p></div><p class=\"message\">外来勤務です。まだまだ勉強中ですが、少しでもお役に立てたらと思います。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/23.png",
+            "image": "http://localhost:8080/images/icon/23.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -1019,10 +1019,10 @@
     {
         "id": "coordinator24",
         "name": "中里 佳奈子",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/24.png\"><p class=\"coordinator_name\">中里 佳奈子</p><p class=\"hospital_name_coordinator\"> 小城市民病院　看護師</p><p class=\"hospital_address_coordinator\"> 佐賀県小城市小城町松尾4100</p></div><p class=\"message\">  外来勤務です。妊婦検診などで陽性の方は気軽にご相談ください。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/24.png\"><p class=\"coordinator_name\">中里 佳奈子</p><p class=\"hospital_name_coordinator\">小城市民病院　看護師</p><p class=\"hospital_address_coordinator\">佐賀県小城市小城町松尾4100</p></div><p class=\"message\">外来勤務です。妊婦検診などで陽性の方は気軽にご相談ください。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/24.png",
+            "image": "http://localhost:8080/images/icon/24.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -1063,10 +1063,10 @@
     {
         "id": "coordinator25",
         "name": "松浦 巳佳",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/25.png\"><p class=\"coordinator_name\">松浦 巳佳</p><p class=\"hospital_name_coordinator\"> 小城市民病院　看護師</p><p class=\"hospital_address_coordinator\"> 佐賀県小城市小城町松尾4100</p></div><p class=\"message\">  外来勤務です。よろしくお願いします。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/25.png\"><p class=\"coordinator_name\">松浦 巳佳</p><p class=\"hospital_name_coordinator\">小城市民病院　看護師</p><p class=\"hospital_address_coordinator\">佐賀県小城市小城町松尾4100</p></div><p class=\"message\">外来勤務です。よろしくお願いします。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/25.png",
+            "image": "http://localhost:8080/images/icon/25.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -1107,10 +1107,10 @@
     {
         "id": "coordinator26",
         "name": "田中 英樹",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/26.png\"><p class=\"coordinator_name\">田中 英樹</p><p class=\"hospital_name_coordinator\"> 小城市民病院　薬剤師</p><p class=\"hospital_address_coordinator\"> 佐賀県小城市小城町松尾4100</p></div><p class=\"message\">  お薬の事なら、いつでも気軽にご相談ください。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/26.png\"><p class=\"coordinator_name\">田中 英樹</p><p class=\"hospital_name_coordinator\">小城市民病院　薬剤師</p><p class=\"hospital_address_coordinator\">佐賀県小城市小城町松尾4100</p></div><p class=\"message\">お薬の事なら、いつでも気軽にご相談ください。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/26.png",
+            "image": "http://localhost:8080/images/icon/26.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -1151,10 +1151,10 @@
     {
         "id": "coordinator27",
         "name": "畑野 瞳",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/27.png\"><p class=\"coordinator_name\">畑野 瞳</p><p class=\"hospital_name_coordinator\"> 小城市民病院　薬剤師</p><p class=\"hospital_address_coordinator\"> 佐賀県小城市小城町松尾4100</p></div><p class=\"message\">  不勉強な点もあると思いますが、どうぞよろしくお願いします。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/27.png\"><p class=\"coordinator_name\">畑野 瞳</p><p class=\"hospital_name_coordinator\">小城市民病院　薬剤師</p><p class=\"hospital_address_coordinator\">佐賀県小城市小城町松尾4100</p></div><p class=\"message\">不勉強な点もあると思いますが、どうぞよろしくお願いします。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/27.png",
+            "image": "http://localhost:8080/images/icon/27.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -1195,10 +1195,10 @@
     {
         "id": "coordinator28",
         "name": "岡本 百合子",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/28.png\"><p class=\"coordinator_name\">岡本 百合子</p><p class=\"hospital_name_coordinator\"> 小城市民病院　管理栄養士</p><p class=\"hospital_address_coordinator\"> 佐賀県小城市小城町松尾4100</p></div><p class=\"message\">  食事に関する事は気軽に相談して下さい。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/28.png\"><p class=\"coordinator_name\">岡本 百合子</p><p class=\"hospital_name_coordinator\">小城市民病院　管理栄養士</p><p class=\"hospital_address_coordinator\">佐賀県小城市小城町松尾4100</p></div><p class=\"message\">食事に関する事は気軽に相談して下さい。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/28.png",
+            "image": "http://localhost:8080/images/icon/28.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -1239,10 +1239,10 @@
     {
         "id": "coordinator29",
         "name": "山本 利恵",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/29.png\"><p class=\"coordinator_name\">山本 利恵</p><p class=\"hospital_name_coordinator\"> 小城市民病院　医事</p><p class=\"hospital_address_coordinator\"> 佐賀県小城市小城町松尾4100</p></div><p class=\"message\">  まずは相談から・・</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/29.png\"><p class=\"coordinator_name\">山本 利恵</p><p class=\"hospital_name_coordinator\">小城市民病院　医事�</p><p class=\"hospital_address_coordinator\">佐賀県小城市小城町松尾4100</p></div><p class=\"message\">まずは相談から・・</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/29.png",
+            "image": "http://localhost:8080/images/icon/29.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -1283,10 +1283,10 @@
     {
         "id": "coordinator30",
         "name": "岡本 香代子",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/30.png\"><p class=\"coordinator_name\">岡本 香代子</p><p class=\"hospital_name_coordinator\"> 小城市民病院　医事</p><p class=\"hospital_address_coordinator\"> 佐賀県小城市小城町松尾4100</p></div><p class=\"message\">  肝炎無料検診受けてみて下さい。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/30.png\"><p class=\"coordinator_name\">岡本 香代子</p><p class=\"hospital_name_coordinator\">小城市民病院　医事�</p><p class=\"hospital_address_coordinator\">佐賀県小城市小城町松尾4100</p></div><p class=\"message\">肝炎無料検診受けてみて下さい。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/30.png",
+            "image": "http://localhost:8080/images/icon/30.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -1327,10 +1327,10 @@
     {
         "id": "coordinator31",
         "name": "古賀 三重",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/31.png\"><p class=\"coordinator_name\">古賀 三重</p><p class=\"hospital_name_coordinator\"> 小城市民病院　医事</p><p class=\"hospital_address_coordinator\"> 佐賀県小城市小城町松尾4100</p></div><p class=\"message\">  肝炎治療行かんばいかん！！</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/31.png\"><p class=\"coordinator_name\">古賀 三重</p><p class=\"hospital_name_coordinator\">小城市民病院　医事</p><p class=\"hospital_address_coordinator\">佐賀県小城市小城町松尾4100</p></div><p class=\"message\">肝炎治療行かんばいかん！！</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/31.png",
+            "image": "http://localhost:8080/images/icon/31.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -1371,10 +1371,10 @@
     {
         "id": "coordinator32",
         "name": "副島 ひと美",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/32.png\"><p class=\"coordinator_name\">副島 ひと美</p><p class=\"hospital_name_coordinator\"> 小城市民病院　医事</p><p class=\"hospital_address_coordinator\"> 佐賀県小城市小城町松尾4100</p></div><p class=\"message\">  小城市民病院に行かんばいかん！！</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/32.png\"><p class=\"coordinator_name\">副島 ひと美</p><p class=\"hospital_name_coordinator\">小城市民病院　医事</p><p class=\"hospital_address_coordinator\">佐賀県小城市小城町松尾4100</p></div><p class=\"message\">小城市民病院に行かんばいかん！！</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/32.png",
+            "image": "http://localhost:8080/images/icon/32.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -1415,10 +1415,10 @@
     {
         "id": "coordinator33",
         "name": "田中 成子",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/33.png\"><p class=\"coordinator_name\">田中 成子</p><p class=\"hospital_name_coordinator\"> 独立行政法人国立病院機構　嬉野医療センター</p><p class=\"hospital_address_coordinator\"> 嬉野市嬉野町大字下宿丙2436</p></div><p class=\"message\">  肝炎についてのお尋ねがありましたら、気軽に相談して頂ければと思います。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/33.png\"><p class=\"coordinator_name\">田中 成子</p><p class=\"hospital_name_coordinator\">独立行政法人国立病院機構　嬉野医療センター</p><p class=\"hospital_address_coordinator\">嬉野市嬉野町大字下宿丙2436</p></div><p class=\"message\">肝炎についてのお尋ねがありましたら、気軽に相談して頂ければと思います。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/33.png",
+            "image": "http://localhost:8080/images/icon/33.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -1459,10 +1459,10 @@
     {
         "id": "coordinator34",
         "name": "加賀良 節子",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/34.png\"><p class=\"coordinator_name\">加賀良 節子</p><p class=\"hospital_name_coordinator\"> 伊万里有田共立病院</p><p class=\"hospital_address_coordinator\"> 佐賀県西松浦郡有田町二ノ瀬甲８６０</p></div><p class=\"message\">  私たちは病院で患者さんと触れ合いながら様々な相談に応じ、力になりたいと思っています。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/34.png\"><p class=\"coordinator_name\">加賀良 節子</p><p class=\"hospital_name_coordinator\">伊万里有田共立病院</p><p class=\"hospital_address_coordinator\">佐賀県西松浦郡有田町二ノ瀬甲８６０</p></div><p class=\"message\">私たちは病院で患者さんと触れ合いながら様々な相談に応じ、力になりたいと思っています。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/34.png",
+            "image": "http://localhost:8080/images/icon/34.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -1503,10 +1503,10 @@
     {
         "id": "coordinator35",
         "name": "山口 初江",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/35.png\"><p class=\"coordinator_name\">山口 初江</p><p class=\"hospital_name_coordinator\"> 伊万里有田共立病院</p><p class=\"hospital_address_coordinator\"> 佐賀県西松浦郡有田町二ノ瀬甲８６０</p></div><p class=\"message\">  私たちは病院で患者さんと触れ合いながら様々な相談に応じ、力になりたいと思っています。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/35.png\"><p class=\"coordinator_name\">山口 初江</p><p class=\"hospital_name_coordinator\">伊万里有田共立病院</p><p class=\"hospital_address_coordinator\">佐賀県西松浦郡有田町二ノ瀬甲８６０</p></div><p class=\"message\">私たちは病院で患者さんと触れ合いながら様々な相談に応じ、力になりたいと思っています。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/35.png",
+            "image": "http://localhost:8080/images/icon/35.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -1547,10 +1547,10 @@
     {
         "id": "coordinator36",
         "name": "大串 弘子",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/36.png\"><p class=\"coordinator_name\">大串 弘子</p><p class=\"hospital_name_coordinator\"> 佐賀医療センター好生館</p><p class=\"hospital_address_coordinator\"> 佐賀市嘉瀬町大字中原400</p></div><p class=\"message\">  治療に対する疑問や不安・相談も受けています。いつでも気軽に声をかけて下さい。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/36.png\"><p class=\"coordinator_name\">大串 弘子</p><p class=\"hospital_name_coordinator\">佐賀医療センター好生館</p><p class=\"hospital_address_coordinator\">佐賀市嘉瀬町大字中原400</p></div><p class=\"message\">治療に対する疑問や不安・相談も受けています。いつでも気軽に声をかけて下さい。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/36.png",
+            "image": "http://localhost:8080/images/icon/36.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -1591,10 +1591,10 @@
     {
         "id": "coordinator37",
         "name": "松永 薫",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/37.png\"><p class=\"coordinator_name\">松永 薫</p><p class=\"hospital_name_coordinator\"> 独立行政法人国立病院機構　佐賀病院</p><p class=\"hospital_address_coordinator\"> 佐賀市日の出1-20-1</p></div><p class=\"message\">  肝炎コーディネーターが診察に同席し、安心して治療の継続や支援が受けられるようにサポートします</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/37.png\"><p class=\"coordinator_name\">松永 薫</p><p class=\"hospital_name_coordinator\">独立行政法人国立病院機構　佐賀病院</p><p class=\"hospital_address_coordinator\">佐賀市日の出1-20-1</p></div><p class=\"message\">肝炎コーディネーターが診察に同席し、安心して治療の継続や支援が受けられるようにサポートします</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/37.png",
+            "image": "http://localhost:8080/images/icon/37.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -1635,10 +1635,10 @@
     {
         "id": "coordinator38",
         "name": "佐野 文乃",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/38.png\"><p class=\"coordinator_name\">佐野 文乃</p><p class=\"hospital_name_coordinator\"> 独立行政法人地域医療機能推進機構　佐賀中部病院</p><p class=\"hospital_address_coordinator\"> 佐賀市兵庫南3-8-1</p></div><p class=\"message\">  安心して受診・受療し頂けるようにお手伝いするのが私たちの役割です 。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/38.png\"><p class=\"coordinator_name\">佐野 文乃</p><p class=\"hospital_name_coordinator\">独立行政法人地域医療機能推進機構　佐賀中部病院</p><p class=\"hospital_address_coordinator\">佐賀市兵庫南3-8-1</p></div><p class=\"message\">安心して受診・受療し頂けるようにお手伝いするのが私たちの役割です 。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/38.png",
+            "image": "http://localhost:8080/images/icon/38.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -1679,10 +1679,10 @@
     {
         "id": "coordinator39",
         "name": "青木 由美子",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/39.png\"><p class=\"coordinator_name\">青木 由美子</p><p class=\"hospital_name_coordinator\"> 社会福祉法人恩賜財団 済生会唐津病院</p><p class=\"hospital_address_coordinator\"> 佐賀県唐津市元旗町817</p></div><p class=\"message\">  </p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/39.png\"><p class=\"coordinator_name\">青木 由美子</p><p class=\"hospital_name_coordinator\">社会福祉法人恩賜財団 済生会唐津病院</p><p class=\"hospital_address_coordinator\">佐賀県唐津市元旗町817</p></div><p class=\"message\"></p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/39.png",
+            "image": "http://localhost:8080/images/icon/39.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -1723,10 +1723,10 @@
     {
         "id": "coordinator40",
         "name": "丸尾 美紀",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://kanenmapping.com/images/icon/40.png\"><p class=\"coordinator_name\">丸尾 美紀</p><p class=\"hospital_name_coordinator\"> 日本赤十字社　唐津赤十字病院</p><p class=\"hospital_address_coordinator\"> 佐賀県唐津市二夕子1-5-1</p></div><p class=\"message\">  私たち肝炎コーディネーターが医師の診察に同席しサポートします。安心して受診して下さい。</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/40.png\"><p class=\"coordinator_name\">丸尾 美紀</p><p class=\"hospital_name_coordinator\">日本赤十字社　唐津赤十字病院</p><p class=\"hospital_address_coordinator\">佐賀県唐津市二夕子1-5-1</p></div><p class=\"message\">私たち肝炎コーディネーターが医師の診察に同席しサポートします。安心して受診して下さい。</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanenmapping.com/images/icon/40.png",
+            "image": "http://localhost:8080/images/icon/40.png",
             "scale": 0.6,
             "show": "true",
             "verticalOrigin": "CENTER"
@@ -1747,6 +1747,491 @@
                     1000,
                     129.958803,
                     33.460907,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+,
+    {
+        "id": "coordinator41",
+        "name": "中尾 秀美",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/41.png\"><p class=\"coordinator_name\">中尾 秀美</p>\n<p class=\"hospital_name_coordinator\">唐津市役所</p>\n<p class=\"hospital_address_coordinator\">佐賀県唐津市千代田町2566-11</p>\n</div><p class=\"message\">お気軽にお問い合わせください。お待ちしています。</p>\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://localhost:8080/images/icon/41.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "CENTER"
+        },
+        "position": {
+            "cartographicDegrees": [
+                129.9744192,
+                33.4485657,
+                1000
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    129.9744192,
+                    33.4485657,
+                    1000,
+                    129.9744192,
+                    33.4485657,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "coordinator42",
+        "name": "秀島 裕一",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/42.png\"><p class=\"coordinator_name\">秀島 裕一</p>\n<p class=\"hospital_name_coordinator\">橋本病院</p>\n<p class=\"hospital_address_coordinator\">佐賀県神埼市神埼町本告牟田3005</p>\n</div><p class=\"message\">気になる事がありましたら、どんな事でも結構です。お気軽にお問い合わせください。お電話でも結構です。橋本病院 0952-52-2022　薬剤師 秀島まで。</p>\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://localhost:8080/images/icon/42.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "CENTER"
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.3678135,
+                33.3056771,
+                1000
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.3678135,
+                    33.3056771,
+                    1000,
+                    130.3678135,
+                    33.3056771,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "coordinator43",
+        "name": "安川 由貴恵",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/43.png\"><p class=\"coordinator_name\">安川 由貴恵</p>\n<p class=\"hospital_name_coordinator\">佐賀県産業医学協会</p>\n<p class=\"hospital_address_coordinator\">佐賀県佐賀市鍋島町八戸1994-1</p>\n</div><p class=\"message\">働く皆様の健康をサポートする健診機関です。職場の健診と一緒に肝炎検査も受けられますので、お気軽にご相談ください。</p>\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://localhost:8080/images/icon/43.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "CENTER"
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2640665,
+                33.2510959,
+                1000
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2640665,
+                    33.2510959,
+                    1000,
+                    130.2640665,
+                    33.2510959,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "coordinator44",
+        "name": "本村 宏子",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/44.png\"><p class=\"coordinator_name\">本村 宏子</p>\n<p class=\"hospital_name_coordinator\">佐賀県産業医学協会</p>\n<p class=\"hospital_address_coordinator\">佐賀県佐賀市鍋島町八戸1994-1</p>\n</div><p class=\"message\">働く皆様の健康をサポートする健診機関です。職場の健診と一緒に肝炎検査も受けられますので、お気軽にご相談ください。</p>\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://localhost:8080/images/icon/44.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "CENTER"
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2640665,
+                33.2510959,
+                1400
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2640665,
+                    33.2510959,
+                    1400,
+                    130.2640665,
+                    33.2510959,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "coordinator45",
+        "name": "徳富 紀代美",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/45.png\"><p class=\"coordinator_name\">徳富 紀代美</p>\n<p class=\"hospital_name_coordinator\">佐賀県産業医学協会</p>\n<p class=\"hospital_address_coordinator\">佐賀県佐賀市鍋島町八戸1994-1</p>\n</div><p class=\"message\">働く皆様の健康をサポートする健診機関です。職場の健診と一緒に肝炎検査も受けられますので、お気軽にご相談ください。</p>\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://localhost:8080/images/icon/45.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "CENTER"
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2640665,
+                33.2510959,
+                1800
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2640665,
+                    33.2510959,
+                    1800,
+                    130.2640665,
+                    33.2510959,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "coordinator46",
+        "name": "副島 小百合",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/46.png\"><p class=\"coordinator_name\">副島 小百合</p>\n<p class=\"hospital_name_coordinator\">佐賀県産業医学協会</p>\n<p class=\"hospital_address_coordinator\">佐賀県佐賀市鍋島町八戸1994-1</p>\n</div><p class=\"message\">働く皆様の健康をサポートする健診機関です。職場の健診と一緒に肝炎検査も受けられますので、お気軽にご相談ください。</p>\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://localhost:8080/images/icon/46.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "CENTER"
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2640665,
+                33.2510959,
+                2200
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2640665,
+                    33.2510959,
+                    2200,
+                    130.2640665,
+                    33.2510959,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "coordinator47",
+        "name": "矢川 千鶴",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/47.png\"><p class=\"coordinator_name\">矢川 千鶴</p>\n<p class=\"hospital_name_coordinator\">佐賀県産業医学協会</p>\n<p class=\"hospital_address_coordinator\">佐賀県佐賀市鍋島町八戸1994-1</p>\n</div><p class=\"message\">働く皆様の健康をサポートする健診機関です。職場の健診と一緒に肝炎検査も受けられますので、お気軽にご相談ください。</p>\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://localhost:8080/images/icon/47.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "CENTER"
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2640665,
+                33.2510959,
+                2600
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2640665,
+                    33.2510959,
+                    2600,
+                    130.2640665,
+                    33.2510959,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "coordinator48",
+        "name": "國部 恵子",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/48.png\"><p class=\"coordinator_name\">國部 恵子</p>\n<p class=\"hospital_name_coordinator\">佐賀県産業医学協会</p>\n<p class=\"hospital_address_coordinator\">佐賀県佐賀市鍋島町八戸1994-1</p>\n</div><p class=\"message\">働く皆様の健康をサポートする健診機関です。職場の健診と一緒に肝炎検査も受けられますので、お気軽にご相談ください。</p>\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://localhost:8080/images/icon/48.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "CENTER"
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.2640665,
+                33.2510959,
+                2600
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.2640665,
+                    33.2510959,
+                    2600,
+                    130.2640665,
+                    33.2510959,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "coordinator49",
+        "name": "古屋 秀人",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/49.png\"><p class=\"coordinator_name\">古屋 秀人</p>\n<p class=\"hospital_name_coordinator\">山下至誠堂薬局菜畑店</p>\n<p class=\"hospital_address_coordinator\">佐賀県唐津市菜畑3613-3</p>\n</div><p class=\"message\">無料のウイルス検査、肝炎治療のお薬相談など、分からないことがあればお気軽にご相談ください。</p>\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://localhost:8080/images/icon/49.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "CENTER"
+        },
+        "position": {
+            "cartographicDegrees": [
+                129.9583924,
+                33.4497625,
+                1000
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    129.9583924,
+                    33.4497625,
+                    1000,
+                    129.9583924,
+                    33.4497625,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "coordinator52",
+        "name": "松尾 延子",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/52.png\"><p class=\"coordinator_name\">松尾 延子</p>\n<p class=\"hospital_name_coordinator\">小城市役所</p>\n<p class=\"hospital_address_coordinator\">佐賀県小城市三日月町長神田2312-2</p>\n</div><p class=\"message\">お気軽にお問い合わせください。</p>\n\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://localhost:8080/images/icon/52.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "CENTER"
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.216836,
+                33.2737009,
+                1000
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.216836,
+                    33.2737009,
+                    1000,
+                    130.216836,
+                    33.2737009,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "coordinator53",
+        "name": "蘭 隆子",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/53.png\"><p class=\"coordinator_name\">蘭 隆子</p>\n<p class=\"hospital_name_coordinator\">小城市役所</p>\n<p class=\"hospital_address_coordinator\">佐賀県小城市三日月町長神田2312-2</p>\n</div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://localhost:8080/images/icon/53.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "CENTER"
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.216836,
+                33.2737009,
+                1400
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    130.216836,
+                    33.2737009,
+                    1400,
+                    130.216836,
+                    33.2737009,
                     0
                 ]
             },
