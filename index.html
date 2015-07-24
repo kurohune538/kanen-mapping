@@ -101,9 +101,11 @@
 		var viewPointChangeMenu = document.getElementById('slide_menu');
 		var dropDownList = "";
 		
-		for (var i=0; i<viewPointsArray.length; i++) {
-			dropDownList = dropDownList + '<li><a href="#" onclick = "changeViewPoint(' + i + ',' + '5.0);return false;">' + viewPointsArray[i].label + '</a></li>';
+		for (var i=6; i<viewPointsArray.length; i++) {
+			dropDownList = dropDownList + '<li><a href="#" onclick = "changeViewPoint(' + i + ',' + '0.0);return false;">' + viewPointsArray[i].label + '</a></li>';
 		}
+
+
 		
 		var viewPointChangeMenuHtml = '<ul class="viewpoint">' + dropDownList + '</ul>';
 		console.log (viewPointChangeMenuHtml);
@@ -132,7 +134,7 @@
 		});
 		viewer.camera.frustum.fov = 70 * (3.14 / 180);
 		viewer.camera.setView({
-			position : Cesium.Cartesian3.fromDegrees(132.45470999999998,34.394915,20000000),
+			position : Cesium.Cartesian3.fromDegrees(130.127938,33.188542,00),
 			roll : 0.0
 		});
 		if (mobile != 0) {		
@@ -143,13 +145,13 @@
 
 		function groundZero(){
 			changeViewPoint(3,3);
-			setTimeout('landing()',4000);
+			setTimeout('landing()',0);
 		}
 		
 		function landing(){
 			changeViewPoint(5,3);
-			setTimeout('blackOut(1)',3000);
-			setTimeout('loadCzml()',3000);
+			setTimeout('blackOut(1)',0);
+			setTimeout('loadCzml()',0);
 		}
 
 		function loadCzml(){
@@ -175,9 +177,9 @@
 //					osm.brightness = 0.8;
 //					osm.saturation = 1.0;
 //					osm.contrast = 0.8;
-					setTimeout('blackOut(0)',3000);
+					setTimeout('blackOut(0)',0);
 				}
-			}, 200);
+			}, 0);
 		}
 		
 		function transParent(){
@@ -185,6 +187,7 @@
 		}
 
 		function changeViewPoint(num, delay) {
+			console.log("changeview");
 			var newLat = viewPointsArray[num].lat;
 			var newLng = viewPointsArray[num].lng;
 			var newHeading = Cesium.Math.toRadians(viewPointsArray[num].heading);
