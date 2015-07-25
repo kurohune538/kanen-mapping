@@ -23,7 +23,7 @@ var check = $('#icon_legend'),
 	checkBtn.on('click', function(){
 	body.toggleClass('open');
 		if(body.hasClass('open')){
-			check.animate({'left' : 60 }, 240);
+			check.animate({'left' : 10 }, 240);
 		} else {
 			check.animate({'left' : -500 }, 240);
 		}		     
