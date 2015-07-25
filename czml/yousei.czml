@@ -13,15 +13,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -65,15 +65,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -117,15 +117,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -169,15 +169,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -221,15 +221,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -273,15 +273,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -325,15 +325,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -377,15 +377,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -429,15 +429,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -481,15 +481,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -533,15 +533,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -585,15 +585,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -637,15 +637,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -689,15 +689,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -741,15 +741,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -793,15 +793,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -845,15 +845,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -897,15 +897,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -949,15 +949,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -1001,15 +1001,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -1053,15 +1053,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -1105,15 +1105,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -1157,15 +1157,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -1209,15 +1209,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -1261,15 +1261,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -1313,15 +1313,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -1365,15 +1365,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -1417,15 +1417,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -1469,15 +1469,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -1521,15 +1521,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -1573,15 +1573,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -1625,15 +1625,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -1677,15 +1677,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -1729,15 +1729,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -1781,15 +1781,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -1833,15 +1833,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -1885,15 +1885,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -1937,15 +1937,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -1989,15 +1989,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -2041,15 +2041,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -2093,15 +2093,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -2145,15 +2145,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -2197,15 +2197,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -2249,15 +2249,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -2301,15 +2301,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -2353,15 +2353,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -2405,15 +2405,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -2457,15 +2457,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -2509,15 +2509,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -2561,15 +2561,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -2613,15 +2613,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -2665,15 +2665,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -2717,15 +2717,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -2769,15 +2769,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -2821,15 +2821,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -2873,15 +2873,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -2925,15 +2925,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -2977,15 +2977,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -3029,15 +3029,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -3081,15 +3081,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -3133,15 +3133,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -3185,15 +3185,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -3237,15 +3237,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -3289,15 +3289,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -3341,15 +3341,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -3393,15 +3393,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -3445,15 +3445,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -3497,15 +3497,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -3549,15 +3549,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -3601,15 +3601,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -3653,15 +3653,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -3705,15 +3705,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -3757,15 +3757,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -3809,15 +3809,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -3861,15 +3861,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -3913,15 +3913,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -3965,15 +3965,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -4017,15 +4017,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
@@ -4069,15 +4069,15 @@
             "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
-                    0,
-                    106,
-                    179,
-                    180
+                    50,
+                    205,
+                    50,
+                    200
                 ]
             }
-            ,"scale": 0.1,
+            ,"scale": 0.08,
             "show": "true",
-            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,0]}
+            "verticalOrigin": "BOTTOM","pixelOffset":{"cartesian2":[0,-3]}
         },
         "position": {
             "cartographicDegrees": [
