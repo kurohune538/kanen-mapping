@@ -1,4 +1,4 @@
 node_modules/
 ./Build/Cesium/.DS_Store
 bower_components/
-!bower_components/cesiumjs/Cesium.js
+!bower_components/cesiumjs/
