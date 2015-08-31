@@ -1,0 +1,33 @@
+{
+  "name": "kanen-mapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "compression": "^1.0.8",
+    "jsdoc": "^3.3.0-alpha9",
+    "yargs": "^1.2.6",
+    "express": "^4.4.4",
+    "gulp": "^3.9.0",
+    "request": "^2.36.0"
+  },
+  "devDependencies": {
+    "gulp-cssmin": "^0.1.7",
+    "gulp-jsmin": "^0.1.5",
+    "gulp-uglify": "^1.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurohune538/kanen-mapping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurohune538/kanen-mapping/issues"
+  },
+  "homepage": "https://github.com/kurohune538/kanen-mapping#readme"
+}

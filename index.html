@@ -11,13 +11,13 @@
 <title>肝炎マッピング</title>
 	<link rel="SHORTCUT ICON" href="http://shinsai.mapping.jp/favicon.ico">
 	<style>
-		@import url(Build/Cesium/Widgets/widgets.css);
+		@import url(bower_components/cesiumjs/Cesium/Widgets/widgets.css);
 	</style>
-	<link rel="stylesheet" type="text/css" media="all" href="./Build/css/style.css" />
-	<link rel="stylesheet" type="text/css" media="all" href="./Build/css/menubutton.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="css/style.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="css/menubutton.css" />
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-	<script src="Build/js/slidein.js"></script>
-	<script src="Build/Cesium/Cesium.js"></script>
+	<script src="js/slidein.js"></script>
+	<script src="bower_components/cesiumjs/Cesium/Cesium.js"></script>
 	<script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -33,29 +33,36 @@
 	<div id="slider">
 		<input id="range01" type="range" min="0" max="20" value="20" step="1" oninput="transParent();"/>
 	</div>
-	<div id="blackOut"><img class="loading" src="Build/data/loading.gif"></div>
+	<div id="blackOut"><img class="loading" src="data/loading.gif"></div>
 	<div id="cesiumContainer"></div>
 	<div id="button" class="general-button">
 		<div class="button-content">
 			<span class="icon-font">menu</span>
 		</div>
 	</div>
-
-	<div id="icon_legend">
-		<div class="legends l_yellow">
-		無料肝炎検査ができる医療機関</div>
-		<div class="legends l_green">
-		精密検査ができる医療機関</div>
-		<div class="legends l_blue">
-		肝炎治療を開始できる医療機関</div>
+	<div id="legend_button">
+		<p>凡例</p>
 	</div>
-
+	<div id="icon_legend">
+		<div class="i_legend">
+			<img src="images/ex_01.png">
+			<p>無料で検査</p>
+		</div>
+		<div class="i_legend">
+			<img src="images/ex_02.png">
+			<p>詳しい検査</p>
+		</div>
+		<div class="i_legend">
+			<img src="images/ex_03.png">
+			<p>専門治療</p>
+		</div>
+	</div>
 	<div id="slide_menu"></div>
 		<div class="sharebutton">
 			<ul class="share-buttons">
-				<li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fkanen.mapping.jp%2F&t=" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img class="share" src="Build/data/flat_web_icon_set/color/Facebook.png"></a></li>
-				<li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fkanen.mapping.jp%2F&text=:%20http%3A%2F%2Fkanen.mapping.jp%2F&via=hwtnv" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img class="share" src="Build/data/flat_web_icon_set/color/Twitter.png"></a></li>
-				<li><a href="https://plus.google.com/share?url=http%3A%2F%2Fkanen.mapping.jp%2F" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL)); return false;"><img class="share" src="Build/data/flat_web_icon_set/color/Google+.png"></a></li>
+				<li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fkanen.mapping.jp%2F&t=" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img class="share" src="data/flat_web_icon_set/color/Facebook.png"></a></li>
+				<li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fkanen.mapping.jp%2F&text=:%20http%3A%2F%2Fkanen.mapping.jp%2F&via=hwtnv" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img class="share" src="data/flat_web_icon_set/color/Twitter.png"></a></li>
+				<li><a href="https://plus.google.com/share?url=http%3A%2F%2Fkanen.mapping.jp%2F" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL)); return false;"><img class="share" src="data/flat_web_icon_set/color/Google+.png"></a></li>
 		</ul>
 	</div>
 	<script>
@@ -83,7 +90,7 @@
 		}
 		
 		var czmlDataArray=[];
-			czmlDataArray[0]=new czmlData("肝炎コーディネーター",'czml/coordinator.czml');
+			czmlDataArray[0]=new czmlData("肝炎コーディネーター",'czml/coordinator_honban.czml');
 			czmlDataArray[1]=new czmlData("ウイルス性肝炎治療費の助成が受けられる医療機関",'czml/josei.czml');
 			czmlDataArray[2]=new czmlData("無料肝炎ウイルス検査を実施している医療機関",'czml/muryo.czml');
 			czmlDataArray[3]=new czmlData("ウイルス性肝炎の陽性指摘後の精密検査費補助が受けられる医療機関",'czml/yousei.czml');
@@ -96,6 +103,8 @@
 		for (var i=0; i<viewPointsArray.length; i++) {
 			dropDownList = dropDownList + '<li><a href="#" onclick = "changeViewPoint(' + i + ',' + '5.0);return false;">' + viewPointsArray[i].label + '</a></li>';
 		}
+
+
 		
 		var viewPointChangeMenuHtml = '<ul class="viewpoint">' + dropDownList + '</ul>';
 		console.log (viewPointChangeMenuHtml);
@@ -164,7 +173,7 @@
 					var layers = viewer.imageryLayers;
 					osm = layers.addImageryProvider(newLayer);
 					osm.alpha = 1.0;
-//					osm.brightness = 0.8;
+					osm.brightness = 0.9;
 //					osm.saturation = 1.0;
 //					osm.contrast = 0.8;
 					setTimeout('blackOut(0)',3000);
