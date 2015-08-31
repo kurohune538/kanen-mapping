@@ -101,7 +101,7 @@
 		var dropDownList = "";
 		
 		for (var i=0; i<viewPointsArray.length; i++) {
-			dropDownList = dropDownList + '<li><a href="#" onclick = "changeViewPoint(' + i + ',' + '5.0);return false;">' + viewPointsArray[i].label + '</a></li>';
+			dropDownList = dropDownList + '<li><a href="#" onclick = "changeViewPoint(' + i + ',' + '3.0);return false;">' + viewPointsArray[i].label + '</a></li>';
 		}
 
 
@@ -136,9 +136,11 @@
 			position : Cesium.Cartesian3.fromDegrees(132.45470999999998,34.394915,20000000),
 			roll : 0.0
 		});
+/*
 		if (mobile != 0) {		
-			viewer.scene.screenSpaceCameraController.enableTilt = false;			
+			viewer.scene.screenSpaceCameraController.enableTilt = false;	
 		}
+*/
 		blackOut(0);
 		setTimeout('groundZero()',0);
 
