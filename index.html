@@ -139,7 +139,10 @@
 
 //　常にノースアップにする
 		viewer.camera.constrainedAxis = Cesium.Cartesian3.UNIT_Z;
-		viewer.scene.screenSpaceCameraController.enableRotate = false;	
+//		viewer.scene.screenSpaceCameraController.enableRotate = false;
+
+// ルックアラウンド不許可
+		viewer.scene.screenSpaceCameraController.enableLook = false;	
 		
 		blackOut(0);
 		setTimeout('groundZero()',0);
