@@ -137,11 +137,9 @@
 			roll : 0.0
 		});
 
-/*　スマホでティルトを不可にする（Cesium1.1以降では不要）
-		if (mobile != 0) {		
-			viewer.scene.screenSpaceCameraController.enableTilt = false;	
-		}
-*/
+//　常にノースアップにする
+		viewer.scene.screenSpaceCameraController.enableRotate = false;	
+		
 		blackOut(0);
 		setTimeout('groundZero()',0);
 
