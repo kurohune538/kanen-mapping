@@ -447,7 +447,7 @@
     {
         "id": "coordinator11",
         "name": "野方 美郷",
-        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/11.png\"><p class=\"coordinator_name\">野方 美郷</p><p class=\"hospital_name_coordinator\">NHK佐賀放送局</p><p class=\"hospital_address_coordinator\">佐賀県佐賀市城内2-15-8</p></div><p class=\"message\">「NHKキャスターで全国初の肝炎コーディネーターキャスターです。NHK佐賀局では、平成２５年度から「佐賀県の課題」に取り組むべく「シリーズ　ストップ！肝がん」を企画し、「治療法」「克服した方のインタビュー」などキャスターが毎回取材して放送しています。そんなある日、いつもご協力くださっている江口有一郎教授（佐賀大学医学部肝疾患センター）から「NHKの皆さんにもぜひコーディネーターを目指してほしい」との一言！「はいっ！」と手を挙げたのが、堀野麻由・野方美郷の2人のキャスターでした。平成２５年10月5日（土）6日（日）に「B型肝炎」「C型肝炎」「肝がんの外科的治療」などの集中講義を佐賀大学で受け、その後多くの方にまじって研修し、試験も合格しました！江口教授は「“分かりやすく伝えるキャスターの能力”を活かして多くの人へ呼びかけるためにも、最新の正しい医学知識を習得してもらいたい。これもひとつの肝炎コーディネーターの役割と言える」とおっしゃってます。佐賀県の肝がんに対する取り組みは、今とてもヒートアップしています！頑張ります！」</p></div>",
+        "description": "<div class=\"coordinator_balloon\"><div class=\"profile\"><img class=\"coordinator_icon\" src=\"http://localhost:8080/images/icon/11.png\"><p class=\"coordinator_name\">野方 美郷</p><p class=\"hospital_name_coordinator\">NHK佐賀放送局</p><p class=\"hospital_address_coordinator\">佐賀県佐賀市城内2-15-8</p></div><p class=\"message\">NHKキャスターで全国初の肝炎コーディネーターキャスターです。NHK佐賀局では、平成２５年度から「佐賀県の課題」に取り組むべく「シリーズ　ストップ！肝がん」を企画し、「治療法」「克服した方のインタビュー」などキャスターが毎回取材して放送しています。「B型肝炎」「C型肝炎」「肝がんの外科的治療」などの集中講義を佐賀大学で受け、その後多くの方にまじって研修し、試験も合格しました！佐賀県の肝がんに対する取り組みは、今とてもヒートアップしています！頑張ります！」</p></div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "http://localhost:8080/images/icon/11.png",
