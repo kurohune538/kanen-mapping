@@ -137,9 +137,12 @@
 			roll : 0.0
 		});
 
-//　常にノースアップにする
 		viewer.camera.constrainedAxis = Cesium.Cartesian3.UNIT_Z;
-		viewer.scene.screenSpaceCameraController.enableRotate = false;	
+
+// ルックアラウンドを許可しない
+		viewer.scene.screenSpaceCameraController.enableLook = false;
+//　常にノースアップにする
+//		viewer.scene.screenSpaceCameraController.enableRotate = false;	
 		
 		blackOut(0);
 		setTimeout('groundZero()',0);
