@@ -138,6 +138,7 @@
 		});
 
 //　常にノースアップにする
+		viewer.camera.constrainedAxis = Cesium.Cartesian3.UNIT_Z;
 		viewer.scene.screenSpaceCameraController.enableRotate = false;	
 		
 		blackOut(0);
