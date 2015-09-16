@@ -220,10 +220,14 @@
 				
 				function( results, status ) {
 					if( status == google.maps.GeocoderStatus.OK ) {
-						var south = results[0].geometry.viewport.Ja.G;
-						var north = results[0].geometry.viewport.Ja.j;
-						var west = results[0].geometry.viewport.Ea.j;
-						var east = results[0].geometry.viewport.Ea.G;		
+						var viewportObj = results[0].geometry.viewport;
+						var southNorth = viewportObj[Object.keys(viewportObj)[0]];
+						var westEast = viewportObj[Object.keys(viewportObj)[1]];
+						
+						var south = southNorth[Object.keys(southNorth)[0]];
+						var north = southNorth[Object.keys(southNorth)[1]];
+						var west = westEast[Object.keys(westEast)[0]];
+						var east = westEast[Object.keys(westEast)[1]];		
 						var rectangle = Cesium.Rectangle.fromDegrees(west, south, east, north);
 						viewer.camera.flyTo({
 							destination : rectangle
