@@ -208,7 +208,8 @@
 		    viewer.camera.constrainedAxis = Cesium.Cartesian3.UNIT_Z;
 			viewer.camera.flyToBoundingSphere(boundingSphere,{
 				duration : delay,
-				offset : headingPitchRange
+				offset : headingPitchRange,
+				easingFunction: Cesium.EasingFunction.CUBIC_IN_OUT
 			});
 		}
 
@@ -230,7 +231,8 @@
 						var east = westEast[Object.keys(westEast)[1]];		
 						var rectangle = Cesium.Rectangle.fromDegrees(west, south, east, north);
 						viewer.camera.flyTo({
-							destination : rectangle
+							destination : rectangle,
+							easingFunction: Cesium.EasingFunction.CUBIC_IN_OUT
 						});
 					} else {
 						alert('見つかりません');
