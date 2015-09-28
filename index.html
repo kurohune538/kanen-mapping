@@ -165,6 +165,13 @@
 			baseLayerPicker : false,
 			fullscreenButton:false
 		});
+
+//太陽をOFFにする（iOSブラウザだと太陽ビルボードが化ける不具合に対応）
+
+		viewer.scene.sun.show = false;
+
+//カメラのFOVと初期位置を設定
+
 		viewer.camera.frustum.fov = 70 * (3.14 / 180);
 		viewer.camera.setView({
 			position : Cesium.Cartesian3.fromDegrees(132.45470999999998,34.394915,20000000),
@@ -178,7 +185,6 @@
 // Z軸束縛
 
 		viewer.camera.constrainedAxis = Cesium.Cartesian3.UNIT_Z;
-		
 		blackOut(0);
 		
 //視点移動シークエンス
