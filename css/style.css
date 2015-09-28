@@ -16,3 +16,10 @@
 	width:90px;
 	height:15px;
 }
+
+#buttonGeo {
+	position:absolute;
+	bottom:8px;
+	left:50%;
+	margin-left:-20px;
+}
