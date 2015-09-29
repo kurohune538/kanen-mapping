@@ -182,9 +182,16 @@
 
 		viewer.screenSpaceEventHandler.removeInputAction(Cesium.ScreenSpaceEventType.LEFT_DOUBLE_CLICK);
 
-// Z軸束縛
+//Z軸束縛
 
 		viewer.camera.constrainedAxis = Cesium.Cartesian3.UNIT_Z;
+
+//スマホの場合はカメラの傾きを束縛
+
+		if (mobile == 1){
+			scene.screenSpaceCameraController.enableTilt = false;
+		}
+
 		blackOut(0);
 		
 //視点移動シークエンス
