@@ -10,7 +10,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人二期会 小島病院</p>\n<p class=\"hospital_address\">伊万里市黒川町塩屋２０５番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -62,7 +62,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人光仁会 西田病院</p>\n<p class=\"hospital_address\">伊万里市山代町楠久８９０番地２</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -114,7 +114,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 社会保険浦之崎病院</p>\n<p class=\"hospital_address\">伊万里市山代町立岩４１７番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -166,7 +166,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  日高医院</p>\n<p class=\"hospital_address\">伊万里市松島町３８０番地４</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -218,7 +218,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人朋友会 山口病院</p>\n<p class=\"hospital_address\">伊万里市新天町３０５番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -270,7 +270,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> たなか内科クリニック</p>\n<p class=\"hospital_address\">伊万里市新天町６２０−５</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -322,7 +322,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人光仁会 大川野クリニック</p>\n<p class=\"hospital_address\">伊万里市大川町大川野３１４３番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -374,7 +374,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人 立石医院</p>\n<p class=\"hospital_address\">伊万里市東山代町里111番地1</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -426,7 +426,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 小島医院</p>\n<p class=\"hospital_address\">伊万里市南波多町井手野２４６２番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -478,7 +478,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  小副川医院</p>\n<p class=\"hospital_address\">伊万里市二里町八谷搦８７０番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -530,7 +530,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 社会医療法人謙仁会　山元記念病院</p>\n<p class=\"hospital_address\">伊万里市二里町八谷搦８８番地４</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -582,7 +582,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　小島医院</p>\n<p class=\"hospital_address\">伊万里市波多津町辻３６５５番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -634,7 +634,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 鈴山内科小児科医院</p>\n<p class=\"hospital_address\">伊万里市立花町１６０４番地２</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -686,7 +686,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人幸善会 （前田病院）</p>\n<p class=\"hospital_address\">伊万里市立花町２７４２番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -738,7 +738,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人精仁会  隅田病院</p>\n<p class=\"hospital_address\">伊万里市立花町４０００番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -790,7 +790,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人社団再整会 口石病院</p>\n<p class=\"hospital_address\">伊万里市立花町４０６０番地２</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -842,7 +842,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人岡村医院</p>\n<p class=\"hospital_address\">伊万里市蓮池町18</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -894,7 +894,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 谷口医院</p>\n<p class=\"hospital_address\">嬉野市塩田町大字谷所甲２６３７番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -946,7 +946,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人陽明会  樋口病院</p>\n<p class=\"hospital_address\">嬉野市塩田町大字馬場下甲１番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -998,7 +998,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  光武医院</p>\n<p class=\"hospital_address\">嬉野市塩田町大字馬場下甲７３９番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -1050,7 +1050,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  朝長医院</p>\n<p class=\"hospital_address\">嬉野市嬉野町大字下宿乙２１８８番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -1102,7 +1102,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 福田医院</p>\n<p class=\"hospital_address\">嬉野市嬉野町大字下宿乙２３１５番地２</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -1154,7 +1154,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　田中医院</p>\n<p class=\"hospital_address\">嬉野市嬉野町大字下宿乙2353番地13</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -1206,7 +1206,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人優健会  樋口医院</p>\n<p class=\"hospital_address\">嬉野市嬉野町大字下宿甲１７４０番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -1258,7 +1258,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人うれしの　福田病院</p>\n<p class=\"hospital_address\">嬉野市嬉野町大字下宿甲４７１４番地１０</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -1310,7 +1310,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> うれしのふくだクリニック</p>\n<p class=\"hospital_address\">嬉野市嬉野町大字下宿甲４７１５番地５</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -1362,7 +1362,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  太田医院</p>\n<p class=\"hospital_address\">嬉野市嬉野町大字岩屋川内甲7７番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -1414,7 +1414,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　野中医院</p>\n<p class=\"hospital_address\">嬉野市嬉野町大字吉田丁４６５３番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -1466,7 +1466,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　武岡病院</p>\n<p class=\"hospital_address\">杵島郡江北町大字山口１２８２番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -1518,7 +1518,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人敬天堂  古賀病院</p>\n<p class=\"hospital_address\">杵島郡江北町大字上小田１１５０番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -1570,7 +1570,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 坂本内科医院</p>\n<p class=\"hospital_address\">杵島郡大町町大字大町５２６４ー５</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -1622,7 +1622,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 大町町立病院</p>\n<p class=\"hospital_address\">杵島郡大町町大字大町８８７８番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -1674,7 +1674,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　戸原内科</p>\n<p class=\"hospital_address\">杵島郡大町町大字福母４０４番地６</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -1726,7 +1726,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人順天堂 順天堂病院</p>\n<p class=\"hospital_address\">杵島郡大町町大字福母７０７番地２</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -1778,7 +1778,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 有島クリニック</p>\n<p class=\"hospital_address\">杵島郡白石町牛屋３２８５</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -1830,7 +1830,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 溝口医院</p>\n<p class=\"hospital_address\">杵島郡白石町大字戸ケ里１７８０番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -1882,7 +1882,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人回春堂　有明医院</p>\n<p class=\"hospital_address\">杵島郡白石町大字築切８５１番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -1934,7 +1934,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 副島医院</p>\n<p class=\"hospital_address\">杵島郡白石町大字堤１４６８番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -1986,7 +1986,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 重村医院</p>\n<p class=\"hospital_address\">杵島郡白石町大字廿治１５１０番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -2038,7 +2038,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人静便堂 白石共立病院</p>\n<p class=\"hospital_address\">杵島郡白石町大字福田１２９６番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -2090,7 +2090,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 吉村医院</p>\n<p class=\"hospital_address\">杵島郡白石町大字福田１６３２</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -2142,7 +2142,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 池上内科</p>\n<p class=\"hospital_address\">杵島郡白石町大字福富１４１８番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -2194,7 +2194,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人文斎会 原田内科医院</p>\n<p class=\"hospital_address\">杵島郡白石町大字福富１８２７番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -2246,7 +2246,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> カタフチ医院</p>\n<p class=\"hospital_address\">杵島郡白石町大字福富３２１ー１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -2298,7 +2298,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 独立行政法人国立病院機構　嬉野医療センター</p>\n<p class=\"hospital_address\">佐賀県嬉野市嬉野町大字下宿丙２４３６番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -2350,7 +2350,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人社団栄寿会  古賀小児科内科病院</p>\n<p class=\"hospital_address\">佐賀県杵島郡江北町大字上小田２８０番地の１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -2402,7 +2402,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  高柳内科</p>\n<p class=\"hospital_address\">佐賀県佐賀市嘉瀬町大字十五2291番地1</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -2454,7 +2454,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 地方独立行政法人佐賀県医療センター好生館</p>\n<p class=\"hospital_address\">佐賀県佐賀市嘉瀬町大字中原400</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -2506,7 +2506,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人福翔会 福岡病院</p>\n<p class=\"hospital_address\">佐賀県佐賀市開成６丁目１４番１０号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -2558,7 +2558,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　せとぐち内科</p>\n<p class=\"hospital_address\">佐賀県佐賀市久保田町大字久保田１３０番地６</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -2610,7 +2610,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 中山内科クリニック</p>\n<p class=\"hospital_address\">佐賀県佐賀市高木瀬西４丁目６番１４号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -2662,7 +2662,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人社団敬愛会  佐賀記念病院</p>\n<p class=\"hospital_address\">佐賀県佐賀市高木瀬町大字長瀬１２４０番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -2714,7 +2714,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 独立行政法人国立病院機構　佐賀病院</p>\n<p class=\"hospital_address\">佐賀県佐賀市日の出1丁目20番1号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -2766,7 +2766,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 佐賀社会保険病院</p>\n<p class=\"hospital_address\">佐賀県佐賀市兵庫南3丁目8番1号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -2818,7 +2818,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 伊万里・有田地区医療福祉組合　伊万里有田共立病院</p>\n<p class=\"hospital_address\">佐賀県西松浦郡有田町二ノ瀬甲860</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -2870,7 +2870,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> ひさのう循環器科内科</p>\n<p class=\"hospital_address\">佐賀市鍋島１丁目５番１号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -2922,7 +2922,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 社会福祉法人恩賜財団済生会　唐津病院</p>\n<p class=\"hospital_address\">佐賀県唐津市元旗町817番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -2974,7 +2974,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 唐津赤十字病院</p>\n<p class=\"hospital_address\">佐賀県唐津市二夕子1丁目1番1号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -3026,7 +3026,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  平林胃腸科外科</p>\n<p class=\"hospital_address\">佐賀市下田町２番２３号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -3078,7 +3078,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 池田内科皮膚科医院</p>\n<p class=\"hospital_address\">佐賀市嘉瀬町大字扇町２３８３番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -3130,7 +3130,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  永江内科小児科医院</p>\n<p class=\"hospital_address\">佐賀市開成１丁目４番２号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -3182,7 +3182,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  力武クリニック</p>\n<p class=\"hospital_address\">佐賀市開成３丁目５番５号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -3234,7 +3234,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人長晴会  木下医院</p>\n<p class=\"hospital_address\">佐賀市久保泉町大字上和泉2201</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -3286,7 +3286,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 森永医院</p>\n<p class=\"hospital_address\">佐賀市久保泉町大字川久保８７５番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -3338,7 +3338,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人洋友会  宮原内科</p>\n<p class=\"hospital_address\">佐賀市久保田町大字新田１４６８番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -3390,7 +3390,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人たじり内科・小児科</p>\n<p class=\"hospital_address\">佐賀市金立町大字千布2145-1</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -3442,7 +3442,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 松永内科医院</p>\n<p class=\"hospital_address\">佐賀市高木瀬西１丁目３番２５号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -3494,7 +3494,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　内田クリニック</p>\n<p class=\"hospital_address\">佐賀市高木瀬町大字東高木２４１番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -3546,7 +3546,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人源流会 橋野医院</p>\n<p class=\"hospital_address\">佐賀市高木瀬東５丁目１７番１５号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -3598,7 +3598,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 田尻医院</p>\n<p class=\"hospital_address\">佐賀市高木町５番１６号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -3650,7 +3650,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 佐賀市立国民健康保険三瀬診療所</p>\n<p class=\"hospital_address\">佐賀市三瀬村藤原３８８２番地６</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -3702,7 +3702,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> たんぽぽクリニック</p>\n<p class=\"hospital_address\">佐賀市若宮１丁目１９番２９号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -3754,7 +3754,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 池田内科･消化器科</p>\n<p class=\"hospital_address\">佐賀市若宮３丁目１番２４号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -3806,7 +3806,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 陣内内科・小児科クリニック</p>\n<p class=\"hospital_address\">佐賀市若宮３丁目５番１７号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -3858,7 +3858,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  森山胃腸科</p>\n<p class=\"hospital_address\">佐賀市諸富町大字大堂１０４９番地３</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -3910,7 +3910,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 斉藤医院</p>\n<p class=\"hospital_address\">佐賀市諸富町大字大堂２１４番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -3962,7 +3962,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　永田天寿堂医院</p>\n<p class=\"hospital_address\">佐賀市諸富町大字大堂７３番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -4014,7 +4014,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 中原胃腸科内科</p>\n<p class=\"hospital_address\">佐賀市城内１丁目５番９号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -4066,7 +4066,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 陣内胃腸科内科医院</p>\n<p class=\"hospital_address\">佐賀市新栄西２丁目１番２号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -4118,7 +4118,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人思惟会 かみぞのクリニック</p>\n<p class=\"hospital_address\">佐賀市神園６丁目４番１６号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -4170,7 +4170,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 江口医院</p>\n<p class=\"hospital_address\">佐賀市神野東１丁目５番１号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -4222,7 +4222,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　力武医院</p>\n<p class=\"hospital_address\">佐賀市神野東２丁目4-22</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -4274,7 +4274,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 佐賀県医療生活協同組合神野診療所</p>\n<p class=\"hospital_address\">佐賀市神野東４丁目１０番５号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -4326,7 +4326,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　えとう内科・循環器内科</p>\n<p class=\"hospital_address\">佐賀市神野東４丁目３番１９号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -4378,7 +4378,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> やさか内科皮膚科</p>\n<p class=\"hospital_address\">佐賀市水ヶ江1-1-11</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -4430,7 +4430,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人社団真仁会  諸隈病院</p>\n<p class=\"hospital_address\">佐賀市水ケ江２丁目６番２２号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -4482,7 +4482,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人正和会　志田病院</p>\n<p class=\"hospital_address\">佐賀市水ヶ江２丁目７番２３号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -4534,7 +4534,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人九曜会　こが内科こどもクリニック</p>\n<p class=\"hospital_address\">佐賀市西与賀町大字厘外８５９番１５号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -4586,7 +4586,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人前山メディカル 前山医院</p>\n<p class=\"hospital_address\">佐賀市川原町５番１７号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -4638,7 +4638,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人源勇会  枝國医院</p>\n<p class=\"hospital_address\">佐賀市川副町早津江２６５番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -4690,7 +4690,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 坂井医院</p>\n<p class=\"hospital_address\">佐賀市川副町大字犬井道６１５番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -4742,7 +4742,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 江頭クリニック</p>\n<p class=\"hospital_address\">佐賀市川副町大字鹿江９９０番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -4794,7 +4794,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 鶴田内科循環器科医院</p>\n<p class=\"hospital_address\">佐賀市川副町大字小々森９６０番地７</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -4846,7 +4846,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> さとうクリニック</p>\n<p class=\"hospital_address\">佐賀市川副町大字南里３７２番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -4898,7 +4898,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人笙船会　飯盛内科</p>\n<p class=\"hospital_address\">佐賀市多布施２丁目６番２４号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -4950,7 +4950,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人同愛会 副島病院</p>\n<p class=\"hospital_address\">佐賀市大財１丁目６番６０号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -5002,7 +5002,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 寺田内科</p>\n<p class=\"hospital_address\">佐賀市大財１丁目８番３０号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -5054,7 +5054,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人山口内科クリニック</p>\n<p class=\"hospital_address\">佐賀市大和町久池井９８７−４</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -5106,7 +5106,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  清和医院</p>\n<p class=\"hospital_address\">佐賀市大和町大字久池井２５５２番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -5158,7 +5158,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> しげた総合診療クリニック</p>\n<p class=\"hospital_address\">佐賀市大和町大字川上３２３番1</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -5210,7 +5210,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 溝口クリニック</p>\n<p class=\"hospital_address\">佐賀市大和町大字川上５２８３番地３</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -5262,7 +5262,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  中西内科</p>\n<p class=\"hospital_address\">佐賀市大和町大字尼寺２２５７番地８</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -5314,7 +5314,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人大和正信会 ふじおか病院</p>\n<p class=\"hospital_address\">佐賀市大和町大字尼寺２６８５番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -5366,7 +5366,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人江頭外科内科胃腸科</p>\n<p class=\"hospital_address\">佐賀市大和町大字尼寺２９０７番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -5418,7 +5418,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 満岡内科消化器科医院</p>\n<p class=\"hospital_address\">佐賀市大和町大字尼寺８４８番地１１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -5470,7 +5470,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人 服巻胃腸科内科</p>\n<p class=\"hospital_address\">佐賀市中の小路９番１８号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -5522,7 +5522,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> やつぎ外科内科クリニック</p>\n<p class=\"hospital_address\">佐賀市長瀬町９番２５号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -5574,7 +5574,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　千葉内科循環器科</p>\n<p class=\"hospital_address\">佐賀市天神２丁目３番３８号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -5626,7 +5626,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人至誠会  至誠会病院</p>\n<p class=\"hospital_address\">佐賀市田代２丁目７番２４号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -5678,7 +5678,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 山口クリニック</p>\n<p class=\"hospital_address\">佐賀市鍋島４丁目１番８号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -5730,7 +5730,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 杉原医院</p>\n<p class=\"hospital_address\">佐賀市鍋島町大字八戸溝１６２９番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -5782,7 +5782,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人智仁会佐賀リハビリテーション病院</p>\n<p class=\"hospital_address\">佐賀市南佐賀１丁目１７番１号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -5834,7 +5834,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　牧野医院</p>\n<p class=\"hospital_address\">佐賀市日の出1丁目１４−２６</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -5886,7 +5886,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 鶴田内科</p>\n<p class=\"hospital_address\">佐賀市日の出１丁目１４番１３号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -5938,7 +5938,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人素心庵 栗山医院</p>\n<p class=\"hospital_address\">佐賀市白山１丁目４番６号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -5990,7 +5990,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 森医院</p>\n<p class=\"hospital_address\">佐賀市八戸２丁目１番１３号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -6042,7 +6042,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> かじはら内科クリニック</p>\n<p class=\"hospital_address\">佐賀市八戸溝２丁目１０番２号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -6094,7 +6094,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 内藤医院北山診療所</p>\n<p class=\"hospital_address\">佐賀市富士町大字大野１０６０番地２３</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -6146,7 +6146,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 佐賀市立富士大和温泉病院</p>\n<p class=\"hospital_address\">佐賀市富士町大字梅野１７２１番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -6198,7 +6198,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人社団恵風会  西村医院</p>\n<p class=\"hospital_address\">佐賀市兵庫町大字瓦町９７１番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -6250,7 +6250,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人春陽会  上村病院</p>\n<p class=\"hospital_address\">佐賀市兵庫町大字渕１９０３番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -6302,7 +6302,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 二宮内科医院</p>\n<p class=\"hospital_address\">佐賀市兵庫南２丁目１４番１９号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -6354,7 +6354,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 平野医院</p>\n<p class=\"hospital_address\">佐賀市北川副町大字光法１２５９番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -6406,7 +6406,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 黒沢内科医院</p>\n<p class=\"hospital_address\">佐賀市北川副町大字光法１５９７番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -6458,7 +6458,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　吉本クリニック</p>\n<p class=\"hospital_address\">佐賀市堀川町１番１０号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -6510,7 +6510,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人純伸会 矢ヶ部医院</p>\n<p class=\"hospital_address\">佐賀市木原３丁目２番１１号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -6562,7 +6562,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 神田胃腸科内科医院</p>\n<p class=\"hospital_address\">佐賀市蓮池町大字蓮池３６５番地７</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -6614,7 +6614,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 高木クリニック</p>\n<p class=\"hospital_address\">三養基郡みやき町原古賀1174-1</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -6666,7 +6666,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 梅野医院</p>\n<p class=\"hospital_address\">三養基郡みやき町大字寄人４０９番地５</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -6718,7 +6718,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 独立行政法人国立病院機構　東佐賀病院</p>\n<p class=\"hospital_address\">三養基郡みやき町大字原古賀７３２４番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -6770,7 +6770,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 平川医院</p>\n<p class=\"hospital_address\">三養基郡みやき町大字西島２９７９番地８</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -6822,7 +6822,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 宮原医院</p>\n<p class=\"hospital_address\">三養基郡みやき町大字東尾１１５５番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -6874,7 +6874,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  まつお胃腸クリニック</p>\n<p class=\"hospital_address\">三養基郡みやき町大字東尾２２８０番地２</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -6926,7 +6926,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人鵬之風いのくち医院</p>\n<p class=\"hospital_address\">三養基郡みやき町大字蓑原２９４６−１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -6978,7 +6978,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 上野クリニック</p>\n<p class=\"hospital_address\">三養基郡みやき町大字簑原１６７６番７</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -7030,7 +7030,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　なるお内科小児科</p>\n<p class=\"hospital_address\">三養基郡基山町けやき台１丁目２３番地７</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -7082,7 +7082,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　酒井クリニック</p>\n<p class=\"hospital_address\">三養基郡基山町大字小倉１０５９番地２</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -7134,7 +7134,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人回生会　うえきクリニック</p>\n<p class=\"hospital_address\">三養基郡上峰町大字坊所１５７０番地５５</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -7186,7 +7186,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 平井内科</p>\n<p class=\"hospital_address\">三養基郡上峰町大字坊所２７３３番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -7238,7 +7238,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人三樹会　三樹病院</p>\n<p class=\"hospital_address\">三養基郡上峰町大字坊所２７６番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -7290,7 +7290,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人祐愛会  織田病院</p>\n<p class=\"hospital_address\">鹿島市大字高津原４３０６番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -7342,7 +7342,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人誠晴會納富病院</p>\n<p class=\"hospital_address\">鹿島市大字高津原４３２０番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -7394,7 +7394,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  犬塚病院</p>\n<p class=\"hospital_address\">鹿島市大字高津原６０２番地３</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -7446,7 +7446,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 鈴木内科クリニック</p>\n<p class=\"hospital_address\">鹿島市大字山浦甲３５８番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -7498,7 +7498,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人天心堂  志田病院</p>\n<p class=\"hospital_address\">鹿島市大字中村２１３４番地４</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -7550,7 +7550,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人祐仁会　吉田病院</p>\n<p class=\"hospital_address\">鹿島市大字中村２１９５番地２</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -7602,7 +7602,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人社団  森田医院</p>\n<p class=\"hospital_address\">鹿島市大字納富分４０７６番地３</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -7654,7 +7654,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 田中医院</p>\n<p class=\"hospital_address\">鹿島市大字納富分７３３番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -7706,7 +7706,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人芳山堂　薬師寺医院</p>\n<p class=\"hospital_address\">鹿島市浜町１２８０番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -7758,7 +7758,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人六科会　徳富医院</p>\n<p class=\"hospital_address\">小城市芦刈町三王崎３１６-３</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -7810,7 +7810,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> おおしまクリニック</p>\n<p class=\"hospital_address\">小城市牛津町乙柳１０９６番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -7862,7 +7862,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人修和会　村岡内科医院</p>\n<p class=\"hospital_address\">小城市牛津町牛津７３４番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -7914,7 +7914,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> しまうちクリニック</p>\n<p class=\"hospital_address\">小城市牛津町勝１４９９番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -7966,7 +7966,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 坂田クリニック</p>\n<p class=\"hospital_address\">小城市三日月町久米２１５５番地２</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -8018,7 +8018,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人ロコメディカル 江口病院</p>\n<p class=\"hospital_address\">小城市三日月町金田１０５４番地２</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -8070,7 +8070,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> まなべ消化器内科クリニック</p>\n<p class=\"hospital_address\">小城市三日月長神田2173番地4\nメディカルモールおぎ</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -8122,7 +8122,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 石井外科医院</p>\n<p class=\"hospital_address\">小城市小城町２４９番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -8174,7 +8174,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 伊東医院</p>\n<p class=\"hospital_address\">小城市小城町２７８番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -8226,7 +8226,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　ひらまつ病院</p>\n<p class=\"hospital_address\">小城市小城町８１５番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -8278,7 +8278,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　野田好生医院</p>\n<p class=\"hospital_address\">小城市小城町栗原５番地４</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -8330,7 +8330,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 小城市民病院</p>\n<p class=\"hospital_address\">小城市小城町松尾４１００番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -8382,7 +8382,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  高橋内科</p>\n<p class=\"hospital_address\">小城市小城町晴気２００番地３</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -8434,7 +8434,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人ひらまつ病院ひらまつふれあいクリニック</p>\n<p class=\"hospital_address\">神埼郡吉野ヶ里町吉田２９２５番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -8486,7 +8486,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 最所医院</p>\n<p class=\"hospital_address\">神埼郡吉野ヶ里町吉田８２６番地３</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -8538,7 +8538,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 松本医院</p>\n<p class=\"hospital_address\">神埼郡吉野ヶ里町三津７５１番地９</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -8590,7 +8590,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人慈照会西谷クリニック</p>\n<p class=\"hospital_address\">神埼郡吉野ヶ里町大曲1507-1</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -8642,7 +8642,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人久和会  和田医院</p>\n<p class=\"hospital_address\">神埼市神埼町神埼２９３番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -8694,7 +8694,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人社団啓祐会  神埼病院</p>\n<p class=\"hospital_address\">神埼市神埼町田道ケ里２２１６番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -8746,7 +8746,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 中尾胃腸科医院</p>\n<p class=\"hospital_address\">神埼市神埼町田道ケ里２２８４番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -8798,7 +8798,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 神埼クリニック</p>\n<p class=\"hospital_address\">神埼市神埼町田道ケ里２３９６番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -8850,7 +8850,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 橋本病院</p>\n<p class=\"hospital_address\">神埼市神埼町本告牟田３００５番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -8902,7 +8902,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> おおつぼ内科医院</p>\n<p class=\"hospital_address\">神埼市神埼町本堀２５０４番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -8954,7 +8954,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 神埼市国民健康保険脊振診療所</p>\n<p class=\"hospital_address\">神埼市脊振町広滝４６２番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -9006,7 +9006,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 和田医院</p>\n<p class=\"hospital_address\">神埼市千代田町嘉納１３１９番地１８</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -9058,7 +9058,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 福嶋内科医院</p>\n<p class=\"hospital_address\">神埼市千代田町境原２４９６番地３</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -9110,7 +9110,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人聖母会  古賀内科</p>\n<p class=\"hospital_address\">神埼市千代田町境原２８２番地２</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -9162,7 +9162,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 南医院</p>\n<p class=\"hospital_address\">神埼市千代田町直鳥８０８番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -9214,7 +9214,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 中下医院</p>\n<p class=\"hospital_address\">神埼市千代田町餘江１２８番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -9266,7 +9266,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人 小嶋内科</p>\n<p class=\"hospital_address\">西松浦郡有田町黒川丙６０８番地２７</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -9318,7 +9318,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 田口医院</p>\n<p class=\"hospital_address\">西松浦郡有田町大木宿乙８４３番地２３</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -9370,7 +9370,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 松尾内科</p>\n<p class=\"hospital_address\">西松浦郡有田町南原甲２６７</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -9422,7 +9422,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  蒲地医院</p>\n<p class=\"hospital_address\">西松浦郡有田町稗古場２丁目９番１２号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -9474,7 +9474,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人社団　馬渡メディカル馬渡クリニック</p>\n<p class=\"hospital_address\">西松浦郡有田町本町丙１０７４番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -9526,7 +9526,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人文庫堂　石井内科</p>\n<p class=\"hospital_address\">西松浦郡有田町立部乙2110-1</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -9578,7 +9578,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 多久市立病院</p>\n<p class=\"hospital_address\">多久市多久町１７７１番地４</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -9630,7 +9630,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  江口医院</p>\n<p class=\"hospital_address\">多久市東多久町大字別府５３１８番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -9682,7 +9682,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 佐賀県医療生活協同組合多久生協クリニック</p>\n<p class=\"hospital_address\">多久市東多久町別府3245-5</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -9734,7 +9734,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　池田内科胃腸科医院</p>\n<p class=\"hospital_address\">多久市北多久町大字小侍４０番地５</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -9786,7 +9786,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 大園内科医院</p>\n<p class=\"hospital_address\">鳥栖市萱方町１５８番地１０</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -9838,7 +9838,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人社団三善会　山津医院</p>\n<p class=\"hospital_address\">鳥栖市萱方町２７０番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -9890,7 +9890,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人芳生会和田内科循環器科</p>\n<p class=\"hospital_address\">鳥栖市原古賀町１３３４−８</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -9942,7 +9942,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人眞正会　古賀医院</p>\n<p class=\"hospital_address\">鳥栖市原古賀町６０９番地２</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -9994,7 +9994,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　きざと外科医院</p>\n<p class=\"hospital_address\">鳥栖市原町８６１番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -10046,7 +10046,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  田尻外科胃腸科医院</p>\n<p class=\"hospital_address\">鳥栖市幸津町１７６１番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -10098,7 +10098,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> いとうクリニック</p>\n<p class=\"hospital_address\">鳥栖市轟木町１３８３番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -10150,7 +10150,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人社団如水会  今村病院</p>\n<p class=\"hospital_address\">鳥栖市轟木町１５２３番地６</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -10202,7 +10202,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  藤戸医院</p>\n<p class=\"hospital_address\">鳥栖市今泉町２４２５番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -10254,7 +10254,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　前山内科</p>\n<p class=\"hospital_address\">鳥栖市宿町１４６５番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -10306,7 +10306,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　せとじまクリニック</p>\n<p class=\"hospital_address\">鳥栖市真木町１９７４番地４</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -10358,7 +10358,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人正友会 松岡病院</p>\n<p class=\"hospital_address\">鳥栖市西新町１４２２番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -10410,7 +10410,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　野田内科</p>\n<p class=\"hospital_address\">鳥栖市西田町２１１番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -10462,7 +10462,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 野下医院</p>\n<p class=\"hospital_address\">鳥栖市曽根崎町１５５３番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -10514,7 +10514,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人玄々堂 玄々堂内科</p>\n<p class=\"hospital_address\">鳥栖市曽根崎町２３５０番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -10566,7 +10566,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> かわらハートクリニック</p>\n<p class=\"hospital_address\">鳥栖市曽根崎町２３７５</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -10618,7 +10618,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人はらだ会はらだ内科胃腸科</p>\n<p class=\"hospital_address\">鳥栖市鎗田町２８１番地３</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -10670,7 +10670,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　まごころ医療館</p>\n<p class=\"hospital_address\">鳥栖市蔵上２丁目２１０番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -10722,7 +10722,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> こが医療館　明彦まきこクリニック</p>\n<p class=\"hospital_address\">鳥栖市大正町７６４−５</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -10774,7 +10774,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 上野内科</p>\n<p class=\"hospital_address\">鳥栖市田代外町６０３番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -10826,7 +10826,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  斎藤内科医院</p>\n<p class=\"hospital_address\">鳥栖市東町１丁目１０５８番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -10878,7 +10878,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 宮崎医院</p>\n<p class=\"hospital_address\">鳥栖市東町１丁目１０５９番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -10930,7 +10930,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 米光クリニック</p>\n<p class=\"hospital_address\">鳥栖市本町２丁目７９番７号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -10982,7 +10982,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人清明会やよいがおか鹿毛病院</p>\n<p class=\"hospital_address\">鳥栖市弥生が丘２丁目１４３番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -11034,7 +11034,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人光寿  權藤医院</p>\n<p class=\"hospital_address\">鳥栖市弥生が丘２丁目１番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -11086,7 +11086,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 品川内科クリニック</p>\n<p class=\"hospital_address\">鳥栖市弥生が丘５丁目２２２番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -11138,7 +11138,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人希清会　岩本内科</p>\n<p class=\"hospital_address\">唐津市海岸通７１８２番地３０６</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -11190,7 +11190,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  成瀬胃腸科内科クリニック</p>\n<p class=\"hospital_address\">唐津市鏡３５００番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -11242,7 +11242,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人至誠堂　宇都宮病院</p>\n<p class=\"hospital_address\">唐津市厳木町本山３８６番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -11294,7 +11294,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　吉田内科クリニック</p>\n<p class=\"hospital_address\">唐津市紺屋町１６７５番地２</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -11346,7 +11346,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　誠仁会なばたけ冬野クリニック</p>\n<p class=\"hospital_address\">唐津市菜畑３６６０番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -11398,7 +11398,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 山下町クリニック</p>\n<p class=\"hospital_address\">唐津市山下町１１４１番地２</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -11450,7 +11450,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  平川病院</p>\n<p class=\"hospital_address\">唐津市山本６４４番地５</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -11502,7 +11502,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人慈孝会　七山診療所</p>\n<p class=\"hospital_address\">唐津市七山藤川２７５５番地６</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -11554,7 +11554,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人松籟会  河畔病院</p>\n<p class=\"hospital_address\">唐津市新興町６８</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -11606,7 +11606,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 宮崎外科胃腸科</p>\n<p class=\"hospital_address\">唐津市神田２２０２番地２０</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -11658,7 +11658,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人友和会  今村医院</p>\n<p class=\"hospital_address\">唐津市千代田町２５８３番地５</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -11710,7 +11710,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 吉富外科胃腸科医院</p>\n<p class=\"hospital_address\">唐津市船宮町2302番地33</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -11762,7 +11762,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 関医院</p>\n<p class=\"hospital_address\">唐津市船宮町２５８８番地３</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -11814,7 +11814,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人清心会  服巻医院</p>\n<p class=\"hospital_address\">唐津市相知町相知２２６４番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -11866,7 +11866,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人尚誠会　冬野病院</p>\n<p class=\"hospital_address\">唐津市大石町２４１４番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -11918,7 +11918,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> ふじい胃腸内科・小児科</p>\n<p class=\"hospital_address\">唐津市大名小路２番４４号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -11970,7 +11970,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人春陽会　野口内科</p>\n<p class=\"hospital_address\">唐津市大名小路５番３号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -12022,7 +12022,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人なごみ会　酒井医院</p>\n<p class=\"hospital_address\">唐津市町田１丁目８番５号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -12074,7 +12074,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　いのうえ内科クリニック</p>\n<p class=\"hospital_address\">唐津市鎮西町名護屋３８９１番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -12126,7 +12126,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 本告医院</p>\n<p class=\"hospital_address\">唐津市東城内１７番２６号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -12178,7 +12178,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 井本整形外科・内科クリニック</p>\n<p class=\"hospital_address\">唐津市東唐津３丁目１番１３号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -12230,7 +12230,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 森永胃腸科医院</p>\n<p class=\"hospital_address\">唐津市南城内２番１７号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -12282,7 +12282,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人賛健会　城内病院</p>\n<p class=\"hospital_address\">唐津市肥前町入野９１５番地７</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -12334,7 +12334,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 渡辺内科</p>\n<p class=\"hospital_address\">唐津市北波多徳須恵１４２４番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -12386,7 +12386,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 唐津市民病院きたはた</p>\n<p class=\"hospital_address\">唐津市湊町７６９番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -12438,7 +12438,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 岸川内科</p>\n<p class=\"hospital_address\">唐津市和多田天満町１丁目１番３号</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -12490,7 +12490,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  久間内科</p>\n<p class=\"hospital_address\">唐津市和多田本村2-17-8</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -12542,7 +12542,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> なかおだクリニック</p>\n<p class=\"hospital_address\">東松浦郡玄海町大字今村６１１６番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -12594,7 +12594,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 堀田医院</p>\n<p class=\"hospital_address\">東松浦郡玄海町大字諸浦６番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -12646,7 +12646,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  田渕医院</p>\n<p class=\"hospital_address\">藤津郡太良町大字多良１３２９番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -12698,7 +12698,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　田代医院</p>\n<p class=\"hospital_address\">藤津郡太良町大字多良１５２０番地１２</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -12750,7 +12750,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 町立太良病院</p>\n<p class=\"hospital_address\">藤津郡太良町大字大浦丁３６９番地２</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -12802,7 +12802,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 緒方医院</p>\n<p class=\"hospital_address\">武雄市山内町大字三間坂甲１３２０２番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -12854,7 +12854,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人竜門堂 毛利医院</p>\n<p class=\"hospital_address\">武雄市山内町大字三間坂甲１４０１７番地５</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -12906,7 +12906,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人竜門堂 竜門堂医院</p>\n<p class=\"hospital_address\">武雄市山内町大字大野６６０２番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -12958,7 +12958,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人清哲会　藤瀬医院</p>\n<p class=\"hospital_address\">武雄市山内町大字鳥海９７７７番地２</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -13010,7 +13010,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人養寿堂 まつお内科・眼科</p>\n<p class=\"hospital_address\">武雄市朝日町大字甘久１８５７番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -13062,7 +13062,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  楢崎内科</p>\n<p class=\"hospital_address\">武雄市朝日町大字甘久２００１番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -13114,7 +13114,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人東雲会  小野医院</p>\n<p class=\"hospital_address\">武雄市東川登町大字永野５７５２番地２</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -13166,7 +13166,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人 田中内科医院</p>\n<p class=\"hospital_address\">武雄市武雄町大字永島１５３６１番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -13218,7 +13218,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　たけお内科医院</p>\n<p class=\"hospital_address\">武雄市武雄町大字昭和11番地２</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -13270,7 +13270,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　つちはし医院</p>\n<p class=\"hospital_address\">武雄市武雄町大字昭和７５番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -13322,7 +13322,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　古賀内科医院</p>\n<p class=\"hospital_address\">武雄市武雄町大字富岡１１５３４番地２</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -13374,7 +13374,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人敬和会  持田病院</p>\n<p class=\"hospital_address\">武雄市武雄町大字武雄５８５８番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -13426,7 +13426,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人  貝原医院</p>\n<p class=\"hospital_address\">武雄市武雄町大字武雄８００７番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -13478,7 +13478,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　ニコークリニック</p>\n<p class=\"hospital_address\">武雄市北方町大字志久１５７４番地</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
@@ -13530,7 +13530,7 @@
         "description": "<div class=\"hospital_balloon\">\n<p class=\"hospital_name\"> 医療法人　まつもと内科・胃腸科クリニック</p>\n<p class=\"hospital_address\">武雄市北方町大字大崎１３１８番地１</p>\n\n\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "http://kanen.mapping.jp/images/icon/hospital_icon.png",
+            "image": "../images/icon/hospital_icon.png",
 			"color": {
                 "rgba": [
                     255,
