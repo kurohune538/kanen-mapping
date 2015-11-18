@@ -214,7 +214,7 @@
 			setTimeout('loadCzml()',3000);
 		}
 
-//CZMLロード
+//CZMLロード,OSM追加
 
 		function loadCzml(){
 			var i = 0;
@@ -236,6 +236,7 @@
 					osm = layers.addImageryProvider(newLayer);
 					osm.alpha = 1.0;
 					osm.brightness = 0.9;
+					osm.saturation = 0.1;
 					setTimeout('blackOut(0)',3000);
 				}
 			}, 200);
