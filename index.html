@@ -87,6 +87,10 @@
 			</li>
 		</ul>
 	</div>
+	<div id="streetView_wrapper">
+		<div id="streetView"></div>
+			<button class="btn" onclick="fadeOut('streetView_wrapper', 100)">×</button>
+	</div>
 	<script>
 		var blackOutDiv = document.getElementById("blackOut");
 	
@@ -124,6 +128,7 @@
 
 //グローバル変数定義
 
+        var entities;
 		var osm;
 		var mobile = 0;
 		
@@ -182,10 +187,7 @@
 			position : Cesium.Cartesian3.fromDegrees(132.45470999999998,34.394915,20000000),
 			roll : 0.0
 		});
-		
-//ダブルクリック時の強制LookAtを禁止
 
-		viewer.screenSpaceEventHandler.removeInputAction(Cesium.ScreenSpaceEventType.LEFT_DOUBLE_CLICK);
 
 //Z軸束縛
 
@@ -214,7 +216,7 @@
 			setTimeout('loadCzml()',3000);
 		}
 
-//CZMLロード,OSM追加
+//CZMLロード，OSMレイヤ追加
 
 		function loadCzml(){
 			var i = 0;
@@ -237,6 +239,7 @@
 					osm.alpha = 1.0;
 					osm.brightness = 0.9;
 					osm.saturation = 0.1;
+					setClickEvent();
 					setTimeout('blackOut(0)',3000);
 				}
 			}, 200);
@@ -247,6 +250,53 @@
 		function transParent(){
 			osm.alpha = document.getElementById("range01").value * 0.05;
 		}
+
+//ダブルクリックでストビューを更新
+
+        function setClickEvent(){
+            var handler = new Cesium.ScreenSpaceEventHandler(viewer.scene.canvas);
+            handler.setInputAction(function(click) {
+                var pickedObject = viewer.scene.pick(click.position);
+                if (Cesium.defined(pickedObject) && (pickedObject != "")) {
+	  				var position = pickedObject.id.position._value;
+					console.log (position);
+					var cart = Cesium.Ellipsoid.WGS84.cartesianToCartographic(position);
+					var latlng = new google.maps.LatLng(Cesium.Math.toDegrees(cart.latitude), Cesium.Math.toDegrees(cart.longitude));
+					document.getElementById("streetView_wrapper").style.display = "block";
+					fadeIn("streetView_wrapper", 0);
+					var svp = new google.maps.StreetViewPanorama(
+							document.getElementById("streetView"),{
+								position : latlng
+							});
+                    }
+            }, Cesium.ScreenSpaceEventType.LEFT_DOUBLE_CLICK);
+        }
+
+//ストビューレイヤfadeIn
+
+        function fadeIn(id,opa){
+            if (opa <= 100){
+                document.getElementById(id).style.filter = "alpha(opacity:" + opa + ")"; // IE のソース
+                document.getElementById(id).style.opacity = opa / 100; //Mozilla Firefoxのソース
+                opa += 10;
+                setTimeout("fadeIn('" + id + "'," + opa + ")", 20);
+            }
+        }
+
+//ストビューレイヤfadeOut＋トラッキング解除
+
+        function fadeOut(id,opa){
+            if (0 <= opa){
+                document.getElementById(id).style.filter = "alpha(opacity:" + opa + ")"; // IE のソース
+                document.getElementById(id).style.opacity = opa / 100; //Mozilla Firefoxのソース
+                opa -= 10;
+                setTimeout("fadeOut('" + id + "'," + opa + ")", 20);
+            }
+            else{
+                document.getElementById(id).style.display = 'none';
+				viewer.trackedEntity = undefined;
+            }
+        }
 
 //視点変更
 
@@ -324,6 +374,7 @@
 				});
 			} 
 		}
+
 	</script>
 </body>
 
