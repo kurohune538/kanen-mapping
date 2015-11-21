@@ -273,9 +273,8 @@
 					var latlng = new google.maps.LatLng(Cesium.Math.toDegrees(cart.latitude), Cesium.Math.toDegrees(cart.longitude));
 					
 					var sv = new google.maps.StreetViewService();
-					sv.getPanoramaByLocation(latlng, 50, processSVData);
-					
-					function processSVData(data, status) {
+					sv.getPanoramaByLocation(latlng, 50, 
+					function (data, status) {
 						//ストリートビュー未対応エリアの場合
 						if (status != google.maps.StreetViewStatus.OK) {
 							svNotAvailable.innerHTML = '<p class="errorMessage">この場所のストリートビューは利用できません</p>';
@@ -290,7 +289,7 @@
 									position : latlng
 								});
 							}
-						}
+						});
 					}
             }, Cesium.ScreenSpaceEventType.LEFT_DOUBLE_CLICK);
         }
