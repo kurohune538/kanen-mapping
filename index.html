@@ -4,10 +4,11 @@
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
-	<meta name="description" content="「佐賀・肝炎マッピング」は、佐賀県内の肝炎ウイルスの無料検査機関や医療機関を、地図で簡単に検索できるシステムです。佐賀大学 江口有一郎研究室×首都大学東京 渡邉英徳研究室" />
-	<meta property="og:image" content="http://kanen.mapping.jp/images/sns.jpg"
+	<meta name="description" content="「佐賀・肝炎マッピング」は、佐賀県内の肝炎ウイルスの無料検査機関や医療機関を、地図で簡単に検索できるシステムです。佐賀大学 江口有一郎研究室×首都大学東京 渡邉英徳研究室"
 	/>
-	<meta property="og:description" content="「佐賀・肝炎マッピング」は、佐賀県内の肝炎ウイルスの無料検査機関や医療機関を、地図で簡単に検索できるシステムです。佐賀大学 江口有一郎研究室×首都大学東京 渡邉英徳研究室" />
+	<meta property="og:image" content="http://kanen.mapping.jp/images/sns.jpg" />
+	<meta property="og:description" content="「佐賀・肝炎マッピング」は、佐賀県内の肝炎ウイルスの無料検査機関や医療機関を、地図で簡単に検索できるシステムです。佐賀大学 江口有一郎研究室×首都大学東京 渡邉英徳研究室"
+	/>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
 
 	<title>肝炎マッピング</title>
@@ -42,6 +43,7 @@
 	<div id="slider">
 		<input id="range01" type="range" min="0" max="20" value="20" step="1" oninput="transParent();" />
 	</div>
+	<div id="svNotAvailable" onclick="fadeInOut(svNotAvailable,0)"></div>
 	<div id="blackOut"><img class="loading" src="data/loading.gif"></div>
 	<div id="cesiumContainer"></div>
 	<div id="button" class="general-button">
@@ -82,17 +84,26 @@
 				target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img class="share" src="data/flat_web_icon_set/color/Twitter.png"></a>
 			</li>
 			<li>
-				<a href="https://plus.google.com/share?url=http%3A%2F%2Fkanen.mapping.jp%2F" target="_blank" title="Share on Google+"
-				onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL)); return false;"><img class="share" src="data/flat_web_icon_set/color/Google+.png"></a>
+				<a href="https://plus.google.com/share?url=http%3A%2F%2Fkanen.mapping.jp%2F" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL)); return false;"><img class="share" src="data/flat_web_icon_set/color/Google+.png"></a>
 			</li>
 		</ul>
 	</div>
 	<div id="streetView_wrapper">
 		<div id="streetView"></div>
-			<button class="btn" onclick="fadeOut('streetView_wrapper', 100)">×</button>
+		<button class="btn" onclick="fadeInOut(streetView_wrapper,0)">×</button>
 	</div>
 	<script>
+//各種DIVオブジェクトを取得
+
 		var blackOutDiv = document.getElementById("blackOut");
+		var streetViewWrapper = document.getElementById("streetView_wrapper");
+		var svNotAvailable = document.getElementById("svNotAvailable");
+
+//SVエラーメッセージレイヤを隠す
+
+		$(function() {
+			$(svNotAvailable).hide();
+		});
 	
 //視点配列作成関数
 	
@@ -198,8 +209,7 @@
 		if (mobile == 1){
 			viewer.scene.screenSpaceCameraController.enableTilt = false;
 		}
-
-		blackOut(0);
+		fadeInOut(blackOutDiv,0);
 		
 //視点移動シークエンス
 		
@@ -212,7 +222,7 @@
 		
 		function landing(){
 			changeViewPoint(5,3);
-			setTimeout('blackOut(1)',3000);
+			setTimeout('fadeInOut(blackOutDiv,1)',3000);
 			setTimeout('loadCzml()',3000);
 		}
 
@@ -240,7 +250,7 @@
 					osm.brightness = 0.9;
 					osm.saturation = 0.1;
 					setClickEvent();
-					setTimeout('blackOut(0)',3000);
+					setTimeout('fadeInOut(blackOutDiv,0)',3000);
 				}
 			}, 200);
 		}
@@ -259,45 +269,32 @@
                 var pickedObject = viewer.scene.pick(click.position);
                 if (Cesium.defined(pickedObject) && (pickedObject != "")) {
 	  				var position = pickedObject.id.position._value;
-					console.log (position);
 					var cart = Cesium.Ellipsoid.WGS84.cartesianToCartographic(position);
 					var latlng = new google.maps.LatLng(Cesium.Math.toDegrees(cart.latitude), Cesium.Math.toDegrees(cart.longitude));
-					document.getElementById("streetView_wrapper").style.display = "block";
-					fadeIn("streetView_wrapper", 0);
-					var svp = new google.maps.StreetViewPanorama(
-							document.getElementById("streetView"),{
-								position : latlng
-							});
-                    }
+					
+					var sv = new google.maps.StreetViewService();
+					sv.getPanoramaByLocation(latlng, 50, processSVData);
+					
+					function processSVData(data, status) {
+						//ストリートビュー未対応エリアの場合
+						if (status != google.maps.StreetViewStatus.OK) {
+							svNotAvailable.innerHTML = '<p class="errorMessage">この場所のストリートビューは利用できません</p>';
+							fadeInOut(svNotAvailable,1);
+							setTimeout('fadeInOut(svNotAvailable,0)',1500);
+						}
+						else{
+							streetViewWrapper.style.display = "block";
+							fadeInOut(streetViewWrapper,1);
+							var svp = new google.maps.StreetViewPanorama(
+								document.getElementById("streetView"),{
+									position : latlng
+								});
+							}
+						}
+					}
             }, Cesium.ScreenSpaceEventType.LEFT_DOUBLE_CLICK);
         }
-
-//ストビューレイヤfadeIn
-
-        function fadeIn(id,opa){
-            if (opa <= 100){
-                document.getElementById(id).style.filter = "alpha(opacity:" + opa + ")"; // IE のソース
-                document.getElementById(id).style.opacity = opa / 100; //Mozilla Firefoxのソース
-                opa += 10;
-                setTimeout("fadeIn('" + id + "'," + opa + ")", 20);
-            }
-        }
-
-//ストビューレイヤfadeOut＋トラッキング解除
-
-        function fadeOut(id,opa){
-            if (0 <= opa){
-                document.getElementById(id).style.filter = "alpha(opacity:" + opa + ")"; // IE のソース
-                document.getElementById(id).style.opacity = opa / 100; //Mozilla Firefoxのソース
-                opa -= 10;
-                setTimeout("fadeOut('" + id + "'," + opa + ")", 20);
-            }
-            else{
-                document.getElementById(id).style.display = 'none';
-				viewer.trackedEntity = undefined;
-            }
-        }
-
+ 
 //視点変更
 
 		function changeViewPoint(num, delay) {
@@ -361,20 +358,20 @@
 			navigator.geolocation.getCurrentPosition(fly);
 		}
 
-//ローディング時の黒バックON/OFF
+//レイヤON/OFF
 
-		function blackOut(param) {
+		function fadeInOut(layer,param) {
 			if (param == 0){
 				$(function() {
-					$(blackOutDiv).fadeOut("slow");
+					$(layer).fadeOut("slow");
 				});
+				viewer.trackedEntity = undefined;
 			} else {
 				$(function() {
-					$(blackOutDiv).fadeIn("slow");
+					$(layer).fadeIn("slow");
 				});
 			} 
 		}
-
 	</script>
 </body>
 
