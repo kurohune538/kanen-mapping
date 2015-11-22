@@ -219,6 +219,10 @@ img.photograph {
     border-bottom: 1px dashed #F8DE8A
 }
 
+.hospital_balloon {
+    min-height: 64px;
+}
+
 .hospital_name_coordinator {
     font-size: 15px;
     color: #595757;
@@ -253,7 +257,7 @@ p.hospital_name {
 }
 
 p.hospital_name {
-    font-size: 21px;
+    font-size: 19px;
     margin-top: 23px;
     margin-right: 20px;
     border-bottom: 1px dashed #8dc21f
