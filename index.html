@@ -275,36 +275,48 @@ function setClickEvent(){
 			var sv = new google.maps.StreetViewService();
 			sv.getPanoramaByLocation(latlng, 50, 
 				function (data, status) {
-								//ストリートビュー未対応エリアの場合
-								if (status != google.maps.StreetViewStatus.OK) {
-									svNotAvailable.innerHTML = '<p class="errorMessage">この場所のストリートビューは利用できません</p>';
-									fadeInOut(svNotAvailable,1);
-									setTimeout('fadeInOut(svNotAvailable,0)',1500);
-								}
-								else{
-									streetViewWrapper.style.display = "block";
-									fadeInOut(streetViewWrapper,1);
-									var svp = new google.maps.StreetViewPanorama(
-										document.getElementById("streetView"),{
-											position : latlng
-										});
-								}
-								var newHeading = Cesium.Math.toRadians(0);
-								var newPitch = Cesium.Math.toRadians(-85);
-								var newRange = 100;
+					//ストリートビュー未対応エリアの場合
+					if (status != google.maps.StreetViewStatus.OK) {
+						svNotAvailable.innerHTML = '<p class="errorMessage">この場所のストリートビューは利用できません</p>';
+						fadeInOut(svNotAvailable,1);
+						setTimeout('fadeInOut(svNotAvailable,0)',1500);
+					}
+					else{
+						streetViewWrapper.style.display = "block";
+						fadeInOut(streetViewWrapper,1);
+						
+						var streetViewOptions = {
+							enableCloseButton:false,
+							addressControl:false,
+							panControl:true,
+							panControlOptions:{
+								position:google.maps.ControlPosition.TOP_CENTER
+							},
+							zoomControl:false,
+						};
 
-								var center = position;
-								var boundingSphere = new Cesium.BoundingSphere(center, 100);
-								var headingPitchRange = new Cesium.HeadingPitchRange(newHeading, newPitch, newRange);
-
-								viewer.camera.flyToBoundingSphere(boundingSphere,{
-									duration : 1,
-									offset : headingPitchRange,
-									easingFunction: Cesium.EasingFunction.CUBIC_IN_OUT
-								});
+						var svp = new google.maps.StreetViewPanorama(
+							document.getElementById("streetView"),{
+								position : latlng
 							});
-}
-}, Cesium.ScreenSpaceEventType.LEFT_DOUBLE_CLICK);
+						svp.setOptions(streetViewOptions); 
+					}
+					var newHeading = Cesium.Math.toRadians(0);
+					var newPitch = Cesium.Math.toRadians(-85);
+					var newRange = 100;
+
+					var center = position;
+					var boundingSphere = new Cesium.BoundingSphere(center, 100);
+					var headingPitchRange = new Cesium.HeadingPitchRange(newHeading, newPitch, newRange);
+
+					viewer.camera.flyToBoundingSphere(boundingSphere,{
+						duration : 1,
+						offset : headingPitchRange,
+						easingFunction: Cesium.EasingFunction.CUBIC_IN_OUT
+					});
+			});
+		}
+	}, Cesium.ScreenSpaceEventType.LEFT_DOUBLE_CLICK);
 }
 
 //視点変更
