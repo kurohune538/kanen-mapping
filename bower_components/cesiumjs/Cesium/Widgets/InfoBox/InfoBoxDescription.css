@@ -270,7 +270,7 @@ p.hospital_address {
 
 p.title {
     margin-top: 31px;
-    margin-bottom: 1px;
+    margin-bottom: 31px;
     text-align: center;
     font-size: 15px;
 }
@@ -297,7 +297,7 @@ p.status {
 }
 
 p.youtube {
-    margin:0px;
+    margin:10px 0px;
     padding:0px;
 
 }
