@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>kranke.kml</name>
+	<Style id="sh_001">
+		<IconStyle>
+			<scale>1.41818</scale>
+			<Icon>
+				<href>/Users/hwtnv/Google ドライブ/ソースコード/kanenMapping/images/kao_kranke/001.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.3</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_003">
+		<IconStyle>
+			<scale>1.41818</scale>
+			<Icon>
+				<href>/Users/hwtnv/Google ドライブ/ソースコード/kanenMapping/images/kao_kranke/003.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.3</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_003">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_003</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_003</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_002">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_002</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_002</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_002">
+		<IconStyle>
+			<scale>1.41818</scale>
+			<Icon>
+				<href>/Users/hwtnv/Google ドライブ/ソースコード/kanenMapping/images/kao_kranke/002.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.3</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_002">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>/Users/hwtnv/Google ドライブ/ソースコード/kanenMapping/images/kao_kranke/002.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.3</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_005">
+		<IconStyle>
+			<scale>1.41818</scale>
+			<Icon>
+				<href>/Users/hwtnv/Google ドライブ/ソースコード/kanenMapping/images/kao_kranke/005.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.3</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_005">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_005</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_005</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_004">
+		<IconStyle>
+			<scale>1.41818</scale>
+			<Icon>
+				<href>/Users/hwtnv/Google ドライブ/ソースコード/kanenMapping/images/kao_kranke/004.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.3</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_006">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>/Users/hwtnv/Google ドライブ/ソースコード/kanenMapping/images/kao_kranke/006.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.3</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_003">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>/Users/hwtnv/Google ドライブ/ソースコード/kanenMapping/images/kao_kranke/003.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.3</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_007">
+		<IconStyle>
+			<scale>1.41818</scale>
+			<Icon>
+				<href>/Users/hwtnv/Google ドライブ/ソースコード/kanenMapping/images/kao_kranke/007.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.3</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_006">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_006</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_006</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_001">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>/Users/hwtnv/Google ドライブ/ソースコード/kanenMapping/images/kao_kranke/001.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.3</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_006">
+		<IconStyle>
+			<scale>1.41818</scale>
+			<Icon>
+				<href>/Users/hwtnv/Google ドライブ/ソースコード/kanenMapping/images/kao_kranke/006.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.3</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_005">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>/Users/hwtnv/Google ドライブ/ソースコード/kanenMapping/images/kao_kranke/005.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.3</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_004">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_004</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_004</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_007">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>/Users/hwtnv/Google ドライブ/ソースコード/kanenMapping/images/kao_kranke/007.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.3</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_004">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>/Users/hwtnv/Google ドライブ/ソースコード/kanenMapping/images/kao_kranke/004.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.3</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_007">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_007</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_007</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>肝炎患者</name>
+		<open>1</open>
+		<Placemark>
+			<name>患者家族の思い</name>
+			<description><![CDATA[<p class="title">患者家族の思い</p>
+<p class="category">患者家族</p>
+<p class="youtube"><iframe width="297" height="223" src="https://www.youtube.com/embed/IqmwUqEVZDE?rel=0" frameborder="0" allowfullscreen></iframe></p>]]></description>
+			<LookAt>
+				<longitude>130.2997938710354</longitude>
+				<latitude>33.24944156266259</latitude>
+				<altitude>0</altitude>
+				<heading>-1.803663362365985e-07</heading>
+				<tilt>0</tilt>
+				<range>119582.8513227574</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_001</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>130.2997938710354,33.2494415626626,2000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>困ったことを、一言家族の人に言ってほしいです</name>
+			<open>1</open>
+			<description><![CDATA[<p class="title">困ったことを、一言家族の人に言ってほしいです</p>
+<p class="category">C型</p>
+<p class="care">肝臓がん治療歴なし</p>
+<p class="status">肝炎未治療</p>
+<p class="youtube"><iframe width="297" height="223" src="https://www.youtube.com/embed/dnX2O59D5UM?rel=0" frameborder="0" allowfullscreen></iframe></p>]]></description>
+			<LookAt>
+				<longitude>130.4232723098951</longitude>
+				<latitude>33.28022202568584</latitude>
+				<altitude>0</altitude>
+				<heading>-0.06943858628932885</heading>
+				<tilt>0.7175952714828201</tilt>
+				<range>82053.63425773357</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_002</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>130.3638685011211,33.27895565392255,2000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>肝臓がんも治療しました</name>
+			<open>1</open>
+			<description><![CDATA[<p class="title">肝臓がんも治療しました</p>
+<p class="category">C型</p>
+<p class="care">肝臓がん治療歴あり</p>
+<p class="status">肝炎治療済み</p>
+<p class="youtube"><iframe width="297" height="223" src="https://www.youtube.com/embed/PofCjA1c-N8?rel=0" frameborder="0" allowfullscreen></iframe></p>]]></description>
+			<LookAt>
+				<longitude>130.4250683048884</longitude>
+				<latitude>33.2855696570183</latitude>
+				<altitude>0</altitude>
+				<heading>-0.06843624704249003</heading>
+				<tilt>0.7176767853064173</tilt>
+				<range>82053.5304698276</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_003</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>130.2071397385886,33.20977809403047,2000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>肝炎コーディネーターに支えてもらいました</name>
+			<open>1</open>
+			<description><![CDATA[<p class="title">肝炎コーディネーターに支えてもらいました</p>
+<p class="category">C型/p>
+<p class="care">肝臓がん治療歴なし</p>
+<p class="status">肝炎治療済み</p>
+<p class="youtube"><iframe width="297" height="223" src="https://www.youtube.com/embed/aBfqZ8CY5E0?rel=0" frameborder="0" allowfullscreen></iframe></p>]]></description>
+			<LookAt>
+				<longitude>130.4250683048884</longitude>
+				<latitude>33.2855696570183</latitude>
+				<altitude>0</altitude>
+				<heading>-0.06843624704249003</heading>
+				<tilt>0.7176767853064173</tilt>
+				<range>82053.5304698276</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_004</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>130.3869185690282,33.21870421206378,2000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>診断された当初は「困ったな」と思っていませんでした</name>
+			<open>1</open>
+			<description><![CDATA[<p class="title">診断された当初は「困ったな」と思っていませんでした</p>
+<p class="category">C型/p>
+<p class="care">肝臓がん治療歴なし</p>
+<p class="status">肝炎治療済み</p>
+<p class="youtube"><iframe width="297" height="223" src="https://www.youtube.com/embed/psxp8zuAE4o?rel=0" frameborder="0" allowfullscreen></iframe></p>]]></description>
+			<LookAt>
+				<longitude>130.4250683048884</longitude>
+				<latitude>33.2855696570183</latitude>
+				<altitude>0</altitude>
+				<heading>-0.06843624704249003</heading>
+				<tilt>0.7176767853064173</tilt>
+				<range>82053.5304698276</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_005</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>130.3057620411963,33.20706005950782,2000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>最初は治療に否定的でした</name>
+			<open>1</open>
+			<description><![CDATA[<p class="title">最初は治療に否定的でした</p>
+<p class="category">C型/p>
+<p class="care">肝臓がん治療歴なし</p>
+<p class="status">肝炎治療済み</p>
+<p class="youtube"><iframe width="297" height="223" src="https://www.youtube.com/embed/ur2iGX_lTys?rel=0" frameborder="0" allowfullscreen></iframe></p>]]></description>
+			<LookAt>
+				<longitude>130.4250683048884</longitude>
+				<latitude>33.2855696570183</latitude>
+				<altitude>0</altitude>
+				<heading>-0.06843624704249003</heading>
+				<tilt>0.7176767853064173</tilt>
+				<range>82053.5304698276</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_006</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>130.235054743211,33.26484063726053,2000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>インターフェロン治療を4回し、治癒しました</name>
+			<open>1</open>
+			<description><![CDATA[<p class="title">インターフェロン治療を4回し、治癒しました</p>
+<p class="category">C型/p>
+<p class="care">肝臓がん治療歴なし</p>
+<p class="status">肝炎治療済み</p>
+<p class="youtube"><iframe width="297" height="223" src="https://www.youtube.com/embed/ZQtXcxFn_Sc?rel=0" frameborder="0" allowfullscreen></iframe></p>]]></description>
+			<LookAt>
+				<longitude>130.4250683048884</longitude>
+				<latitude>33.2855696570183</latitude>
+				<altitude>0</altitude>
+				<heading>-0.06843624704249003</heading>
+				<tilt>0.7176767853064173</tilt>
+				<range>82053.5304698276</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_007</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>130.3080164975687,33.29562359129933,2000</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
