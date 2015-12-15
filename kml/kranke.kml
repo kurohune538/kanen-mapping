@@ -10,7 +10,7 @@
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<scale>1.3</scale>
+			<scale>0.8</scale>
 		</LabelStyle>
 		<ListStyle>
 		</ListStyle>
@@ -23,7 +23,7 @@
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<scale>1.3</scale>
+			<scale>0.8</scale>
 		</LabelStyle>
 		<ListStyle>
 		</ListStyle>
@@ -56,20 +56,20 @@
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<scale>1.3</scale>
+			<scale>0.8</scale>
 		</LabelStyle>
 		<ListStyle>
 		</ListStyle>
 	</Style>
 	<Style id="sn_002">
 		<IconStyle>
-			<scale>1.2</scale>
+			<scale>1.7</scale>
 			<Icon>
 				<href>../images/kao_kranke/002.png</href>
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<scale>1.3</scale>
+			<scale>0.8</scale>
 		</LabelStyle>
 		<ListStyle>
 		</ListStyle>
@@ -82,7 +82,7 @@
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<scale>1.3</scale>
+			<scale>0.8</scale>
 		</LabelStyle>
 		<ListStyle>
 		</ListStyle>
@@ -115,33 +115,33 @@
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<scale>1.3</scale>
+			<scale>0.8</scale>
 		</LabelStyle>
 		<ListStyle>
 		</ListStyle>
 	</Style>
 	<Style id="sn_006">
 		<IconStyle>
-			<scale>1.2</scale>
+			<scale>1.7</scale>
 			<Icon>
 				<href>../images/kao_kranke/006.png</href>
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<scale>1.3</scale>
+			<scale>0.8</scale>
 		</LabelStyle>
 		<ListStyle>
 		</ListStyle>
 	</Style>
 	<Style id="sn_003">
 		<IconStyle>
-			<scale>1.2</scale>
+			<scale>1.7</scale>
 			<Icon>
 				<href>../images/kao_kranke/003.png</href>
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<scale>1.3</scale>
+			<scale>0.8</scale>
 		</LabelStyle>
 		<ListStyle>
 		</ListStyle>
@@ -154,7 +154,7 @@
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<scale>1.3</scale>
+			<scale>0.8</scale>
 		</LabelStyle>
 		<ListStyle>
 		</ListStyle>
@@ -171,13 +171,13 @@
 	</StyleMap>
 	<Style id="sn_001">
 		<IconStyle>
-			<scale>1.2</scale>
+			<scale>1.7</scale>
 			<Icon>
 				<href>../images/kao_kranke/001.png</href>
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<scale>1.3</scale>
+			<scale>0.8</scale>
 		</LabelStyle>
 		<ListStyle>
 		</ListStyle>
@@ -190,20 +190,20 @@
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<scale>1.3</scale>
+			<scale>0.8</scale>
 		</LabelStyle>
 		<ListStyle>
 		</ListStyle>
 	</Style>
 	<Style id="sn_005">
 		<IconStyle>
-			<scale>1.2</scale>
+			<scale>1.7</scale>
 			<Icon>
 				<href>../images/kao_kranke/005.png</href>
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<scale>1.3</scale>
+			<scale>0.8</scale>
 		</LabelStyle>
 		<ListStyle>
 		</ListStyle>
@@ -220,26 +220,26 @@
 	</StyleMap>
 	<Style id="sn_007">
 		<IconStyle>
-			<scale>1.2</scale>
+			<scale>1.7</scale>
 			<Icon>
 				<href>../images/kao_kranke/007.png</href>
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<scale>1.3</scale>
+			<scale>0.8</scale>
 		</LabelStyle>
 		<ListStyle>
 		</ListStyle>
 	</Style>
 	<Style id="sn_004">
 		<IconStyle>
-			<scale>1.2</scale>
+			<scale>1.7</scale>
 			<Icon>
 				<href>../images/kao_kranke/004.png</href>
 			</Icon>
 		</IconStyle>
 		<LabelStyle>
-			<scale>1.3</scale>
+			<scale>0.8</scale>
 		</LabelStyle>
 		<ListStyle>
 		</ListStyle>
@@ -330,7 +330,7 @@
 			<name>肝炎コーディネーターに支えてもらいました</name>
 			<open>1</open>
 			<description><![CDATA[<p class="title">肝炎コーディネーターに支えてもらいました</p>
-<p class="category">C型/p>
+<p class="category">C型</p>
 <p class="care">肝臓がん治療歴なし</p>
 <p class="status">肝炎治療済み</p>
 <p class="youtube"><iframe width="297" height="223" src="https://www.youtube.com/embed/aBfqZ8CY5E0?rel=0" frameborder="0" allowfullscreen></iframe></p>]]></description>
@@ -354,7 +354,7 @@
 			<name>診断された当初は「困ったな」と思っていませんでした</name>
 			<open>1</open>
 			<description><![CDATA[<p class="title">診断された当初は「困ったな」と思っていませんでした</p>
-<p class="category">C型/p>
+<p class="category">C型</p>
 <p class="care">肝臓がん治療歴なし</p>
 <p class="status">肝炎治療済み</p>
 <p class="youtube"><iframe width="297" height="223" src="https://www.youtube.com/embed/psxp8zuAE4o?rel=0" frameborder="0" allowfullscreen></iframe></p>]]></description>
@@ -378,7 +378,7 @@
 			<name>最初は治療に否定的でした</name>
 			<open>1</open>
 			<description><![CDATA[<p class="title">最初は治療に否定的でした</p>
-<p class="category">C型/p>
+<p class="category">C型</p>
 <p class="care">肝臓がん治療歴なし</p>
 <p class="status">肝炎治療済み</p>
 <p class="youtube"><iframe width="297" height="223" src="https://www.youtube.com/embed/ur2iGX_lTys?rel=0" frameborder="0" allowfullscreen></iframe></p>]]></description>
@@ -402,7 +402,7 @@
 			<name>インターフェロン治療を4回し、治癒しました</name>
 			<open>1</open>
 			<description><![CDATA[<p class="title">インターフェロン治療を4回し、治癒しました</p>
-<p class="category">C型/p>
+<p class="category">C型</p>
 <p class="care">肝臓がん治療歴なし</p>
 <p class="status">肝炎治療済み</p>
 <p class="youtube"><iframe width="297" height="223" src="https://www.youtube.com/embed/ZQtXcxFn_Sc?rel=0" frameborder="0" allowfullscreen></iframe></p>]]></description>
