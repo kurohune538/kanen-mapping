@@ -240,10 +240,7 @@ function loadCzml(){
 		i++;
 		if (i == czmlDataArray.length){
 			clearInterval(load);
-			var newLayer =  new Cesium.OpenStreetMapImageryProvider(
-			{
-			}
-			);
+			var newLayer =  new Cesium.OpenStreetMapImageryProvider({});
 			var layers = viewer.imageryLayers;
 			osm = layers.addImageryProvider(newLayer);
 			osm.alpha = 1.0;
@@ -313,9 +310,9 @@ function setClickEvent(){
 						offset : headingPitchRange,
 						easingFunction: Cesium.EasingFunction.CUBIC_IN_OUT
 					});
-			});
-		}
-	}, Cesium.ScreenSpaceEventType.LEFT_DOUBLE_CLICK);
+				});
+}
+}, Cesium.ScreenSpaceEventType.LEFT_DOUBLE_CLICK);
 }
 
 //視点変更

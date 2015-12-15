@@ -41,7 +41,7 @@
 	</form>
 </div>
 <div id="slider">
-	<input id="range01" type="range" min="0" max="20" value="20" step="1" oninput="transParent();" />
+	<input id="range01" type="range" min="0" max="20" value="0" step="1" oninput="transParent();" />
 </div>
 <div id="svNotAvailable" onclick="fadeInOut(svNotAvailable,0)"></div>
 <div id="blackOut"><img class="loading" src="data/loading.gif"></div>
@@ -124,6 +124,7 @@ viewPointsArray[3]=new viewPoints("佐賀県全域",33.251168,130.119531,0,-85,9
 viewPointsArray[4]=new viewPoints("日本全土",36.099338,133.689885,0,-85,2000000);
 viewPointsArray[5]=new viewPoints("初期位置",33.188542,130.127938,0,-37,53883);
 
+/*
 //CZML配列作成関数
 
 function czmlData(_label, _url) {
@@ -136,6 +137,17 @@ czmlDataArray[0]=new czmlData("肝炎コーディネーター",'czml/coordinator
 czmlDataArray[1]=new czmlData("ウイルス性肝炎治療費の助成が受けられる医療機関",'czml/josei.czml');
 czmlDataArray[2]=new czmlData("無料肝炎ウイルス検査を実施している医療機関",'czml/muryo.czml');
 czmlDataArray[3]=new czmlData("ウイルス性肝炎の陽性指摘後の精密検査費補助が受けられる医療機関",'czml/yousei.czml');
+*/
+
+//KML配列作成関数
+
+function kmlData(_label, _url) {
+	this.label = _label;
+	this.url = _url;
+}
+
+var kmlDataArray=[];
+kmlDataArray[0]=new kmlData("患者インタビュー",'kml/kranke.kml');
 
 //グローバル変数定義
 
@@ -223,9 +235,11 @@ function groundZero(){
 function landing(){
 	changeViewPoint(5,3);
 	setTimeout('fadeInOut(blackOutDiv,1)',3000);
-	setTimeout('loadCzml()',3000);
+//	setTimeout('loadCzml()',3000);
+setTimeout('loadKml()',3000);
 }
 
+/*
 //CZMLロード，OSMレイヤ追加
 
 function loadCzml(){
@@ -246,13 +260,40 @@ function loadCzml(){
 			);
 			var layers = viewer.imageryLayers;
 			osm = layers.addImageryProvider(newLayer);
-			osm.alpha = 1.0;
+			osm.alpha = 0.0;
 			osm.brightness = 0.9;
 			osm.saturation = 0.1;
 			setClickEvent();
 			setTimeout('fadeInOut(blackOutDiv,0)',3000);
 		}
 	}, 200);
+}
+*/
+
+//KMLロード，OSMレイヤ追加
+
+function loadCzml(){
+	var i = 0;
+	var load = setInterval(function(){
+		var promise = Cesium.KmlDataSource.load(kmlDataArray[i].url);
+		promise.then(function(dataSource) {
+			viewer.dataSources.add(dataSource);
+		}).otherwise(function(error){
+			alert('KMLデータが読み込めません');
+		});
+		i++;
+		if (i == kmlDataArray.length){
+			clearInterval(load);
+			var newLayer =  new Cesium.OpenStreetMapImageryProvider({});
+			var layers = viewer.imageryLayers;
+			osm = layers.addImageryProvider(newLayer);
+			osm.alpha = 0.0;
+			osm.brightness = 0.9;
+			osm.saturation = 0.1;
+//			setClickEvent();
+setTimeout('fadeInOut(blackOutDiv,0)',3000);
+}
+}, 200);
 }
 
 //OSMの透明度変更
@@ -261,6 +302,7 @@ function transParent(){
 	osm.alpha = document.getElementById("range01").value * 0.05;
 }
 
+/*
 //ダブルクリックでストビューを更新
 
 function setClickEvent(){
@@ -317,6 +359,7 @@ function setClickEvent(){
 		}
 	}, Cesium.ScreenSpaceEventType.LEFT_DOUBLE_CLICK);
 }
+*/
 
 //視点変更
 
