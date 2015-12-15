@@ -267,3 +267,36 @@ p.hospital_address {
     font-size: 13px;
     margin-top: -9px
 }
+
+p.title {
+    font-size:19px;
+    margin-top:23px;
+    margin-bottom:1px;
+}
+
+p.category {
+    font-size:10px;
+    line-height:10px;
+    margin:0px;
+    text-align:right;
+}
+
+p.care {
+    font-size:10px;
+    line-height:10px;
+    margin:0px;
+    text-align:right;
+}
+
+p.status {
+    font-size:10px;
+    line-height:10px;
+    margin:0px;
+    text-align:right;
+}
+
+p.youtube {
+    margin:0px;
+    padding:0px;
+
+}
