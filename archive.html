@@ -56,6 +56,7 @@
 		<span class="icon-font">geo</span>
 	</div>
 </div>
+<!--
 <div id="legend_button">
 	<p>凡例</p>
 </div>
@@ -73,6 +74,7 @@
 		<p>専門治療</p>
 	</div>
 </div>
+-->
 <div id="slide_menu"></div>
 <div class="sharebutton">
 	<ul class="share-buttons">
@@ -272,7 +274,7 @@ function loadCzml(){
 
 //KMLロード，OSMレイヤ追加
 
-function loadCzml(){
+function loadKml(){
 	var i = 0;
 	var load = setInterval(function(){
 		var promise = Cesium.KmlDataSource.load(kmlDataArray[i].url);
