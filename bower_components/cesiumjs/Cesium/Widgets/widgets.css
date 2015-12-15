@@ -4,10 +4,10 @@
 	display:none;
 }
 
-.cesium-infoBox-camera {
+button.cesium-infoBox-camera {
 	display:none;
 }
 
-.cesium-infoBox-close {
+button.cesium-infoBox-close {
 	color:#888888;
 }
