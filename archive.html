@@ -35,17 +35,21 @@
 </head>
 
 <body>
-	<div class="geocode">
-		<form action="javascript:geocode()" class="textbox" />
+<!--
+<div class="geocode">
+	<form action="javascript:geocode()" class="textbox" />
 		<input id="inputtext" class="textbox" type="text" value="" placeholder="地名で検索" />
 	</form>
 </div>
+<div id="svNotAvailable" onclick="fadeInOut(svNotAvailable,0)"></div>
+<div id="slide_menu"></div>
+-->
 <div id="slider">
 	<input id="range01" type="range" min="0" max="20" value="0" step="1" oninput="transParent();" />
 </div>
-<div id="svNotAvailable" onclick="fadeInOut(svNotAvailable,0)"></div>
 <div id="blackOut"><img class="loading" src="data/loading.gif"></div>
 <div id="cesiumContainer"></div>
+<!--
 <div id="button" class="general-button">
 	<div class="button-content">
 		<span class="icon-font">menu</span>
@@ -56,7 +60,6 @@
 		<span class="icon-font">geo</span>
 	</div>
 </div>
-<!--
 <div id="legend_button">
 	<p>凡例</p>
 </div>
@@ -75,7 +78,6 @@
 	</div>
 </div>
 -->
-<div id="slide_menu"></div>
 <div class="sharebutton">
 	<ul class="share-buttons">
 		<li>
@@ -98,14 +100,16 @@
 //各種DIVオブジェクトを取得
 
 var blackOutDiv = document.getElementById("blackOut");
-var streetViewWrapper = document.getElementById("streetView_wrapper");
-var svNotAvailable = document.getElementById("svNotAvailable");
+//var streetViewWrapper = document.getElementById("streetView_wrapper");
+//var svNotAvailable = document.getElementById("svNotAvailable");
 
+/*
 //SVエラーメッセージレイヤを隠す
 
 $(function() {
 	$(svNotAvailable).hide();
 });
+*/
 
 //視点配列作成関数
 
@@ -157,6 +161,7 @@ var entities;
 var osm;
 var mobile = 0;
 
+/*
 //プルダウンメニュー作成
 
 var viewPointChangeMenu = document.getElementById('slide_menu');
@@ -168,6 +173,7 @@ for (var i=0; i<viewPointsArray.length; i++) {
 
 var viewPointChangeMenuHtml = '<ul class="viewpoint">' + dropDownList + '</ul>';
 viewPointChangeMenu.innerHTML = viewPointChangeMenuHtml;
+*/
 
 //デバイスのOS取得
 
@@ -293,9 +299,9 @@ function loadKml(){
 			osm.brightness = 0.9;
 			osm.saturation = 0.1;
 //			setClickEvent();
-setTimeout('fadeInOut(blackOutDiv,0)',3000);
-}
-}, 200);
+			setTimeout('fadeInOut(blackOutDiv,0)',3000);
+		}
+	}, 200);
 }
 
 //OSMの透明度変更
