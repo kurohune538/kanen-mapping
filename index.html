@@ -74,7 +74,7 @@
 	</div>
 </div>
 <div id="slide_menu"></div>
-<div class="sharebutton">
+<div class="sharebutton" id="sB">
 	<ul class="share-buttons">
 		<li>
 			<a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fkanen.mapping.jp%2F&t=" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img class="share" src="data/flat_web_icon_set/color/Facebook.png"></a>
@@ -98,6 +98,7 @@
 var blackOutDiv = document.getElementById("blackOut");
 var streetViewWrapper = document.getElementById("streetView_wrapper");
 var svNotAvailable = document.getElementById("svNotAvailable");
+var shareButton = document.getElementById("sB");
 
 //SVエラーメッセージレイヤを隠す
 
@@ -208,6 +209,7 @@ viewer.camera.constrainedAxis = Cesium.Cartesian3.UNIT_Z;
 
 if (mobile == 1){
 	viewer.scene.screenSpaceCameraController.enableTilt = false;
+	fadeInOut(shareButton,0);
 }
 fadeInOut(blackOutDiv,0);
 
