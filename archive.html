@@ -212,6 +212,12 @@ var viewer = new Cesium.Viewer('cesiumContainer',{
 
 viewer.scene.sun.show = false;
 
+//フォグ
+
+var fog = new Cesium.Fog();
+fog.density = 0.003;
+fog.screenSpaceErrorFactor = 100.0;
+
 //カメラのFOVと初期位置を設定
 
 viewer.camera.frustum.fov = 70 * (3.14 / 180);
@@ -230,6 +236,16 @@ viewer.camera.constrainedAxis = Cesium.Cartesian3.UNIT_Z;
 if (mobile == 1){
 	viewer.scene.screenSpaceCameraController.enableTilt = false;
 	fadeInOut(shareButton,0);
+} else {
+
+//スマホ以外の場合は地形を表示
+
+	var cesiumTerrainProviderMeshes = new Cesium.CesiumTerrainProvider({
+		url : '//assets.agi.com/stk-terrain/world',
+		requestWaterMask : false,
+		requestVertexNormals : false
+	});
+	viewer.terrainProvider = cesiumTerrainProviderMeshes;
 }
 fadeInOut(blackOutDiv,0);
 
@@ -301,9 +317,9 @@ function loadKml(){
 			osm.brightness = 0.9;
 			osm.saturation = 0.1;
 //			setClickEvent();
-			setTimeout('fadeInOut(blackOutDiv,0)',3000);
-		}
-	}, 200);
+setTimeout('fadeInOut(blackOutDiv,0)',3000);
+}
+}, 200);
 }
 
 //OSMの透明度変更
