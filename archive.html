@@ -45,7 +45,7 @@
 -->
 <div id="slide_menu"></div>
 <div id="slider">
-	<input id="range01" type="range" min="0" max="20" value="0" step="1" oninput="transParent();" />
+	<input id="range01" type="range" min="0" max="20" value="20" step="1" oninput="transParent();" />
 </div>
 <div id="blackOut"><img class="loading" src="data/loading.gif"></div>
 <div id="cesiumContainer"></div>
@@ -141,6 +141,7 @@ function czmlData(_label, _url) {
 
 var czmlDataArray=[];
 czmlDataArray[0]=new czmlData("患者インタビュー",'czml/kranke.czml');
+czmlDataArray[1]=new czmlData("イベント",'czml/event.czml');
 
 /*
 //KML配列作成関数
@@ -160,7 +161,6 @@ var entities;
 var osm;
 var mobile = 0;
 
-/*
 //プルダウンメニュー作成
 
 var viewPointChangeMenu = document.getElementById('slide_menu');
@@ -172,7 +172,6 @@ for (var i=0; i<viewPointsArray.length; i++) {
 
 var viewPointChangeMenuHtml = '<ul class="viewpoint">' + dropDownList + '</ul>';
 viewPointChangeMenu.innerHTML = viewPointChangeMenuHtml;
-*/
 
 //デバイスのOS取得
 
@@ -280,9 +279,9 @@ function loadCzml(){
 			var newLayer =  new Cesium.createOpenStreetMapImageryProvider({});
 			var layers = viewer.imageryLayers;
 			osm = layers.addImageryProvider(newLayer);
-			osm.alpha = 0.0;
-			osm.brightness = 0.9;
-			osm.saturation = 0.1;
+			osm.alpha = 1.0;
+			osm.brightness = 0.60;
+//			osm.saturation = 0.1;
 			setTimeout('fadeInOut(blackOutDiv,0)',3000);
 		}
 	}, 200);

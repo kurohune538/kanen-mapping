@@ -270,28 +270,28 @@ p.hospital_address {
 
 p.title {
     margin-top: 20px;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
     text-align: center;
     font-size: 18px;
 }
 
 p.category {
-    font-size:10px;
-    line-height:11px;
+    font-size:12px;
+    line-height:14px;
     margin:0px;
     text-align:right;
 }
 
 p.care {
-    font-size:10px;
-    line-height:11px;
+    font-size:12px;
+    line-height:14px;
     margin:0px;
     text-align:right;
 }
 
 p.status {
-    font-size:10px;
-    line-height:11px;
+    font-size:12px;
+    line-height:14px;
     margin:0px;
     text-align:right;
 }
@@ -299,5 +299,39 @@ p.status {
 p.youtube {
     margin:10px 0px;
     padding:0px;
+}
 
+p.eventName {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 16px;   
+}
+
+p.eventDay {
+    font-size:12px;
+    line-height:14px;
+    margin:0px;
+    text-align:right;
+}
+
+p.eventLocation {
+    font-size:12px;
+    line-height:14px;
+    margin:0px;
+    text-align:right;
+}
+
+p.eventMovie {
+    font-size:12px;
+    line-height:14px;
+    margin:0px;
+    text-align:right;  
+}
+
+p.eventNote {
+    font-size:12px;
+    line-height:14px;
+    margin:0px;
+    text-align:right;  
 }
