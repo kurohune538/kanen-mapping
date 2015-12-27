@@ -35,13 +35,13 @@
 </head>
 
 <body>
-<div class="geocodeArchive">
-	<form action="javascript:geocode()" class="textbox" />
+	<div class="geocodeArchive">
+		<form action="javascript:geocode()" class="textbox" />
 		<input id="inputtext" class="textbox" type="text" value="" placeholder="地名で検索" />
 	</form>
 </div>
-<!--
 <div id="svNotAvailable" onclick="fadeInOut(svNotAvailable,0)"></div>
+<!--
 <div id="slide_menu"></div>
 -->
 <div id="slider">
@@ -103,16 +103,14 @@
 
 var blackOutDiv = document.getElementById("blackOut");
 var shareButton = document.getElementById("sB");
-//var streetViewWrapper = document.getElementById("streetView_wrapper");
-//var svNotAvailable = document.getElementById("svNotAvailable");
+var streetViewWrapper = document.getElementById("streetView_wrapper");
+var svNotAvailable = document.getElementById("svNotAvailable");
 
-/*
 //SVエラーメッセージレイヤを隠す
 
 $(function() {
 	$(svNotAvailable).hide();
 });
-*/
 
 //視点配列作成関数
 
@@ -288,9 +286,10 @@ function loadCzml(){
 			osm.alpha = 1.0;
 			osm.brightness = 0.60;
 //			osm.saturation = 0.1;
-			setTimeout('fadeInOut(blackOutDiv,0)',3000);
-		}
-	}, 200);
+setClickEvent();
+setTimeout('fadeInOut(blackOutDiv,0)',3000);
+}
+}, 200);
 }
 
 /*
@@ -326,7 +325,6 @@ function transParent(){
 	osm.alpha = document.getElementById("range01").value * 0.05;
 }
 
-/*
 //ダブルクリックでストビューを更新
 
 function setClickEvent(){
@@ -367,8 +365,8 @@ function setClickEvent(){
 						svp.setOptions(streetViewOptions); 
 					}
 					var newHeading = Cesium.Math.toRadians(0);
-					var newPitch = Cesium.Math.toRadians(-85);
-					var newRange = 100;
+					var newPitch = Cesium.Math.toRadians(-45);
+					var newRange = 200;
 
 					var center = position;
 					var boundingSphere = new Cesium.BoundingSphere(center, 100);
@@ -379,11 +377,10 @@ function setClickEvent(){
 						offset : headingPitchRange,
 						easingFunction: Cesium.EasingFunction.CUBIC_IN_OUT
 					});
-			});
-		}
-	}, Cesium.ScreenSpaceEventType.LEFT_DOUBLE_CLICK);
+				});
 }
-*/
+}, Cesium.ScreenSpaceEventType.LEFT_DOUBLE_CLICK);
+}
 
 //視点変更
 
