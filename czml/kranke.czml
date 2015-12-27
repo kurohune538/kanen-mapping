@@ -1,0 +1,280 @@
+[
+    {
+        "id": "document",
+        "name": "kranke",
+        "version": "1.0"
+    },
+    {
+        "id": "kranke-001",
+        "name": "患者家族の思い",
+        "description": "<p class=\"title\">患者家族の思い</p>\n<p class=\"category\">患者家族</p>\n<p class=\"youtube\"><iframe width=\"100%\" height=\"223\" src=\"https://www.youtube.com/embed/IqmwUqEVZDE?rel=0\" frameborder=\"0\" allowfullscreen></iframe></p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../images/kao_kranke/001.png",
+            "scale": 0.8,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    15
+                ]
+            },
+            "font": "10pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "患者家族の思い"
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.29979387104,
+                33.249441562663,
+                2000
+            ]
+        }
+    },
+    {
+        "id": "kranke-002",
+        "name": "困ったことを、一言家族の人に言ってほしいです",
+        "description": "<p class=\"title\">困ったことを、一言家族の人に言ってほしいです</p>\n<p class=\"category\">C型</p>\n<p class=\"care\">肝臓がん治療歴なし</p>\n<p class=\"status\">肝炎未治療</p>\n<p class=\"youtube\"><iframe width=\"100%\" height=\"223\" src=\"https://www.youtube.com/embed/dnX2O59D5UM?rel=0\" frameborder=\"0\" allowfullscreen></iframe></p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../images/kao_kranke/002.png",
+            "scale": 0.8,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    15
+                ]
+            },
+            "font": "10pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "困ったことを、一言家族の人に言ってほしいです"
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.36386850112,
+                33.278955653923,
+                2000
+            ]
+        }
+    },
+    {
+        "id": "kranke-003",
+        "name": "肝臓がんも治療しました",
+        "description": "<p class=\"title\">肝臓がんも治療しました</p>\n<p class=\"category\">C型</p>\n<p class=\"care\">肝臓がん治療歴あり</p>\n<p class=\"status\">肝炎治療済み</p>\n<p class=\"youtube\"><iframe width=\"100%\" height=\"223\" src=\"https://www.youtube.com/embed/PofCjA1c-N8?rel=0\" frameborder=\"0\" allowfullscreen></iframe></p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../images/kao_kranke/003.png",
+            "scale": 0.8,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    15
+                ]
+            },
+            "font": "10pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "肝臓がんも治療しました"
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.20713973859,
+                33.20977809403,
+                2000
+            ]
+        }
+    },
+    {
+        "id": "kranke-004",
+        "name": "肝炎コーディネーターに支えてもらいました",
+        "description": "<p class=\"title\">肝炎コーディネーターに支えてもらいました</p>\n<p class=\"category\">C型</p>\n<p class=\"care\">肝臓がん治療歴なし</p>\n<p class=\"status\">肝炎治療済み</p>\n<p class=\"youtube\"><iframe width=\"100%\" height=\"223\" src=\"https://www.youtube.com/embed/aBfqZ8CY5E0?rel=0\" frameborder=\"0\" allowfullscreen></iframe></p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../images/kao_kranke/004.png",
+            "scale": 0.8,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    15
+                ]
+            },
+            "font": "10pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "肝炎コーディネーターに支えてもらいました"
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.38691856903,
+                33.218704212064,
+                2000
+            ]
+        }
+    },
+    {
+        "id": "kranke-005",
+        "name": "診断された当初は「困ったな」と思っていませんでした",
+        "description": "<p class=\"title\">診断された当初は「困ったな」と思っていませんでした</p>\n<p class=\"category\">C型</p>\n<p class=\"care\">肝臓がん治療歴なし</p>\n<p class=\"status\">肝炎治療済み</p>\n<p class=\"youtube\"><iframe width=\"100%\" height=\"223\" src=\"https://www.youtube.com/embed/psxp8zuAE4o?rel=0\" frameborder=\"0\" allowfullscreen></iframe></p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../images/kao_kranke/005.png",
+            "scale": 0.8,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    15
+                ]
+            },
+            "font": "10pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "診断された当初は「困ったな」と思っていませんでした"
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.3057620412,
+                33.207060059508,
+                2000
+            ]
+        }
+    },
+    {
+        "id": "kranke-006",
+        "name": "最初は治療に否定的でした",
+        "description": "<p class=\"title\">最初は治療に否定的でした</p>\n<p class=\"category\">C型</p>\n<p class=\"care\">肝臓がん治療歴なし</p>\n<p class=\"status\">肝炎治療済み</p>\n<p class=\"youtube\"><iframe width=\"100%\" height=\"223\" src=\"https://www.youtube.com/embed/ur2iGX_lTys?rel=0\" frameborder=\"0\" allowfullscreen></iframe></p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../images/kao_kranke/006.png",
+            "scale": 0.8,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    15
+                ]
+            },
+            "font": "10pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "最初は治療に否定的でした"
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.23505474321,
+                33.264840637261,
+                2000
+            ]
+        }
+    },
+    {
+        "id": "kranke-007",
+        "name": "インターフェロン治療を4回し、治癒しました",
+        "description": "<p class=\"title\">インターフェロン治療を4回し、治癒しました</p>\n<p class=\"category\">C型</p>\n<p class=\"care\">肝臓がん治療歴なし</p>\n<p class=\"status\">肝炎治療済み</p>\n<p class=\"youtube\"><iframe width=\"100%\" height=\"223\" src=\"https://www.youtube.com/embed/ZQtXcxFn_Sc?rel=0\" frameborder=\"0\" allowfullscreen></iframe></p>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../images/kao_kranke/007.png",
+            "scale": 0.8,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    15
+                ]
+            },
+            "font": "10pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "インターフェロン治療を4回し、治癒しました"
+        },
+        "position": {
+            "cartographicDegrees": [
+                130.30801649757,
+                33.295623591299,
+                2000
+            ]
+        }
+    }
+]

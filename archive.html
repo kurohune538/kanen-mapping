@@ -22,7 +22,7 @@
 	<script src="js/slidein.js"></script>
 	<script src="bower_components/cesiumjs/Cesium/Cesium.js"></script>
 	<script src="http://www.google.com/jsapi"></script>
-	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+	<script type="text/javascript" src="http://maps.google.com/maps/api/js"></script>
 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -35,21 +35,20 @@
 </head>
 
 <body>
-<!--
 <div class="geocode">
 	<form action="javascript:geocode()" class="textbox" />
 		<input id="inputtext" class="textbox" type="text" value="" placeholder="地名で検索" />
 	</form>
 </div>
+<!--
 <div id="svNotAvailable" onclick="fadeInOut(svNotAvailable,0)"></div>
-<div id="slide_menu"></div>
 -->
+<div id="slide_menu"></div>
 <div id="slider">
 	<input id="range01" type="range" min="0" max="20" value="0" step="1" oninput="transParent();" />
 </div>
 <div id="blackOut"><img class="loading" src="data/loading.gif"></div>
 <div id="cesiumContainer"></div>
-<!--
 <div id="button" class="general-button">
 	<div class="button-content">
 		<span class="icon-font">menu</span>
@@ -60,6 +59,7 @@
 		<span class="icon-font">geo</span>
 	</div>
 </div>
+<!--
 <div id="legend_button">
 	<p>凡例</p>
 </div>
@@ -131,7 +131,7 @@ viewPointsArray[3]=new viewPoints("佐賀県全域",33.251168,130.119531,0,-85,9
 viewPointsArray[4]=new viewPoints("日本全土",36.099338,133.689885,0,-85,2000000);
 viewPointsArray[5]=new viewPoints("初期位置",33.269526,130.297029,0,-20,24000);
 
-/*
+
 //CZML配列作成関数
 
 function czmlData(_label, _url) {
@@ -140,12 +140,9 @@ function czmlData(_label, _url) {
 }
 
 var czmlDataArray=[];
-czmlDataArray[0]=new czmlData("肝炎コーディネーター",'czml/coordinator.czml');
-czmlDataArray[1]=new czmlData("ウイルス性肝炎治療費の助成が受けられる医療機関",'czml/josei.czml');
-czmlDataArray[2]=new czmlData("無料肝炎ウイルス検査を実施している医療機関",'czml/muryo.czml');
-czmlDataArray[3]=new czmlData("ウイルス性肝炎の陽性指摘後の精密検査費補助が受けられる医療機関",'czml/yousei.czml');
-*/
+czmlDataArray[0]=new czmlData("患者インタビュー",'czml/kranke.czml');
 
+/*
 //KML配列作成関数
 
 function kmlData(_label, _url) {
@@ -155,6 +152,7 @@ function kmlData(_label, _url) {
 
 var kmlDataArray=[];
 kmlDataArray[0]=new kmlData("患者インタビュー",'kml/kranke.kml');
+*/
 
 //グローバル変数定義
 
@@ -240,12 +238,12 @@ if (mobile == 1){
 
 //スマホ以外の場合は地形を表示
 
-	var cesiumTerrainProviderMeshes = new Cesium.CesiumTerrainProvider({
-		url : '//assets.agi.com/stk-terrain/world',
-		requestWaterMask : false,
-		requestVertexNormals : false
-	});
-	viewer.terrainProvider = cesiumTerrainProviderMeshes;
+var cesiumTerrainProviderMeshes = new Cesium.CesiumTerrainProvider({
+	url : '//assets.agi.com/stk-terrain/world',
+	requestWaterMask : false,
+	requestVertexNormals : false
+});
+viewer.terrainProvider = cesiumTerrainProviderMeshes;
 }
 fadeInOut(blackOutDiv,0);
 
@@ -261,11 +259,10 @@ function groundZero(){
 function landing(){
 	changeViewPoint(5,3);
 	setTimeout('fadeInOut(blackOutDiv,1)',3000);
-//	setTimeout('loadCzml()',3000);
-setTimeout('loadKml()',3000);
+	setTimeout('loadCzml()',3000);
+//setTimeout('loadKml()',3000);
 }
 
-/*
 //CZMLロード，OSMレイヤ追加
 
 function loadCzml(){
@@ -280,22 +277,18 @@ function loadCzml(){
 		i++;
 		if (i == czmlDataArray.length){
 			clearInterval(load);
-			var newLayer =  new Cesium.OpenStreetMapImageryProvider(
-			{
-			}
-			);
+			var newLayer =  new Cesium.createOpenStreetMapImageryProvider({});
 			var layers = viewer.imageryLayers;
 			osm = layers.addImageryProvider(newLayer);
 			osm.alpha = 0.0;
 			osm.brightness = 0.9;
 			osm.saturation = 0.1;
-			setClickEvent();
 			setTimeout('fadeInOut(blackOutDiv,0)',3000);
 		}
 	}, 200);
 }
-*/
 
+/*
 //KMLロード，OSMレイヤ追加
 
 function loadKml(){
@@ -316,11 +309,11 @@ function loadKml(){
 			osm.alpha = 0.0;
 			osm.brightness = 0.9;
 			osm.saturation = 0.1;
-//			setClickEvent();
-setTimeout('fadeInOut(blackOutDiv,0)',3000);
+			setTimeout('fadeInOut(blackOutDiv,0)',3000);
+		}
+	}, 200);
 }
-}, 200);
-}
+*/
 
 //OSMの透明度変更
 
