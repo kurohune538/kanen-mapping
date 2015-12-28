@@ -7,11 +7,11 @@
     {
         "id": "event-1",
         "name": "世界肝炎デー in SAGA 2015",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 世界肝炎デー in SAGA 2015</p>\n<p class=\"eventDay\">20150728</p>\n<p class=\"eventLocation\">ゆめタウン佐賀</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 世界肝炎デー in SAGA 2015</p>\n<p class=\"eventDay\">20150728</p>\n<p class=\"eventLocation\">ゆめタウン佐賀</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150728/20150728.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -30,7 +30,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "世界肝炎デー in SAGA 2015"
@@ -46,11 +46,11 @@
     {
         "id": "event-2",
         "name": "世界肝炎デー in SAGA 2014",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 世界肝炎デー in SAGA 2014</p>\n<p class=\"eventDay\">20140727</p>\n<p class=\"eventLocation\">ゆめタウン佐賀</p>\n<p class=\"eventMovie\"><a href=\"https://youtu.be/cr15OEG32Aw\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 世界肝炎デー in SAGA 2014</p>\n<p class=\"eventDay\">20140727</p>\n<p class=\"eventLocation\">ゆめタウン佐賀</p>\n<p class=\"eventMovie\"><a href=\"https://youtu.be/cr15OEG32Aw\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140727/20140727.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -69,7 +69,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "世界肝炎デー in SAGA 2014"
@@ -85,11 +85,11 @@
     {
         "id": "event-3",
         "name": "第2回世界肝炎デー",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第2回世界肝炎デー</p>\n<p class=\"eventDay\">20130728</p>\n<p class=\"eventLocation\">ゆめタウン佐賀</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第2回世界肝炎デー</p>\n<p class=\"eventDay\">20130728</p>\n<p class=\"eventLocation\">ゆめタウン佐賀</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130728/20130728.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -108,7 +108,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第2回世界肝炎デー"
@@ -124,11 +124,11 @@
     {
         "id": "event-4",
         "name": "第1回世界肝炎デー",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第1回世界肝炎デー</p>\n<p class=\"eventDay\">20120728</p>\n<p class=\"eventLocation\">ゆめタウン佐賀</p>\n<p class=\"eventMovie\"><a href=\"http://youtu.be/k370e5uSduI\" target=\"_blank\" \">動画URL</a></p>\n<p class=\"eventNote\">備考: http://youtu.be/qoJ4XotwzWw</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第1回世界肝炎デー</p>\n<p class=\"eventDay\">20120728</p>\n<p class=\"eventLocation\">ゆめタウン佐賀</p>\n<p class=\"eventMovie\"><a href=\"http://youtu.be/k370e5uSduI\">動画URL</a></p>\n<p class=\"eventNote\">備考: http://youtu.be/qoJ4XotwzWw</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20120728/20120728.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -147,7 +147,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第1回世界肝炎デー"
@@ -163,11 +163,11 @@
     {
         "id": "event-5",
         "name": "「きょうの健康」公開収録",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 「きょうの健康」公開収録</p>\n<p class=\"eventDay\">20150523</p>\n<p class=\"eventLocation\">神埼市中央公民館</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 「きょうの健康」公開収録</p>\n<p class=\"eventDay\">20150523</p>\n<p class=\"eventLocation\">神埼市中央公民館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150523/20150523.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -186,7 +186,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "「きょうの健康」公開収録"
@@ -202,11 +202,11 @@
     {
         "id": "event-6",
         "name": "「知って、肝炎」イベント",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 「知って、肝炎」イベント</p>\n<p class=\"eventDay\">20150508</p>\n<p class=\"eventLocation\">佐賀県庁</p>\n<p class=\"eventMovie\"><a href=\"https://www.youtube.com/watch?v=yfyrgytophk\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 「知って、肝炎」イベント</p>\n<p class=\"eventDay\">20150508</p>\n<p class=\"eventLocation\">佐賀県庁</p>\n<p class=\"eventMovie\"><a href=\"https://www.youtube.com/watch?v=yfyrgytophk\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150508/20150508.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -225,7 +225,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "「知って、肝炎」イベント"
@@ -241,11 +241,11 @@
     {
         "id": "event-7",
         "name": "「みんなのMAEMUKI駅伝」スタートセレモニー",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 「みんなのMAEMUKI駅伝」スタートセレモニー</p>\n<p class=\"eventDay\">20140719</p>\n<p class=\"eventLocation\">武雄市図書館</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 「みんなのMAEMUKI駅伝」スタートセレモニー</p>\n<p class=\"eventDay\">20140719</p>\n<p class=\"eventLocation\">武雄市図書館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140719/20140719.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -264,7 +264,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "「みんなのMAEMUKI駅伝」スタートセレモニー"
@@ -280,11 +280,11 @@
     {
         "id": "event-8",
         "name": "第40回さが農業まつり",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第40回さが農業まつり</p>\n<p class=\"eventDay\">20150208</p>\n<p class=\"eventLocation\">佐賀空港東特設会場</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第40回さが農業まつり</p>\n<p class=\"eventDay\">20150208</p>\n<p class=\"eventLocation\">佐賀空港東特設会場</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150208/20150208.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -303,7 +303,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第40回さが農業まつり"
@@ -319,11 +319,11 @@
     {
         "id": "event-9",
         "name": "第39回さが農業まつり",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第39回さが農業まつり</p>\n<p class=\"eventDay\">20140205</p>\n<p class=\"eventLocation\">佐賀空港東特設会場</p>\n<p class=\"eventMovie\"><a href=\"http://youtu.be/ufDaGsIzEMU\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第39回さが農業まつり</p>\n<p class=\"eventDay\">20140205</p>\n<p class=\"eventLocation\">佐賀空港東特設会場</p>\n<p class=\"eventMovie\"><a href=\"http://youtu.be/ufDaGsIzEMU\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140205/20140205.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -342,7 +342,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第39回さが農業まつり"
@@ -358,11 +358,11 @@
     {
         "id": "event-10",
         "name": "第38回さが農業まつり",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第38回さが農業まつり</p>\n<p class=\"eventDay\">20130130</p>\n<p class=\"eventLocation\">佐賀空港東特設会場</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第38回さが農業まつり</p>\n<p class=\"eventDay\">20130130</p>\n<p class=\"eventLocation\">佐賀空港東特設会場</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130130/20130130.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -381,7 +381,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第38回さが農業まつり"
@@ -397,11 +397,11 @@
     {
         "id": "event-11",
         "name": "NHKのど自慢",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHKのど自慢</p>\n<p class=\"eventDay\">20150124</p>\n<p class=\"eventLocation\">唐津市民会館</p>\n<p class=\"eventMovie\"><a href=\"http://www6.nhk.or.jp/nodojiman/list/backnumber.html?i=150125\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHKのど自慢</p>\n<p class=\"eventDay\">20150124</p>\n<p class=\"eventLocation\">唐津市民会館</p>\n<p class=\"eventMovie\"><a href=\"http://www6.nhk.or.jp/nodojiman/list/backnumber.html?i=150125\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150124/20150124.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -420,7 +420,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "NHKのど自慢"
@@ -436,11 +436,11 @@
     {
         "id": "event-12",
         "name": "NHKのど自慢",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHKのど自慢</p>\n<p class=\"eventDay\">20130928</p>\n<p class=\"eventLocation\">江北町ふれあい交流センター・ネイブル</p>\n<p class=\"eventMovie\"><a href=\"http://www6.nhk.or.jp/nodojiman/list/backnumber.html?i=130929\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHKのど自慢</p>\n<p class=\"eventDay\">20130928</p>\n<p class=\"eventLocation\">江北町ふれあい交流センター・ネイブル</p>\n<p class=\"eventMovie\"><a href=\"http://www6.nhk.or.jp/nodojiman/list/backnumber.html?i=130929\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130928/20130928.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -459,7 +459,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "NHKのど自慢"
@@ -475,11 +475,11 @@
     {
         "id": "event-13",
         "name": "NHKのど自慢",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHKのど自慢</p>\n<p class=\"eventDay\">20151128</p>\n<p class=\"eventLocation\">鳥栖市民文化会館</p>\n<p class=\"eventMovie\"><a href=\"http://www6.nhk.or.jp/nodojiman/list/backnumber.html?i=151129\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHKのど自慢</p>\n<p class=\"eventDay\">20151128</p>\n<p class=\"eventLocation\">鳥栖市民文化会館</p>\n<p class=\"eventMovie\"><a href=\"http://www6.nhk.or.jp/nodojiman/list/backnumber.html?i=151129\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20151128/20151128.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -498,7 +498,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "NHKのど自慢"
@@ -514,11 +514,11 @@
     {
         "id": "event-14",
         "name": "NHK[きょうの健康]出演",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[きょうの健康]出演</p>\n<p class=\"eventDay\">20150817</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/kenkotoday/archives/2015/08/0817.html\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[きょうの健康]出演</p>\n<p class=\"eventDay\">20150817</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/kenkotoday/archives/2015/08/0817.html\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150817/20150817.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -537,7 +537,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "NHK[きょうの健康]出演"
@@ -553,11 +553,11 @@
     {
         "id": "event-15",
         "name": "NHK[きょうの健康]出演",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[きょうの健康]出演</p>\n<p class=\"eventDay\">20150818</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/kenkotoday/archives/2015/08/0818.html\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[きょうの健康]出演</p>\n<p class=\"eventDay\">20150818</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/kenkotoday/archives/2015/08/0818.html\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150818/20150818.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -576,7 +576,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "NHK[きょうの健康]出演"
@@ -592,11 +592,11 @@
     {
         "id": "event-16",
         "name": "NHK[きょうの健康]出演",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[きょうの健康]出演</p>\n<p class=\"eventDay\">20150819</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/kenkotoday/archives/2015/08/0819.html\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[きょうの健康]出演</p>\n<p class=\"eventDay\">20150819</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/kenkotoday/archives/2015/08/0819.html\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150819/20150819.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -615,7 +615,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "NHK[きょうの健康]出演"
@@ -631,11 +631,11 @@
     {
         "id": "event-17",
         "name": "NHK[きょうの健康]出演",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[きょうの健康]出演</p>\n<p class=\"eventDay\">20150820</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/kenkotoday/archives/2015/08/0820.html\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[きょうの健康]出演</p>\n<p class=\"eventDay\">20150820</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/kenkotoday/archives/2015/08/0820.html\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150820/20150820.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -654,7 +654,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "NHK[きょうの健康]出演"
@@ -670,11 +670,11 @@
     {
         "id": "event-18",
         "name": "NHK[チョイス！]出演",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[チョイス！]出演</p>\n<p class=\"eventDay\">20141025</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/choice/archives/2014/10/1025.html\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[チョイス！]出演</p>\n<p class=\"eventDay\">20141025</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/choice/archives/2014/10/1025.html\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20141025/20141025.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -693,7 +693,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "NHK[チョイス！]出演"
@@ -709,11 +709,11 @@
     {
         "id": "event-19",
         "name": "NHK[チョイス！]出演",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[チョイス！]出演</p>\n<p class=\"eventDay\">20140719</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/choice/archives/2014/07/0719.html\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[チョイス！]出演</p>\n<p class=\"eventDay\">20140719</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/choice/archives/2014/07/0719.html\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140719/20140719.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -732,7 +732,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "NHK[チョイス！]出演"
@@ -748,11 +748,11 @@
     {
         "id": "event-20",
         "name": "NHK[チョイス！]出演",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[チョイス！]出演</p>\n<p class=\"eventDay\">20140104</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/choice/archives/2014/01/0104.html\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[チョイス！]出演</p>\n<p class=\"eventDay\">20140104</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/choice/archives/2014/01/0104.html\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140104/20140104.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -771,7 +771,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "NHK[チョイス！]出演"
@@ -787,11 +787,11 @@
     {
         "id": "event-21",
         "name": "NHK[チョイス！]出演",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[チョイス！]出演</p>\n<p class=\"eventDay\">20131116</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/choice/archives/2013/11/1116.html\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[チョイス！]出演</p>\n<p class=\"eventDay\">20131116</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/choice/archives/2013/11/1116.html\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20131116/20131116.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -810,7 +810,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "NHK[チョイス！]出演"
@@ -826,11 +826,11 @@
     {
         "id": "event-22",
         "name": "NHK[チョイス！]出演",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[チョイス！]出演</p>\n<p class=\"eventDay\">20130622</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/choice/archives/2013/06/0622.html\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[チョイス！]出演</p>\n<p class=\"eventDay\">20130622</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/choice/archives/2013/06/0622.html\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130622/20130622.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -849,7 +849,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "NHK[チョイス！]出演"
@@ -865,11 +865,11 @@
     {
         "id": "event-23",
         "name": "おはよう日本出演",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> おはよう日本出演</p>\n<p class=\"eventDay\">20150123</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"https://www.youtube.com/watch?v=bDORKzokr0A\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> おはよう日本出演</p>\n<p class=\"eventDay\">20150123</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"https://www.youtube.com/watch?v=bDORKzokr0A\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150123/20150123.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -888,7 +888,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "おはよう日本出演"
@@ -904,11 +904,11 @@
     {
         "id": "event-24",
         "name": "2014NHK佐賀まつり",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 2014NHK佐賀まつり</p>\n<p class=\"eventDay\">20141018</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://youtu.be/Nsau9suE2Ns\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 2014NHK佐賀まつり</p>\n<p class=\"eventDay\">20141018</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://youtu.be/Nsau9suE2Ns\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20141018/20141018.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -927,7 +927,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "2014NHK佐賀まつり"
@@ -943,11 +943,11 @@
     {
         "id": "event-25",
         "name": "2013NHK佐賀まつり",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 2013NHK佐賀まつり</p>\n<p class=\"eventDay\">20131026</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 2013NHK佐賀まつり</p>\n<p class=\"eventDay\">20131026</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20131026/20131026.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -966,7 +966,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "2013NHK佐賀まつり"
@@ -982,11 +982,11 @@
     {
         "id": "event-26",
         "name": "2012NHK佐賀まつり",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 2012NHK佐賀まつり</p>\n<p class=\"eventDay\">20121020</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 2012NHK佐賀まつり</p>\n<p class=\"eventDay\">20121020</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20121020/20121020.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1005,7 +1005,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "2012NHK佐賀まつり"
@@ -1021,11 +1021,11 @@
     {
         "id": "event-27",
         "name": "歌王さが 決勝大会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 歌王さが 決勝大会</p>\n<p class=\"eventDay\">20150213</p>\n<p class=\"eventLocation\">佐賀市文化会館</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 歌王さが 決勝大会</p>\n<p class=\"eventDay\">20150213</p>\n<p class=\"eventLocation\">佐賀市文化会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150213/20150213.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1044,7 +1044,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "歌王さが 決勝大会"
@@ -1060,11 +1060,11 @@
     {
         "id": "event-28",
         "name": "歌王さが 決勝大会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 歌王さが 決勝大会</p>\n<p class=\"eventDay\">20140307</p>\n<p class=\"eventLocation\">佐賀市文化会館</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 歌王さが 決勝大会</p>\n<p class=\"eventDay\">20140307</p>\n<p class=\"eventLocation\">佐賀市文化会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140307/20140307.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1083,7 +1083,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "歌王さが 決勝大会"
@@ -1099,11 +1099,11 @@
     {
         "id": "event-29",
         "name": "歌王さが 有田伊万里予選会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 歌王さが 有田伊万里予選会</p>\n<p class=\"eventDay\">20140126</p>\n<p class=\"eventLocation\">炎の博覧会会場ホール</p>\n<p class=\"eventMovie\"><a href=\"https://www.youtube.com/watch?v=IRGNemd6xlU\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 歌王さが 有田伊万里予選会</p>\n<p class=\"eventDay\">20140126</p>\n<p class=\"eventLocation\">炎の博覧会会場ホール</p>\n<p class=\"eventMovie\"><a href=\"https://www.youtube.com/watch?v=IRGNemd6xlU\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140126/20140126.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1122,7 +1122,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "歌王さが 有田伊万里予選会"
@@ -1138,11 +1138,11 @@
     {
         "id": "event-30",
         "name": "歌王さが 佐賀地区予選会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 歌王さが 佐賀地区予選会</p>\n<p class=\"eventDay\">20140118</p>\n<p class=\"eventLocation\">東与賀文化ホール</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 歌王さが 佐賀地区予選会</p>\n<p class=\"eventDay\">20140118</p>\n<p class=\"eventLocation\">東与賀文化ホール</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140118/20140118.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1161,7 +1161,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "歌王さが 佐賀地区予選会"
@@ -1177,11 +1177,11 @@
     {
         "id": "event-31",
         "name": "歌王さが 唐津・玄海地区予選会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 歌王さが 唐津・玄海地区予選会</p>\n<p class=\"eventDay\">20140113</p>\n<p class=\"eventLocation\">唐津市文化体育館</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 歌王さが 唐津・玄海地区予選会</p>\n<p class=\"eventDay\">20140113</p>\n<p class=\"eventLocation\">唐津市文化体育館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140113/20140113.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1200,7 +1200,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "歌王さが 唐津・玄海地区予選会"
@@ -1216,11 +1216,11 @@
     {
         "id": "event-32",
         "name": "歌王さが 鳥栖・三養基地区予選会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 歌王さが 鳥栖・三養基地区予選会</p>\n<p class=\"eventDay\">20131221</p>\n<p class=\"eventLocation\">サンメッセ鳥栖</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 歌王さが 鳥栖・三養基地区予選会</p>\n<p class=\"eventDay\">20131221</p>\n<p class=\"eventLocation\">サンメッセ鳥栖</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20131221/20131221.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1239,7 +1239,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "歌王さが 鳥栖・三養基地区予選会"
@@ -1255,11 +1255,11 @@
     {
         "id": "event-33",
         "name": "歌王さが 杵藤予選会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 歌王さが 杵藤予選会</p>\n<p class=\"eventDay\">20131123</p>\n<p class=\"eventLocation\">白石町総合センター</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 歌王さが 杵藤予選会</p>\n<p class=\"eventDay\">20131123</p>\n<p class=\"eventLocation\">白石町総合センター</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20131123/20131123.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1278,7 +1278,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "歌王さが 杵藤予選会"
@@ -1294,11 +1294,11 @@
     {
         "id": "event-34",
         "name": "[ストップ！肝がん]",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> [ストップ！肝がん]</p>\n<p class=\"eventDay\">20140502</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"https://youtu.be/GcIM05sCV_s\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> [ストップ！肝がん]</p>\n<p class=\"eventDay\">20140502</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"https://youtu.be/GcIM05sCV_s\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140502/20140502.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1317,7 +1317,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "[ストップ！肝がん]"
@@ -1333,11 +1333,11 @@
     {
         "id": "event-35",
         "name": "[ストップ！肝がん]",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> [ストップ！肝がん]</p>\n<p class=\"eventDay\">20140225</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> [ストップ！肝がん]</p>\n<p class=\"eventDay\">20140225</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140225/20140225.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1356,7 +1356,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "[ストップ！肝がん]"
@@ -1372,11 +1372,11 @@
     {
         "id": "event-36",
         "name": "[ストップ！肝がん]",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> [ストップ！肝がん]</p>\n<p class=\"eventDay\">20131227</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> [ストップ！肝がん]</p>\n<p class=\"eventDay\">20131227</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20131227/20131227.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1395,7 +1395,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "[ストップ！肝がん]"
@@ -1411,11 +1411,11 @@
     {
         "id": "event-37",
         "name": "[ストップ！肝がん]",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> [ストップ！肝がん]</p>\n<p class=\"eventDay\">20130628</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> [ストップ！肝がん]</p>\n<p class=\"eventDay\">20130628</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130628/20130628.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1434,7 +1434,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "[ストップ！肝がん]"
@@ -1450,11 +1450,11 @@
     {
         "id": "event-38",
         "name": "[ストップ！肝がん]",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> [ストップ！肝がん]</p>\n<p class=\"eventDay\">20130625</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> [ストップ！肝がん]</p>\n<p class=\"eventDay\">20130625</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130625/20130625.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1473,7 +1473,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "[ストップ！肝がん]"
@@ -1489,11 +1489,11 @@
     {
         "id": "event-39",
         "name": "ひるまえ情報便",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ひるまえ情報便</p>\n<p class=\"eventDay\">20140728</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"https://youtu.be/OLRmJLA8FAY\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ひるまえ情報便</p>\n<p class=\"eventDay\">20140728</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"https://youtu.be/OLRmJLA8FAY\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140728/20140728.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1512,7 +1512,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "ひるまえ情報便"
@@ -1528,11 +1528,11 @@
     {
         "id": "event-40",
         "name": "ひるまえ情報便",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ひるまえ情報便</p>\n<p class=\"eventDay\">20140630</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ひるまえ情報便</p>\n<p class=\"eventDay\">20140630</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140630/20140630.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1551,7 +1551,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "ひるまえ情報便"
@@ -1567,11 +1567,11 @@
     {
         "id": "event-41",
         "name": "ひるまえ情報便",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ひるまえ情報便</p>\n<p class=\"eventDay\">20130909</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ひるまえ情報便</p>\n<p class=\"eventDay\">20130909</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130909/20130909.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1590,7 +1590,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "ひるまえ情報便"
@@ -1606,11 +1606,11 @@
     {
         "id": "event-42",
         "name": "ひるまえ情報便",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ひるまえ情報便</p>\n<p class=\"eventDay\">20130930</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ひるまえ情報便</p>\n<p class=\"eventDay\">20130930</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130930/20130930.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1629,7 +1629,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "ひるまえ情報便"
@@ -1645,11 +1645,11 @@
     {
         "id": "event-43",
         "name": "ひるまえ情報便",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ひるまえ情報便</p>\n<p class=\"eventDay\">20130902</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ひるまえ情報便</p>\n<p class=\"eventDay\">20130902</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130902/20130902.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1668,7 +1668,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "ひるまえ情報便"
@@ -1684,11 +1684,11 @@
     {
         "id": "event-44",
         "name": "ひるまえ情報便",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ひるまえ情報便</p>\n<p class=\"eventDay\">20120709</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ひるまえ情報便</p>\n<p class=\"eventDay\">20120709</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20120709/20120709.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1707,7 +1707,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "ひるまえ情報便"
@@ -1723,11 +1723,11 @@
     {
         "id": "event-45",
         "name": "ひるまえ情報便",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ひるまえ情報便</p>\n<p class=\"eventDay\">20120702</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ひるまえ情報便</p>\n<p class=\"eventDay\">20120702</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20120702/20120702.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1746,7 +1746,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "ひるまえ情報便"
@@ -1762,11 +1762,11 @@
     {
         "id": "event-46",
         "name": "NHKEテレ TVシンポジウム「C型肝炎とたたかう」",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHKEテレ TVシンポジウム「C型肝炎とたたかう」</p>\n<p class=\"eventDay\">20150221</p>\n<p class=\"eventLocation\">ベルサール秋葉原</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHKEテレ TVシンポジウム「C型肝炎とたたかう」</p>\n<p class=\"eventDay\">20150221</p>\n<p class=\"eventLocation\">ベルサール秋葉原</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150221/20150221.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1785,7 +1785,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "NHKEテレ TVシンポジウム「C型肝炎とたたかう」"
@@ -1801,11 +1801,11 @@
     {
         "id": "event-47",
         "name": "2014STSまつり",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 2014STSまつり</p>\n<p class=\"eventDay\">20140329</p>\n<p class=\"eventLocation\">サガテレビ</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 2014STSまつり</p>\n<p class=\"eventDay\">20140329</p>\n<p class=\"eventLocation\">サガテレビ</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140329/20140329.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1824,7 +1824,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "2014STSまつり"
@@ -1840,11 +1840,11 @@
     {
         "id": "event-48",
         "name": "健康バンバン",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 健康バンバン</p>\n<p class=\"eventDay\">20120405</p>\n<p class=\"eventLocation\">サガテレビ</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 健康バンバン</p>\n<p class=\"eventDay\">20120405</p>\n<p class=\"eventLocation\">サガテレビ</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20120405/20120405.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1863,7 +1863,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "健康バンバン"
@@ -1879,11 +1879,11 @@
     {
         "id": "event-49",
         "name": "女性フェスタ in 有田",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 女性フェスタ in 有田</p>\n<p class=\"eventDay\">20140309</p>\n<p class=\"eventLocation\">有田炎の博記念堂</p>\n<p class=\"eventMovie\"><a href=\"https://youtu.be/FW9b49lWhT4\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 女性フェスタ in 有田</p>\n<p class=\"eventDay\">20140309</p>\n<p class=\"eventLocation\">有田炎の博記念堂</p>\n<p class=\"eventMovie\"><a href=\"https://youtu.be/FW9b49lWhT4\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140309/20140309.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1902,7 +1902,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "女性フェスタ in 有田"
@@ -1918,11 +1918,11 @@
     {
         "id": "event-50",
         "name": "第5回県境フェスティバル",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第5回県境フェスティバル</p>\n<p class=\"eventDay\">20130519</p>\n<p class=\"eventLocation\">久留米西部防災公園</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第5回県境フェスティバル</p>\n<p class=\"eventDay\">20130519</p>\n<p class=\"eventLocation\">久留米西部防災公園</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130519/20130519.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1941,7 +1941,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第5回県境フェスティバル"
@@ -1957,11 +1957,11 @@
     {
         "id": "event-51",
         "name": "かしま発酵まつり",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> かしま発酵まつり</p>\n<p class=\"eventDay\">20130330</p>\n<p class=\"eventLocation\">矢野酒造</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> かしま発酵まつり</p>\n<p class=\"eventDay\">20130330</p>\n<p class=\"eventLocation\">矢野酒造</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130330/20130330.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -1980,7 +1980,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "かしま発酵まつり"
@@ -1996,11 +1996,11 @@
     {
         "id": "event-52",
         "name": "第32回牛津産業祭り",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第32回牛津産業祭り</p>\n<p class=\"eventDay\">20121111</p>\n<p class=\"eventLocation\">牛津</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第32回牛津産業祭り</p>\n<p class=\"eventDay\">20121111</p>\n<p class=\"eventLocation\">牛津</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20121111/20121111.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2019,7 +2019,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第32回牛津産業祭り"
@@ -2035,11 +2035,11 @@
     {
         "id": "event-53",
         "name": "第29回 三瀬村田舎と都市のふれあい祭り",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第29回 三瀬村田舎と都市のふれあい祭り</p>\n<p class=\"eventDay\">20121027</p>\n<p class=\"eventLocation\">三瀬小学校</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第29回 三瀬村田舎と都市のふれあい祭り</p>\n<p class=\"eventDay\">20121027</p>\n<p class=\"eventLocation\">三瀬小学校</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20121027/20121027.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2058,7 +2058,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第29回 三瀬村田舎と都市のふれあい祭り"
@@ -2074,11 +2074,11 @@
     {
         "id": "event-54",
         "name": "肝炎講義",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 肝炎講義</p>\n<p class=\"eventDay\">20120711</p>\n<p class=\"eventLocation\">成穎中学校</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 肝炎講義</p>\n<p class=\"eventDay\">20120711</p>\n<p class=\"eventLocation\">成穎中学校</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20120711/20120711.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2097,7 +2097,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "肝炎講義"
@@ -2113,11 +2113,11 @@
     {
         "id": "event-55",
         "name": "サガン鳥栖キックオフカウントダウン",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> サガン鳥栖キックオフカウントダウン</p>\n<p class=\"eventDay\">20120421</p>\n<p class=\"eventLocation\">佐賀県総合運動場</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> サガン鳥栖キックオフカウントダウン</p>\n<p class=\"eventDay\">20120421</p>\n<p class=\"eventLocation\">佐賀県総合運動場</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20120421/20120421.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2136,7 +2136,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "サガン鳥栖キックオフカウントダウン"
@@ -2152,11 +2152,11 @@
     {
         "id": "event-56",
         "name": "九州新幹線開業1周年イベント",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 九州新幹線開業1周年イベント</p>\n<p class=\"eventDay\">20120317</p>\n<p class=\"eventLocation\">ベストアメニティスタジアム</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 九州新幹線開業1周年イベント</p>\n<p class=\"eventDay\">20120317</p>\n<p class=\"eventLocation\">ベストアメニティスタジアム</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20120317/20120317.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2175,7 +2175,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "九州新幹線開業1周年イベント"
@@ -2191,11 +2191,11 @@
     {
         "id": "event-57",
         "name": "肝炎治療講話",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 肝炎治療講話</p>\n<p class=\"eventDay\">20150128</p>\n<p class=\"eventLocation\">多久公民館</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 肝炎治療講話</p>\n<p class=\"eventDay\">20150128</p>\n<p class=\"eventLocation\">多久公民館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150128/20150128.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2214,7 +2214,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "肝炎治療講話"
@@ -2230,11 +2230,11 @@
     {
         "id": "event-58",
         "name": "「医学のあけぼのから先端医療まで」展",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 「医学のあけぼのから先端医療まで」展</p>\n<p class=\"eventDay\">20150111</p>\n<p class=\"eventLocation\">佐賀大学美術館</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 「医学のあけぼのから先端医療まで」展</p>\n<p class=\"eventDay\">20150111</p>\n<p class=\"eventLocation\">佐賀大学美術館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150111/20150111.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2253,7 +2253,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "「医学のあけぼのから先端医療まで」展"
@@ -2269,11 +2269,11 @@
     {
         "id": "event-59",
         "name": "小川島市民講演",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 小川島市民講演</p>\n<p class=\"eventDay\">20130308</p>\n<p class=\"eventLocation\">小川島老人いこいの家</p>\n<p class=\"eventMovie\"><a href=\"https://youtu.be/geSUquweC-w\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 小川島市民講演</p>\n<p class=\"eventDay\">20130308</p>\n<p class=\"eventLocation\">小川島老人いこいの家</p>\n<p class=\"eventMovie\"><a href=\"https://youtu.be/geSUquweC-w\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130308/20130308.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2292,7 +2292,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "小川島市民講演"
@@ -2308,11 +2308,11 @@
     {
         "id": "event-60",
         "name": "肝炎と糖尿病啓発講座",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 肝炎と糖尿病啓発講座</p>\n<p class=\"eventDay\">20130307</p>\n<p class=\"eventLocation\">唐津玄海漁業協同組合</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 肝炎と糖尿病啓発講座</p>\n<p class=\"eventDay\">20130307</p>\n<p class=\"eventLocation\">唐津玄海漁業協同組合</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130307/20130307.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2331,7 +2331,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "肝炎と糖尿病啓発講座"
@@ -2347,11 +2347,11 @@
     {
         "id": "event-61",
         "name": "加唐島市民講演",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 加唐島市民講演</p>\n<p class=\"eventDay\">20130306</p>\n<p class=\"eventLocation\">加唐島診療所</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 加唐島市民講演</p>\n<p class=\"eventDay\">20130306</p>\n<p class=\"eventLocation\">加唐島診療所</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130306/20130306.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2370,7 +2370,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "加唐島市民講演"
@@ -2386,11 +2386,11 @@
     {
         "id": "event-62",
         "name": "馬渡島市民講演",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 馬渡島市民講演</p>\n<p class=\"eventDay\">20130301</p>\n<p class=\"eventLocation\">馬渡島診療所</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 馬渡島市民講演</p>\n<p class=\"eventDay\">20130301</p>\n<p class=\"eventLocation\">馬渡島診療所</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130301/20130301.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2409,7 +2409,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "馬渡島市民講演"
@@ -2425,11 +2425,11 @@
     {
         "id": "event-64",
         "name": "高島市民講演",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 高島市民講演</p>\n<p class=\"eventDay\">20130109</p>\n<p class=\"eventLocation\">高島診療所</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 高島市民講演</p>\n<p class=\"eventDay\">20130109</p>\n<p class=\"eventLocation\">高島診療所</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130109/20130109.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2448,7 +2448,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "高島市民講演"
@@ -2464,11 +2464,11 @@
     {
         "id": "event-65",
         "name": "神集島市民講演",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 神集島市民講演</p>\n<p class=\"eventDay\">20121127</p>\n<p class=\"eventLocation\">神集島診療所</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 神集島市民講演</p>\n<p class=\"eventDay\">20121127</p>\n<p class=\"eventLocation\">神集島診療所</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20121127/20121127.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2487,7 +2487,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "神集島市民講演"
@@ -2503,11 +2503,11 @@
     {
         "id": "event-66",
         "name": "平成26年度肝炎専門医療従事者研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成26年度肝炎専門医療従事者研修会</p>\n<p class=\"eventDay\">20150319</p>\n<p class=\"eventLocation\">アバンセ</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成26年度肝炎専門医療従事者研修会</p>\n<p class=\"eventDay\">20150319</p>\n<p class=\"eventLocation\">アバンセ</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150319/20150319.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2526,7 +2526,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "平成26年度肝炎専門医療従事者研修会"
@@ -2542,11 +2542,11 @@
     {
         "id": "event-67",
         "name": "平成25年度肝炎専門医療従事者研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成25年度肝炎専門医療従事者研修会</p>\n<p class=\"eventDay\">20140326</p>\n<p class=\"eventLocation\">アバンセ</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成25年度肝炎専門医療従事者研修会</p>\n<p class=\"eventDay\">20140326</p>\n<p class=\"eventLocation\">アバンセ</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140326/20140326.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2565,7 +2565,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "平成25年度肝炎専門医療従事者研修会"
@@ -2581,11 +2581,11 @@
     {
         "id": "event-68",
         "name": "平成24年度肝炎専門医療従事者研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成24年度肝炎専門医療従事者研修会</p>\n<p class=\"eventDay\">20130327</p>\n<p class=\"eventLocation\">アバンセ</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成24年度肝炎専門医療従事者研修会</p>\n<p class=\"eventDay\">20130327</p>\n<p class=\"eventLocation\">アバンセ</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130327/20130327.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2604,7 +2604,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "平成24年度肝炎専門医療従事者研修会"
@@ -2620,11 +2620,11 @@
     {
         "id": "event-69",
         "name": "第14回県民公開講座",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第14回県民公開講座</p>\n<p class=\"eventDay\">20140923</p>\n<p class=\"eventLocation\">アバンセ</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第14回県民公開講座</p>\n<p class=\"eventDay\">20140923</p>\n<p class=\"eventLocation\">アバンセ</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140923/20140923.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2643,7 +2643,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第14回県民公開講座"
@@ -2659,11 +2659,11 @@
     {
         "id": "event-70",
         "name": "第13回県民公開講座",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第13回県民公開講座</p>\n<p class=\"eventDay\">20130630</p>\n<p class=\"eventLocation\">アバンセ</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第13回県民公開講座</p>\n<p class=\"eventDay\">20130630</p>\n<p class=\"eventLocation\">アバンセ</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130630/20130630.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2682,7 +2682,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第13回県民公開講座"
@@ -2698,11 +2698,11 @@
     {
         "id": "event-71",
         "name": "第12回県民公開講座",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第12回県民公開講座</p>\n<p class=\"eventDay\">20120729</p>\n<p class=\"eventLocation\">アバンセ</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第12回県民公開講座</p>\n<p class=\"eventDay\">20120729</p>\n<p class=\"eventLocation\">アバンセ</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20120729/20120729.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2721,7 +2721,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第12回県民公開講座"
@@ -2737,11 +2737,11 @@
     {
         "id": "event-72",
         "name": "講話「治せる肝炎、防げる肝がん」",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 講話「治せる肝炎、防げる肝がん」</p>\n<p class=\"eventDay\">20120331</p>\n<p class=\"eventLocation\">アバンセ</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 講話「治せる肝炎、防げる肝がん」</p>\n<p class=\"eventDay\">20120331</p>\n<p class=\"eventLocation\">アバンセ</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20120331/20120331.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2760,7 +2760,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "講話「治せる肝炎、防げる肝がん」"
@@ -2776,11 +2776,11 @@
     {
         "id": "event-73",
         "name": "鳥栖三養基市民公開講座",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 鳥栖三養基市民公開講座</p>\n<p class=\"eventDay\">20130804</p>\n<p class=\"eventLocation\">鳥栖市民文化会館</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 鳥栖三養基市民公開講座</p>\n<p class=\"eventDay\">20130804</p>\n<p class=\"eventLocation\">鳥栖市民文化会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130804/20130804.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2799,7 +2799,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "鳥栖三養基市民公開講座"
@@ -2815,11 +2815,11 @@
     {
         "id": "event-74",
         "name": "第5回肝炎佐賀の会 講演会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第5回肝炎佐賀の会 講演会</p>\n<p class=\"eventDay\">20140223</p>\n<p class=\"eventLocation\">鳥栖市民文化会館</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第5回肝炎佐賀の会 講演会</p>\n<p class=\"eventDay\">20140223</p>\n<p class=\"eventLocation\">鳥栖市民文化会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140223/20140223.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2838,7 +2838,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第5回肝炎佐賀の会 講演会"
@@ -2854,11 +2854,11 @@
     {
         "id": "event-75",
         "name": "健康フォーラム2014 in 松梅",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 健康フォーラム2014 in 松梅</p>\n<p class=\"eventDay\">20140930</p>\n<p class=\"eventLocation\">松梅小学校</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 健康フォーラム2014 in 松梅</p>\n<p class=\"eventDay\">20140930</p>\n<p class=\"eventLocation\">松梅小学校</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140930/20140930.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2877,7 +2877,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "健康フォーラム2014 in 松梅"
@@ -2893,11 +2893,11 @@
     {
         "id": "event-76",
         "name": "肝臓フォーラム in 松梅",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 肝臓フォーラム in 松梅</p>\n<p class=\"eventDay\">20130908</p>\n<p class=\"eventLocation\">松梅小学校</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 肝臓フォーラム in 松梅</p>\n<p class=\"eventDay\">20130908</p>\n<p class=\"eventLocation\">松梅小学校</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130908/20130908.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2916,7 +2916,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "肝臓フォーラム in 松梅"
@@ -2932,11 +2932,11 @@
     {
         "id": "event-77",
         "name": "佐賀大学附属小学校 授業",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 佐賀大学附属小学校 授業</p>\n<p class=\"eventDay\">20130914</p>\n<p class=\"eventLocation\">佐賀大学文化教育学部附属小学校</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 佐賀大学附属小学校 授業</p>\n<p class=\"eventDay\">20130914</p>\n<p class=\"eventLocation\">佐賀大学文化教育学部附属小学校</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130914/20130914.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2955,7 +2955,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "佐賀大学附属小学校 授業"
@@ -2971,11 +2971,11 @@
     {
         "id": "event-78",
         "name": "柳川市民公開講座",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 柳川市民公開講座</p>\n<p class=\"eventDay\">20130928</p>\n<p class=\"eventLocation\">長田病院</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 柳川市民公開講座</p>\n<p class=\"eventDay\">20130928</p>\n<p class=\"eventLocation\">長田病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130928/20130928.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -2994,7 +2994,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "柳川市民公開講座"
@@ -3010,11 +3010,11 @@
     {
         "id": "event-79",
         "name": "柳川市民公開講座",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 柳川市民公開講座</p>\n<p class=\"eventDay\">20120707</p>\n<p class=\"eventLocation\">長田病院</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 柳川市民公開講座</p>\n<p class=\"eventDay\">20120707</p>\n<p class=\"eventLocation\">長田病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20120707/20120707.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3033,7 +3033,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "柳川市民公開講座"
@@ -3049,11 +3049,11 @@
     {
         "id": "event-80",
         "name": "平成26年度肝炎コーディネーター・フォローアップ研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成26年度肝炎コーディネーター・フォローアップ研修会</p>\n<p class=\"eventDay\">20140903</p>\n<p class=\"eventLocation\">武雄市文化会館</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成26年度肝炎コーディネーター・フォローアップ研修会</p>\n<p class=\"eventDay\">20140903</p>\n<p class=\"eventLocation\">武雄市文化会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140903/20140903.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3072,7 +3072,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "平成26年度肝炎コーディネーター・フォローアップ研修会"
@@ -3088,11 +3088,11 @@
     {
         "id": "event-81",
         "name": "平成26年度肝炎コーディネーター・フォローアップ研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成26年度肝炎コーディネーター・フォローアップ研修会</p>\n<p class=\"eventDay\">20140822</p>\n<p class=\"eventLocation\">佐賀市民会館</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成26年度肝炎コーディネーター・フォローアップ研修会</p>\n<p class=\"eventDay\">20140822</p>\n<p class=\"eventLocation\">佐賀市民会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140822/20140822.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3111,7 +3111,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "平成26年度肝炎コーディネーター・フォローアップ研修会"
@@ -3127,11 +3127,11 @@
     {
         "id": "event-82",
         "name": "平成25年度肝炎コーディネーター・フォローアップ研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成25年度肝炎コーディネーター・フォローアップ研修会</p>\n<p class=\"eventDay\">20131020</p>\n<p class=\"eventLocation\">メートプラザ佐賀</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成25年度肝炎コーディネーター・フォローアップ研修会</p>\n<p class=\"eventDay\">20131020</p>\n<p class=\"eventLocation\">メートプラザ佐賀</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20131020/20131020.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3150,7 +3150,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "平成25年度肝炎コーディネーター・フォローアップ研修会"
@@ -3166,11 +3166,11 @@
     {
         "id": "event-83",
         "name": "平成24年度肝炎コーディネーター・フォローアップ研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成24年度肝炎コーディネーター・フォローアップ研修会</p>\n<p class=\"eventDay\">20121029</p>\n<p class=\"eventLocation\">武雄市文化会館</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成24年度肝炎コーディネーター・フォローアップ研修会</p>\n<p class=\"eventDay\">20121029</p>\n<p class=\"eventLocation\">武雄市文化会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20121029/20121029.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3189,7 +3189,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "平成24年度肝炎コーディネーター・フォローアップ研修会"
@@ -3205,11 +3205,11 @@
     {
         "id": "event-84",
         "name": "平成24年度肝炎コーディネーター・フォローアップ研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成24年度肝炎コーディネーター・フォローアップ研修会</p>\n<p class=\"eventDay\">20121031</p>\n<p class=\"eventLocation\">アバンセ</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成24年度肝炎コーディネーター・フォローアップ研修会</p>\n<p class=\"eventDay\">20121031</p>\n<p class=\"eventLocation\">アバンセ</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20121031/20121031.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3228,7 +3228,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "平成24年度肝炎コーディネーター・フォローアップ研修会"
@@ -3244,11 +3244,11 @@
     {
         "id": "event-85",
         "name": "第１回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20120329</p>\n<p class=\"eventLocation\">好生館</p>\n<p class=\"eventNote\">備考: ３０名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20120329</p>\n<p class=\"eventLocation\">好生館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ３０名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20120329/20120329.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3267,7 +3267,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第１回さが肝疾患地域連携研修会"
@@ -3283,11 +3283,11 @@
     {
         "id": "event-86",
         "name": "第２回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20120419</p>\n<p class=\"eventLocation\">伊万里有田共立病院</p>\n<p class=\"eventNote\">備考: １６名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20120419</p>\n<p class=\"eventLocation\">伊万里有田共立病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: １６名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20120419/20120419.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3306,7 +3306,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第２回さが肝疾患地域連携研修会"
@@ -3322,11 +3322,11 @@
     {
         "id": "event-87",
         "name": "第３回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第３回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20120528</p>\n<p class=\"eventLocation\">佐賀病院</p>\n<p class=\"eventNote\">備考: ３４名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第３回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20120528</p>\n<p class=\"eventLocation\">佐賀病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ３４名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20120528/20120528.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3345,7 +3345,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第３回さが肝疾患地域連携研修会"
@@ -3361,11 +3361,11 @@
     {
         "id": "event-88",
         "name": "第４回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第４回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20120626</p>\n<p class=\"eventLocation\">済生会唐津病院</p>\n<p class=\"eventNote\">備考: １６名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第４回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20120626</p>\n<p class=\"eventLocation\">済生会唐津病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: １６名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20120626/20120626.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3384,7 +3384,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第４回さが肝疾患地域連携研修会"
@@ -3400,11 +3400,11 @@
     {
         "id": "event-89",
         "name": "第５回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第５回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20120724</p>\n<p class=\"eventLocation\">佐賀中部病院</p>\n<p class=\"eventNote\">備考: ４７名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第５回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20120724</p>\n<p class=\"eventLocation\">佐賀中部病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ４７名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20120724/20120724.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3423,7 +3423,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第５回さが肝疾患地域連携研修会"
@@ -3439,11 +3439,11 @@
     {
         "id": "event-90",
         "name": "第６回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第６回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20120829</p>\n<p class=\"eventLocation\">ビアントス</p>\n<p class=\"eventNote\">備考: １４名＋久留米大疾患連携室２名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第６回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20120829</p>\n<p class=\"eventLocation\">ビアントス</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: １４名＋久留米大疾患連携室２名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20120829/20120829.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3462,7 +3462,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第６回さが肝疾患地域連携研修会"
@@ -3478,11 +3478,11 @@
     {
         "id": "event-91",
         "name": "第７回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第７回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20120928</p>\n<p class=\"eventLocation\">唐津赤十字病院</p>\n<p class=\"eventNote\">備考: １７名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第７回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20120928</p>\n<p class=\"eventLocation\">唐津赤十字病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: １７名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20120928/20120928.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3501,7 +3501,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第７回さが肝疾患地域連携研修会"
@@ -3517,11 +3517,11 @@
     {
         "id": "event-92",
         "name": "第８回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第８回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20121031</p>\n<p class=\"eventLocation\">嬉野医療センター</p>\n<p class=\"eventNote\">備考: ２９名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第８回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20121031</p>\n<p class=\"eventLocation\">嬉野医療センター</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ２９名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20121031/20121031.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3540,7 +3540,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第８回さが肝疾患地域連携研修会"
@@ -3556,11 +3556,11 @@
     {
         "id": "event-93",
         "name": "第９回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第９回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20121114</p>\n<p class=\"eventLocation\">好生館</p>\n<p class=\"eventNote\">備考: ３１名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第９回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20121114</p>\n<p class=\"eventLocation\">好生館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ３１名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20121114/20121114.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3579,7 +3579,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第９回さが肝疾患地域連携研修会"
@@ -3595,11 +3595,11 @@
     {
         "id": "event-94",
         "name": "第１０回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１０回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20121211</p>\n<p class=\"eventLocation\">伊万里有田共立病院</p>\n<p class=\"eventNote\">備考: ５９名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１０回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20121211</p>\n<p class=\"eventLocation\">伊万里有田共立病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ５９名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20121211/20121211.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3618,7 +3618,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第１０回さが肝疾患地域連携研修会"
@@ -3634,11 +3634,11 @@
     {
         "id": "event-95",
         "name": "第１１回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１１回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130117</p>\n<p class=\"eventLocation\">佐賀病院</p>\n<p class=\"eventNote\">備考: ３７名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１１回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130117</p>\n<p class=\"eventLocation\">佐賀病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ３７名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130117/20130117.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3657,7 +3657,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第１１回さが肝疾患地域連携研修会"
@@ -3673,11 +3673,11 @@
     {
         "id": "event-96",
         "name": "第１２回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１２回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130203</p>\n<p class=\"eventLocation\">マリターレ創世</p>\n<p class=\"eventNote\">備考: １７名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１２回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130203</p>\n<p class=\"eventLocation\">マリターレ創世</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: １７名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130203/20130203.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3696,7 +3696,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第１２回さが肝疾患地域連携研修会"
@@ -3712,11 +3712,11 @@
     {
         "id": "event-97",
         "name": "第１３回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１３回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130314</p>\n<p class=\"eventLocation\">済生会唐津病院</p>\n<p class=\"eventNote\">備考: ４２名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１３回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130314</p>\n<p class=\"eventLocation\">済生会唐津病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ４２名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130314/20130314.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3735,7 +3735,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第１３回さが肝疾患地域連携研修会"
@@ -3751,11 +3751,11 @@
     {
         "id": "event-98",
         "name": "第１４回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１４回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130415</p>\n<p class=\"eventLocation\">佐賀中部病院</p>\n<p class=\"eventNote\">備考: １０３名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１４回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130415</p>\n<p class=\"eventLocation\">佐賀中部病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: １０３名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130415/20130415.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3774,7 +3774,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第１４回さが肝疾患地域連携研修会"
@@ -3790,11 +3790,11 @@
     {
         "id": "event-99",
         "name": "第１５回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１５回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130524</p>\n<p class=\"eventLocation\">嬉野医療センター</p>\n<p class=\"eventNote\">備考: ７５名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１５回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130524</p>\n<p class=\"eventLocation\">嬉野医療センター</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ７５名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130524/20130524.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3813,7 +3813,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第１５回さが肝疾患地域連携研修会"
@@ -3829,11 +3829,11 @@
     {
         "id": "event-100",
         "name": "第１６回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１６回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130603</p>\n<p class=\"eventLocation\">唐津赤十字病院</p>\n<p class=\"eventNote\">備考: ５６名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１６回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130603</p>\n<p class=\"eventLocation\">唐津赤十字病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ５６名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130603/20130603.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3852,7 +3852,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第１６回さが肝疾患地域連携研修会"
@@ -3868,11 +3868,11 @@
     {
         "id": "event-101",
         "name": "第１７回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１７回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130724</p>\n<p class=\"eventLocation\">好生館</p>\n<p class=\"eventNote\">備考: ７４名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１７回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130724</p>\n<p class=\"eventLocation\">好生館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ７４名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130724/20130724.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3891,7 +3891,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第１７回さが肝疾患地域連携研修会"
@@ -3907,11 +3907,11 @@
     {
         "id": "event-102",
         "name": "第１８回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１８回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130809</p>\n<p class=\"eventLocation\">サンメッセ鳥栖</p>\n<p class=\"eventNote\">備考: ５７名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１８回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130809</p>\n<p class=\"eventLocation\">サンメッセ鳥栖</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ５７名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130809/20130809.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3930,7 +3930,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第１８回さが肝疾患地域連携研修会"
@@ -3946,11 +3946,11 @@
     {
         "id": "event-103",
         "name": "第１９回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１９回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130913</p>\n<p class=\"eventLocation\">伊万里有田共立病院</p>\n<p class=\"eventNote\">備考: ２６名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１９回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130913</p>\n<p class=\"eventLocation\">伊万里有田共立病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ２６名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130913/20130913.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -3969,7 +3969,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第１９回さが肝疾患地域連携研修会"
@@ -3985,11 +3985,11 @@
     {
         "id": "event-104",
         "name": "第２０回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２０回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20131025</p>\n<p class=\"eventLocation\">アバンセ</p>\n<p class=\"eventNote\">備考: ５６名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２０回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20131025</p>\n<p class=\"eventLocation\">アバンセ</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ５６名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20131025/20131025.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4008,7 +4008,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第２０回さが肝疾患地域連携研修会"
@@ -4024,11 +4024,11 @@
     {
         "id": "event-105",
         "name": "第２１回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２１回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20131128</p>\n<p class=\"eventLocation\">済生会唐津病院</p>\n<p class=\"eventNote\">備考: ３５名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２１回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20131128</p>\n<p class=\"eventLocation\">済生会唐津病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ３５名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20131128/20131128.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4047,7 +4047,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第２１回さが肝疾患地域連携研修会"
@@ -4063,11 +4063,11 @@
     {
         "id": "event-106",
         "name": "第２２回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２２回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20131216</p>\n<p class=\"eventLocation\">佐賀中部病院</p>\n<p class=\"eventNote\">備考: ５６名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２２回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20131216</p>\n<p class=\"eventLocation\">佐賀中部病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ５６名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20131216/20131216.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4086,7 +4086,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第２２回さが肝疾患地域連携研修会"
@@ -4102,11 +4102,11 @@
     {
         "id": "event-107",
         "name": "第２３回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２３回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20140109</p>\n<p class=\"eventLocation\">嬉野医療センター</p>\n<p class=\"eventNote\">備考: ２８名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２３回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20140109</p>\n<p class=\"eventLocation\">嬉野医療センター</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ２８名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140109/20140109.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4125,7 +4125,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第２３回さが肝疾患地域連携研修会"
@@ -4141,11 +4141,11 @@
     {
         "id": "event-108",
         "name": "第２４回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２４回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20140210</p>\n<p class=\"eventLocation\">唐津赤十字病院</p>\n<p class=\"eventNote\">備考: ３０名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２４回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20140210</p>\n<p class=\"eventLocation\">唐津赤十字病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ３０名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140210/20140210.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4164,7 +4164,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第２４回さが肝疾患地域連携研修会"
@@ -4180,11 +4180,11 @@
     {
         "id": "event-109",
         "name": "第２５回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２５回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20141204</p>\n<p class=\"eventLocation\">唐津市民会館</p>\n<p class=\"eventNote\">備考: ２８名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２５回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20141204</p>\n<p class=\"eventLocation\">唐津市民会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ２８名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20141204/20141204.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4203,7 +4203,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第２５回さが肝疾患地域連携研修会"
@@ -4219,11 +4219,11 @@
     {
         "id": "event-110",
         "name": "第２６回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２６回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20141218</p>\n<p class=\"eventLocation\">鳥栖市民文化会館</p>\n<p class=\"eventNote\">備考: １１名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２６回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20141218</p>\n<p class=\"eventLocation\">鳥栖市民文化会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: １１名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20141218/20141218.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4242,7 +4242,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第２６回さが肝疾患地域連携研修会"
@@ -4258,11 +4258,11 @@
     {
         "id": "event-111",
         "name": "第２７回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２７回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20150114</p>\n<p class=\"eventLocation\">有田町生涯学習センター</p>\n<p class=\"eventNote\">備考: ２７名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２７回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20150114</p>\n<p class=\"eventLocation\">有田町生涯学習センター</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ２７名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150114/20150114.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4281,7 +4281,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第２７回さが肝疾患地域連携研修会"
@@ -4297,11 +4297,11 @@
     {
         "id": "event-112",
         "name": "第２８回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２８回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20150122</p>\n<p class=\"eventLocation\">武雄市文化会館</p>\n<p class=\"eventNote\">備考: ４８名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２８回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20150122</p>\n<p class=\"eventLocation\">武雄市文化会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ４８名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150122/20150122.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4320,7 +4320,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第２８回さが肝疾患地域連携研修会"
@@ -4336,11 +4336,11 @@
     {
         "id": "event-113",
         "name": "第２９回さが肝疾患地域連携研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２９回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20150203</p>\n<p class=\"eventLocation\">佐賀市文化会館</p>\n<p class=\"eventNote\">備考: ８６名</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２９回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20150203</p>\n<p class=\"eventLocation\">佐賀市文化会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ８６名</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150203/20150203.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4359,7 +4359,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第２９回さが肝疾患地域連携研修会"
@@ -4375,11 +4375,11 @@
     {
         "id": "event-114",
         "name": "肝疾患センター立ち上げ",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 肝疾患センター立ち上げ</p>\n<p class=\"eventDay\">20120201</p>\n<p class=\"eventLocation\">佐賀大学医学部附属病院</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 肝疾患センター立ち上げ</p>\n<p class=\"eventDay\">20120201</p>\n<p class=\"eventLocation\">佐賀大学医学部附属病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20120201/20120201.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4398,7 +4398,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "肝疾患センター立ち上げ"
@@ -4414,11 +4414,11 @@
     {
         "id": "event-115",
         "name": "会議",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 会議</p>\n<p class=\"eventDay\">20140203</p>\n<p class=\"eventLocation\">佐賀県庁</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 会議</p>\n<p class=\"eventDay\">20140203</p>\n<p class=\"eventLocation\">佐賀県庁</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140203/20140203.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4437,7 +4437,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "会議"
@@ -4453,11 +4453,11 @@
     {
         "id": "event-116",
         "name": "啓発活動",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 啓発活動</p>\n<p class=\"eventDay\">20120727</p>\n<p class=\"eventLocation\">佐賀駅</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 啓発活動</p>\n<p class=\"eventDay\">20120727</p>\n<p class=\"eventLocation\">佐賀駅</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20120727/20120727.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4476,7 +4476,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "啓発活動"
@@ -4492,11 +4492,11 @@
     {
         "id": "event-117",
         "name": "ご当地キャラと学ぼう！肝臓と肝炎のこと！",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ご当地キャラと学ぼう！肝臓と肝炎のこと！</p>\n<p class=\"eventDay\">20140728</p>\n<p class=\"eventLocation\">アーバンドッグららぽーと豊洲</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ご当地キャラと学ぼう！肝臓と肝炎のこと！</p>\n<p class=\"eventDay\">20140728</p>\n<p class=\"eventLocation\">アーバンドッグららぽーと豊洲</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140728/20140728.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4515,7 +4515,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "ご当地キャラと学ぼう！肝臓と肝炎のこと！"
@@ -4531,11 +4531,11 @@
     {
         "id": "event-118",
         "name": "ろんだん佐賀",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ろんだん佐賀</p>\n<p class=\"eventDay\">20150531</p>\n<p class=\"eventLocation\">佐賀新聞社</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ろんだん佐賀</p>\n<p class=\"eventDay\">20150531</p>\n<p class=\"eventLocation\">佐賀新聞社</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150531/20150531.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4554,7 +4554,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "ろんだん佐賀"
@@ -4570,11 +4570,11 @@
     {
         "id": "event-119",
         "name": "佐賀新聞記事",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 佐賀新聞記事</p>\n<p class=\"eventDay\">20150521</p>\n<p class=\"eventLocation\">佐賀新聞社</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 佐賀新聞記事</p>\n<p class=\"eventDay\">20150521</p>\n<p class=\"eventLocation\">佐賀新聞社</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150521/20150521.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4593,7 +4593,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "佐賀新聞記事"
@@ -4609,11 +4609,11 @@
     {
         "id": "event-120",
         "name": "佐賀新聞記事",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 佐賀新聞記事</p>\n<p class=\"eventDay\">20130313</p>\n<p class=\"eventLocation\">佐賀新聞社</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 佐賀新聞記事</p>\n<p class=\"eventDay\">20130313</p>\n<p class=\"eventLocation\">佐賀新聞社</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130313/20130313.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4632,7 +4632,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "佐賀新聞記事"
@@ -4648,11 +4648,11 @@
     {
         "id": "event-121",
         "name": "佐賀新聞記事",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 佐賀新聞記事</p>\n<p class=\"eventDay\">20130330</p>\n<p class=\"eventLocation\">佐賀新聞社</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 佐賀新聞記事</p>\n<p class=\"eventDay\">20130330</p>\n<p class=\"eventLocation\">佐賀新聞社</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130330/20130330.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4671,7 +4671,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "佐賀新聞記事"
@@ -4687,11 +4687,11 @@
     {
         "id": "event-122",
         "name": "佐賀新聞記事",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 佐賀新聞記事</p>\n<p class=\"eventDay\">20130428</p>\n<p class=\"eventLocation\">佐賀新聞社</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 佐賀新聞記事</p>\n<p class=\"eventDay\">20130428</p>\n<p class=\"eventLocation\">佐賀新聞社</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130428/20130428.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4710,7 +4710,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "佐賀新聞記事"
@@ -4726,11 +4726,11 @@
     {
         "id": "event-123",
         "name": "「桜の咲くころには」",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 「桜の咲くころには」</p>\n<p class=\"eventDay\">20130621</p>\n<p class=\"eventLocation\">江口病院</p>\n<p class=\"eventMovie\"><a href=\"https://www.youtube.com/watch?v=IexQx_7I-kY\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 「桜の咲くころには」</p>\n<p class=\"eventDay\">20130621</p>\n<p class=\"eventLocation\">江口病院</p>\n<p class=\"eventMovie\"><a href=\"https://www.youtube.com/watch?v=IexQx_7I-kY\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130621/20130621.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4749,7 +4749,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "「桜の咲くころには」"
@@ -4765,11 +4765,11 @@
     {
         "id": "event-124",
         "name": "農業方策祈願祭での講話",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 農業方策祈願祭での講話</p>\n<p class=\"eventDay\">20130831</p>\n<p class=\"eventLocation\">多久市両之原公民館</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 農業方策祈願祭での講話</p>\n<p class=\"eventDay\">20130831</p>\n<p class=\"eventLocation\">多久市両之原公民館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130831/20130831.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4788,7 +4788,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "農業方策祈願祭での講話"
@@ -4804,11 +4804,11 @@
     {
         "id": "event-125",
         "name": "「ストップ！肝がん」講話",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 「ストップ！肝がん」講話</p>\n<p class=\"eventDay\">20130830</p>\n<p class=\"eventLocation\">白石漁協</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 「ストップ！肝がん」講話</p>\n<p class=\"eventDay\">20130830</p>\n<p class=\"eventLocation\">白石漁協</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130830/20130830.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4827,7 +4827,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "「ストップ！肝がん」講話"
@@ -4843,11 +4843,11 @@
     {
         "id": "event-126",
         "name": "「ストップ！肝がん」トークイベント",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 「ストップ！肝がん」トークイベント</p>\n<p class=\"eventDay\">20131027</p>\n<p class=\"eventLocation\">佐賀城本丸歴史館</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 「ストップ！肝がん」トークイベント</p>\n<p class=\"eventDay\">20131027</p>\n<p class=\"eventLocation\">佐賀城本丸歴史館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20131027/20131027.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4866,7 +4866,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "「ストップ！肝がん」トークイベント"
@@ -4882,11 +4882,11 @@
     {
         "id": "event-127",
         "name": "安全運転管理者法定講習会での講話",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 安全運転管理者法定講習会での講話</p>\n<p class=\"eventDay\">20131127</p>\n<p class=\"eventLocation\">佐賀県公安委員会</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 安全運転管理者法定講習会での講話</p>\n<p class=\"eventDay\">20131127</p>\n<p class=\"eventLocation\">佐賀県公安委員会</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20131127/20131127.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4905,7 +4905,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "安全運転管理者法定講習会での講話"
@@ -4921,11 +4921,11 @@
     {
         "id": "event-128",
         "name": "[行かんばい肝]CM",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> [行かんばい肝]CM</p>\n<p class=\"eventDay\">20131221</p>\n<p class=\"eventLocation\">好生館</p>\n<p class=\"eventMovie\"><a href=\"https://www.youtube.com/watch?v=PV6ME24Roak\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> [行かんばい肝]CM</p>\n<p class=\"eventDay\">20131221</p>\n<p class=\"eventLocation\">好生館</p>\n<p class=\"eventMovie\"><a href=\"https://www.youtube.com/watch?v=PV6ME24Roak\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20131221/20131221.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4944,7 +4944,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "[行かんばい肝]CM"
@@ -4960,11 +4960,11 @@
     {
         "id": "event-129",
         "name": "[行かんばい肝]CM",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> [行かんばい肝]CM</p>\n<p class=\"eventDay\">20140123</p>\n<p class=\"eventLocation\">白山商店街</p>\n<p class=\"eventMovie\"><a href=\"https://www.youtube.com/watch?v=PV6ME24Roak\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> [行かんばい肝]CM</p>\n<p class=\"eventDay\">20140123</p>\n<p class=\"eventLocation\">白山商店街</p>\n<p class=\"eventMovie\"><a href=\"https://www.youtube.com/watch?v=PV6ME24Roak\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140123/20140123.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -4983,7 +4983,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "[行かんばい肝]CM"
@@ -4999,11 +4999,11 @@
     {
         "id": "event-130",
         "name": "唐津の離島の肝炎を考える会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 唐津の離島の肝炎を考える会</p>\n<p class=\"eventDay\">20120829</p>\n<p class=\"eventLocation\">唐津赤十字病院</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 唐津の離島の肝炎を考える会</p>\n<p class=\"eventDay\">20120829</p>\n<p class=\"eventLocation\">唐津赤十字病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20120829/20120829.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5022,7 +5022,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "唐津の離島の肝炎を考える会"
@@ -5038,11 +5038,11 @@
     {
         "id": "event-131",
         "name": "医療ルネサンス",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 医療ルネサンス</p>\n<p class=\"eventDay\">20150303</p>\n<p class=\"eventLocation\">読売新聞</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 医療ルネサンス</p>\n<p class=\"eventDay\">20150303</p>\n<p class=\"eventLocation\">読売新聞</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150303/20150303.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5061,7 +5061,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "医療ルネサンス"
@@ -5077,11 +5077,11 @@
     {
         "id": "event-132",
         "name": "院内勉強会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 院内勉強会</p>\n<p class=\"eventDay\">20120707</p>\n<p class=\"eventLocation\">美川眼科</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 院内勉強会</p>\n<p class=\"eventDay\">20120707</p>\n<p class=\"eventLocation\">美川眼科</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20120707/20120707.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5100,7 +5100,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "院内勉強会"
@@ -5116,11 +5116,11 @@
     {
         "id": "event-133",
         "name": "第1回さがの医薬薬連携の会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第1回さがの医薬薬連携の会</p>\n<p class=\"eventDay\">20120802</p>\n<p class=\"eventLocation\">肝疾患センター</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第1回さがの医薬薬連携の会</p>\n<p class=\"eventDay\">20120802</p>\n<p class=\"eventLocation\">肝疾患センター</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20120802/20120802.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5139,7 +5139,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第1回さがの医薬薬連携の会"
@@ -5155,11 +5155,11 @@
     {
         "id": "event-134",
         "name": "第1回がんサロン",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第1回がんサロン</p>\n<p class=\"eventDay\">20120915</p>\n<p class=\"eventLocation\">武雄市文化会館</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第1回がんサロン</p>\n<p class=\"eventDay\">20120915</p>\n<p class=\"eventLocation\">武雄市文化会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20120915/20120915.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5178,7 +5178,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第1回がんサロン"
@@ -5194,11 +5194,11 @@
     {
         "id": "event-135",
         "name": "産業保健研究会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 産業保健研究会</p>\n<p class=\"eventDay\">20121114</p>\n<p class=\"eventLocation\">佐賀県産業保健協会</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 産業保健研究会</p>\n<p class=\"eventDay\">20121114</p>\n<p class=\"eventLocation\">佐賀県産業保健協会</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20121114/20121114.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5217,7 +5217,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "産業保健研究会"
@@ -5233,11 +5233,11 @@
     {
         "id": "event-136",
         "name": "CM撮影",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> CM撮影</p>\n<p class=\"eventDay\">20130119</p>\n<p class=\"eventLocation\">佐賀大学文化教育学部附属小学校</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> CM撮影</p>\n<p class=\"eventDay\">20130119</p>\n<p class=\"eventLocation\">佐賀大学文化教育学部附属小学校</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130119/20130119.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5256,7 +5256,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "CM撮影"
@@ -5272,11 +5272,11 @@
     {
         "id": "event-137",
         "name": "タクシー内啓発",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> タクシー内啓発</p>\n<p class=\"eventDay\">20130313</p>\n<p class=\"eventLocation\">佐賀タクシー</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> タクシー内啓発</p>\n<p class=\"eventDay\">20130313</p>\n<p class=\"eventLocation\">佐賀タクシー</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130313/20130313.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5295,7 +5295,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "タクシー内啓発"
@@ -5311,11 +5311,11 @@
     {
         "id": "event-138",
         "name": "銀行内啓発",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 銀行内啓発</p>\n<p class=\"eventDay\">20130319</p>\n<p class=\"eventLocation\">佐賀共栄銀行木原支店</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 銀行内啓発</p>\n<p class=\"eventDay\">20130319</p>\n<p class=\"eventLocation\">佐賀共栄銀行木原支店</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130319/20130319.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5334,7 +5334,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "銀行内啓発"
@@ -5350,11 +5350,11 @@
     {
         "id": "event-139",
         "name": "肝炎佐賀の会勉強会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 肝炎佐賀の会勉強会</p>\n<p class=\"eventDay\">20131013</p>\n<p class=\"eventLocation\">佐賀市立図書館</p>\n<p class=\"eventNote\">備考: http://www1.saga-s.co.jp/news/saga.0.2564654.article.html</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 肝炎佐賀の会勉強会</p>\n<p class=\"eventDay\">20131013</p>\n<p class=\"eventLocation\">佐賀市立図書館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: http://www1.saga-s.co.jp/news/saga.0.2564654.article.html</p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20131013/20131013.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5373,7 +5373,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "肝炎佐賀の会勉強会"
@@ -5389,11 +5389,11 @@
     {
         "id": "event-140",
         "name": "香川肝炎相談支援センター 公開講座",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 香川肝炎相談支援センター 公開講座</p>\n<p class=\"eventDay\">20140419</p>\n<p class=\"eventLocation\">香川県立中央病院</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 香川肝炎相談支援センター 公開講座</p>\n<p class=\"eventDay\">20140419</p>\n<p class=\"eventLocation\">香川県立中央病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140419/20140419.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5412,7 +5412,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "香川肝炎相談支援センター 公開講座"
@@ -5428,11 +5428,11 @@
     {
         "id": "event-141",
         "name": "溝上薬局 健康ゼミナール",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 溝上薬局 健康ゼミナール</p>\n<p class=\"eventDay\">20140510</p>\n<p class=\"eventLocation\">佐賀市文化会館</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 溝上薬局 健康ゼミナール</p>\n<p class=\"eventDay\">20140510</p>\n<p class=\"eventLocation\">佐賀市文化会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140510/20140510.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5451,7 +5451,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "溝上薬局 健康ゼミナール"
@@ -5467,11 +5467,11 @@
     {
         "id": "event-142",
         "name": "歴史に学ぶ地域の先進医療",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 歴史に学ぶ地域の先進医療</p>\n<p class=\"eventDay\">20141101</p>\n<p class=\"eventLocation\">アバンセ</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 歴史に学ぶ地域の先進医療</p>\n<p class=\"eventDay\">20141101</p>\n<p class=\"eventLocation\">アバンセ</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20141101/20141101.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5490,7 +5490,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "歴史に学ぶ地域の先進医療"
@@ -5506,11 +5506,11 @@
     {
         "id": "event-143",
         "name": "福井県第20回肝疾患診療従事者研修会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 福井県第20回肝疾患診療従事者研修会</p>\n<p class=\"eventDay\">20150312</p>\n<p class=\"eventLocation\">福井商工会議所</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 福井県第20回肝疾患診療従事者研修会</p>\n<p class=\"eventDay\">20150312</p>\n<p class=\"eventLocation\">福井商工会議所</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150312/20150312.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5529,7 +5529,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "福井県第20回肝疾患診療従事者研修会"
@@ -5545,11 +5545,11 @@
     {
         "id": "event-144",
         "name": "第64回日本医学検査学会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第64回日本医学検査学会</p>\n<p class=\"eventDay\">20150516</p>\n<p class=\"eventLocation\">福岡国際会議場</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第64回日本医学検査学会</p>\n<p class=\"eventDay\">20150516</p>\n<p class=\"eventLocation\">福岡国際会議場</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150516/20150516.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5568,7 +5568,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第64回日本医学検査学会"
@@ -5584,11 +5584,11 @@
     {
         "id": "event-145",
         "name": "特任肝炎コーディネーター第1回ミーティング",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 特任肝炎コーディネーター第1回ミーティング</p>\n<p class=\"eventDay\">20120228</p>\n<p class=\"eventLocation\">肝疾患センター</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 特任肝炎コーディネーター第1回ミーティング</p>\n<p class=\"eventDay\">20120228</p>\n<p class=\"eventLocation\">肝疾患センター</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20120228/20120228.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5607,7 +5607,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "特任肝炎コーディネーター第1回ミーティング"
@@ -5623,11 +5623,11 @@
     {
         "id": "event-146",
         "name": "肝炎ケアチーム見学",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 肝炎ケアチーム見学</p>\n<p class=\"eventDay\">20130116</p>\n<p class=\"eventLocation\">長田病院</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 肝炎ケアチーム見学</p>\n<p class=\"eventDay\">20130116</p>\n<p class=\"eventLocation\">長田病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130116/20130116.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5646,7 +5646,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "肝炎ケアチーム見学"
@@ -5662,11 +5662,11 @@
     {
         "id": "event-147",
         "name": "健康づくり座談会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 健康づくり座談会</p>\n<p class=\"eventDay\">20130221</p>\n<p class=\"eventLocation\">小城公民館</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 健康づくり座談会</p>\n<p class=\"eventDay\">20130221</p>\n<p class=\"eventLocation\">小城公民館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130221/20130221.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5685,7 +5685,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "健康づくり座談会"
@@ -5701,11 +5701,11 @@
     {
         "id": "event-149",
         "name": "佐賀新聞記事",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 佐賀新聞記事</p>\n<p class=\"eventDay\">20130421</p>\n<p class=\"eventLocation\">佐賀新聞社</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 佐賀新聞記事</p>\n<p class=\"eventDay\">20130421</p>\n<p class=\"eventLocation\">佐賀新聞社</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130421/20130421.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5724,7 +5724,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "佐賀新聞記事"
@@ -5740,11 +5740,11 @@
     {
         "id": "event-150",
         "name": "佐賀新聞記事",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 佐賀新聞記事</p>\n<p class=\"eventDay\">20130512</p>\n<p class=\"eventLocation\">佐賀新聞社</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 佐賀新聞記事</p>\n<p class=\"eventDay\">20130512</p>\n<p class=\"eventLocation\">佐賀新聞社</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20130512/20130512.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5763,7 +5763,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "佐賀新聞記事"
@@ -5779,11 +5779,11 @@
     {
         "id": "event-151",
         "name": "肝臓病市民公開講座",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 肝臓病市民公開講座</p>\n<p class=\"eventDay\">20140524</p>\n<p class=\"eventLocation\">武雄市北方公民館</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 肝臓病市民公開講座</p>\n<p class=\"eventDay\">20140524</p>\n<p class=\"eventLocation\">武雄市北方公民館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20140524/20140524.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5802,7 +5802,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "肝臓病市民公開講座"
@@ -5818,11 +5818,11 @@
     {
         "id": "event-152",
         "name": "第15回県民公開講座",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第15回県民公開講座</p>\n<p class=\"eventDay\">20150627</p>\n<p class=\"eventLocation\">サンメッセ鳥栖</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第15回県民公開講座</p>\n<p class=\"eventDay\">20150627</p>\n<p class=\"eventLocation\">サンメッセ鳥栖</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150627/20150627.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5841,7 +5841,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "第15回県民公開講座"
@@ -5857,11 +5857,11 @@
     {
         "id": "event-153",
         "name": "平成27年度佐賀地区サルビアの会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成27年度佐賀地区サルビアの会</p>\n<p class=\"eventDay\">20150621</p>\n<p class=\"eventLocation\">アバンセ</p>\n<p class=\"eventMovie\"><a href=\"https://youtu.be/fTHvbHV_iwA\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成27年度佐賀地区サルビアの会</p>\n<p class=\"eventDay\">20150621</p>\n<p class=\"eventLocation\">アバンセ</p>\n<p class=\"eventMovie\"><a href=\"https://youtu.be/fTHvbHV_iwA\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150621/20150621.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5880,7 +5880,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "平成27年度佐賀地区サルビアの会"
@@ -5896,11 +5896,11 @@
     {
         "id": "event-154",
         "name": "平成27年度杵藤地区サルビアの会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成27年度杵藤地区サルビアの会</p>\n<p class=\"eventDay\">20150705</p>\n<p class=\"eventLocation\">市民交流プラザ「かたらい」</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成27年度杵藤地区サルビアの会</p>\n<p class=\"eventDay\">20150705</p>\n<p class=\"eventLocation\">市民交流プラザ「かたらい」</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150705/20150705.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5919,7 +5919,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "平成27年度杵藤地区サルビアの会"
@@ -5935,11 +5935,11 @@
     {
         "id": "event-155",
         "name": "平成27年度鳥栖地区サルビアの会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成27年度鳥栖地区サルビアの会</p>\n<p class=\"eventDay\">20150913</p>\n<p class=\"eventLocation\">鳥栖まちづくり推進センター</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成27年度鳥栖地区サルビアの会</p>\n<p class=\"eventDay\">20150913</p>\n<p class=\"eventLocation\">鳥栖まちづくり推進センター</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150913/20150913.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5958,7 +5958,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "平成27年度鳥栖地区サルビアの会"
@@ -5974,11 +5974,11 @@
     {
         "id": "event-156",
         "name": "佐賀大学プレスリリース",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 佐賀大学プレスリリース</p>\n<p class=\"eventDay\">20150917</p>\n<p class=\"eventLocation\">佐賀大学</p>\n<p class=\"eventMovie\"><a href=\"http://www.saga-u.ac.jp/koho/press/201509174819\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 佐賀大学プレスリリース</p>\n<p class=\"eventDay\">20150917</p>\n<p class=\"eventLocation\">佐賀大学</p>\n<p class=\"eventMovie\"><a href=\"http://www.saga-u.ac.jp/koho/press/201509174819\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150917/20150917.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -5997,7 +5997,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "佐賀大学プレスリリース"
@@ -6013,11 +6013,11 @@
     {
         "id": "event-157",
         "name": "西日本新聞新聞記事",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 西日本新聞新聞記事</p>\n<p class=\"eventDay\">20150923</p>\n<p class=\"eventLocation\">西日本新聞社佐賀総局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nishinippon.co.jp/nnp/saga/article/196768\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 西日本新聞新聞記事</p>\n<p class=\"eventDay\">20150923</p>\n<p class=\"eventLocation\">西日本新聞社佐賀総局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nishinippon.co.jp/nnp/saga/article/196768\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20150923/20150923.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -6036,7 +6036,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "西日本新聞新聞記事"
@@ -6052,11 +6052,11 @@
     {
         "id": "event-158",
         "name": "感染研一般公開",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 感染研一般公開</p>\n<p class=\"eventDay\">20151003</p>\n<p class=\"eventLocation\">国立感染症研究所</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 感染研一般公開</p>\n<p class=\"eventDay\">20151003</p>\n<p class=\"eventLocation\">国立感染症研究所</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20151003/20151003.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -6075,7 +6075,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "感染研一般公開"
@@ -6091,11 +6091,11 @@
     {
         "id": "event-159",
         "name": "平成27年度唐津地区サルビアの会",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成27年度唐津地区サルビアの会</p>\n<p class=\"eventDay\">20151212</p>\n<p class=\"eventLocation\">唐津市都市コミュニティーセンター</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成27年度唐津地区サルビアの会</p>\n<p class=\"eventDay\">20151212</p>\n<p class=\"eventLocation\">唐津市都市コミュニティーセンター</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20151212/20151212.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -6114,7 +6114,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "平成27年度唐津地区サルビアの会"
@@ -6130,11 +6130,11 @@
     {
         "id": "event-160",
         "name": "神埼市郡医師会市民公開講座",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 神埼市郡医師会市民公開講座</p>\n<p class=\"eventDay\">20151114</p>\n<p class=\"eventLocation\">神埼市中央公民館</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 神埼市郡医師会市民公開講座</p>\n<p class=\"eventDay\">20151114</p>\n<p class=\"eventLocation\">神埼市中央公民館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20151114/20151114.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -6153,7 +6153,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "神埼市郡医師会市民公開講座"
@@ -6169,11 +6169,11 @@
     {
         "id": "event-161",
         "name": "日本消化器病学会九州支部 第86回市民公開講座",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 日本消化器病学会九州支部 第86回市民公開講座</p>\n<p class=\"eventDay\">20151017</p>\n<p class=\"eventLocation\">佐賀県立美術館</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 日本消化器病学会九州支部 第86回市民公開講座</p>\n<p class=\"eventDay\">20151017</p>\n<p class=\"eventLocation\">佐賀県立美術館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20151017/20151017.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -6192,7 +6192,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "日本消化器病学会九州支部 第86回市民公開講座"
@@ -6208,11 +6208,11 @@
     {
         "id": "event-162",
         "name": "「たたけ！肝炎ウイルス」プレスリリース",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 「たたけ！肝炎ウイルス」プレスリリース</p>\n<p class=\"eventDay\">20151022</p>\n<p class=\"eventLocation\">佐賀県庁</p>\n<p class=\"eventMovie\"><a href=\"https://www.pref.saga.lg.jp/web/kisha/_92102/_92605.html\" target=\"_blank\" \">動画URL</a></p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 「たたけ！肝炎ウイルス」プレスリリース</p>\n<p class=\"eventDay\">20151022</p>\n<p class=\"eventLocation\">佐賀県庁</p>\n<p class=\"eventMovie\"><a href=\"https://www.pref.saga.lg.jp/web/kisha/_92102/_92605.html\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20151022/20151022.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -6231,7 +6231,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "「たたけ！肝炎ウイルス」プレスリリース"
@@ -6247,11 +6247,11 @@
     {
         "id": "event-163",
         "name": "戦略的健康経営が会社を変える！",
-        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 戦略的健康経営が会社を変える！</p>\n<p class=\"eventDay\">20151014</p>\n<p class=\"eventLocation\">ドーンセンター</p>\n</div>",
+        "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 戦略的健康経営が会社を変える！</p>\n<p class=\"eventDay\">20151014</p>\n<p class=\"eventLocation\">ドーンセンター</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n</div>",
         "billboard": {
             "horizontalOrigin": "CENTER",
-            "image": "../images/icon/hospital_icon.png",
-            "scale": 0.3,
+            "image": "../images/icon/sagaPhotoIcon/20151014/20151014.jpg",
+            "scale": 0.7,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -6270,7 +6270,7 @@
                     15
                 ]
             },
-            "font": "9pt Sans-Serif",
+            "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
             "text": "戦略的健康経営が会社を変える！"
