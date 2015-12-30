@@ -332,3 +332,17 @@ p.eventMovie {
 p.eventNote {
     display:none;
 }
+
+div.balloonImage {
+    min-height:240px;
+}
+
+p.balloonImage {
+    margin:5px 0px;
+    padding:0;
+}
+
+img.balloonImage {
+    width:100%;
+    height:auto;
+}
