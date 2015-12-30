@@ -304,7 +304,7 @@ function loadCzml(){
 			setClickEvent();
 			viewer.clock.onTick.addEventListener(function(clock){
 				var nowTime = viewer.clock.currentTime;
-//				checkTime();
+				setTimeout('checkTime()',3000);
 });
 			setTimeout('fadeInOut(blackOutDiv,0)',3000);
 		}
@@ -398,7 +398,6 @@ function setClickEvent(){
 				});
 }
 }, Cesium.ScreenSpaceEventType.LEFT_DOUBLE_CLICK);
-setTimeout('checkTime()',1000);
 }
 
 //時間チェック
