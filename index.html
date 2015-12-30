@@ -153,7 +153,7 @@ for (var i=0; i<viewPointsArray.length; i++) {
 	dropDownList = dropDownList + '<li><a href="#" onclick = "changeViewPoint(' + i + ',' + '3.5);return false;">' + viewPointsArray[i].label + '</a></li>';
 }
 
-var viewPointChangeMenuHtml = '<ul class="viewpoint">' + dropDownList + '</ul>';
+var viewPointChangeMenuHtml = '<ul class="viewpoint">' + dropDownList + '<hr noshade/><a href="archive.html">肝炎アーカイブ</a></li></ul>';
 viewPointChangeMenu.innerHTML = viewPointChangeMenuHtml;
 
 //デバイスのOS取得
@@ -242,7 +242,7 @@ function loadCzml(){
 		i++;
 		if (i == czmlDataArray.length){
 			clearInterval(load);
-			var newLayer =  new Cesium.OpenStreetMapImageryProvider({});
+			var newLayer =  new Cesium.createOpenStreetMapImageryProvider({});
 			var layers = viewer.imageryLayers;
 			osm = layers.addImageryProvider(newLayer);
 			osm.alpha = 1.0;
