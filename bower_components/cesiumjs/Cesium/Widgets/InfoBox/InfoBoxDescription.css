@@ -334,7 +334,7 @@ p.eventNote {
 }
 
 div.balloonImage {
-    height:250px;
+    height:280px;
     overflow-y: scroll; /* has to be scroll, not auto */
     -webkit-overflow-scrolling: touch;
 }
