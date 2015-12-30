@@ -11,7 +11,7 @@
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "../images/kao_kranke/001.png",
-            "scale": 0.8,
+            "scale": 0.75,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -19,8 +19,8 @@
             "fillColor": {
                 "rgba": [
                     255,
-                    255,
-                    255,
+                    204,
+                    153,
                     255
                 ]
             },
@@ -50,7 +50,7 @@
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "../images/kao_kranke/002.png",
-            "scale": 0.8,
+            "scale": 0.75,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -58,8 +58,8 @@
             "fillColor": {
                 "rgba": [
                     255,
-                    255,
-                    255,
+                    204,
+                    153,
                     255
                 ]
             },
@@ -89,7 +89,7 @@
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "../images/kao_kranke/003.png",
-            "scale": 0.8,
+            "scale": 0.75,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -97,8 +97,8 @@
             "fillColor": {
                 "rgba": [
                     255,
-                    255,
-                    255,
+                    204,
+                    153,
                     255
                 ]
             },
@@ -128,7 +128,7 @@
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "../images/kao_kranke/004.png",
-            "scale": 0.8,
+            "scale": 0.75,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -136,8 +136,8 @@
             "fillColor": {
                 "rgba": [
                     255,
-                    255,
-                    255,
+                    204,
+                    153,
                     255
                 ]
             },
@@ -167,7 +167,7 @@
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "../images/kao_kranke/005.png",
-            "scale": 0.8,
+            "scale": 0.75,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -175,8 +175,8 @@
             "fillColor": {
                 "rgba": [
                     255,
-                    255,
-                    255,
+                    204,
+                    153,
                     255
                 ]
             },
@@ -206,7 +206,7 @@
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "../images/kao_kranke/006.png",
-            "scale": 0.8,
+            "scale": 0.75,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -214,8 +214,8 @@
             "fillColor": {
                 "rgba": [
                     255,
-                    255,
-                    255,
+                    204,
+                    153,
                     255
                 ]
             },
@@ -245,7 +245,7 @@
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "../images/kao_kranke/007.png",
-            "scale": 0.8,
+            "scale": 0.75,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -253,8 +253,8 @@
             "fillColor": {
                 "rgba": [
                     255,
-                    255,
-                    255,
+                    204,
+                    153,
                     255
                 ]
             },
