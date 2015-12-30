@@ -335,6 +335,7 @@ p.eventNote {
 
 div.balloonImage {
     min-height:240px;
+    max-height:360px;
 }
 
 p.balloonImage {
