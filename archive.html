@@ -286,7 +286,7 @@ function loadCzml(){
 				var id = billboardsIdsPrefix + '-' + i;				
 				var entity = czmlDataSource.entities.getById(id);
 				if (entity) {
-					var translucencyByDistance = new Cesium.NearFarScalar(2.0e3, 1.0, 3.0e4, 0.0);
+					var translucencyByDistance = new Cesium.NearFarScalar(2.0e3, 1.0, 5.0e4, 0.0);
 					entity.label.translucencyByDistance = translucencyByDistance;
 				}
 				i++;
