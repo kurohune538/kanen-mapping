@@ -6,6 +6,7 @@
     },
     {
         "id": "event-1",
+        "availability": "2015-07-28T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "世界肝炎デー in SAGA 2015",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 世界肝炎デー in SAGA 2015</p>\n<p class=\"eventDay\">20150728</p>\n<p class=\"eventLocation\">ゆめタウン佐賀</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150728/20150728.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150728/20150728_1.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150728/20150728_2.jpg\"></p></div></div>",
         "billboard": {
@@ -70,6 +71,7 @@
     },
     {
         "id": "event-2",
+        "availability": "2014-07-27T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "世界肝炎デー in SAGA 2014",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 世界肝炎デー in SAGA 2014</p>\n<p class=\"eventDay\">20140727</p>\n<p class=\"eventLocation\">ゆめタウン佐賀</p>\n<p class=\"eventMovie\"><a href=\"https://youtu.be/cr15OEG32Aw\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140727/20140727.jpg\"></p></div></div>",
         "billboard": {
@@ -134,6 +136,7 @@
     },
     {
         "id": "event-3",
+        "availability": "2013-07-28T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第2回世界肝炎デー",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第2回世界肝炎デー</p>\n<p class=\"eventDay\">20130728</p>\n<p class=\"eventLocation\">ゆめタウン佐賀</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130728/20130728.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130728/20130728_1.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130728/20130728_2.jpg\"></p></div></div>",
         "billboard": {
@@ -198,6 +201,7 @@
     },
     {
         "id": "event-4",
+        "availability": "2012-07-28T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第1回世界肝炎デー",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第1回世界肝炎デー</p>\n<p class=\"eventDay\">20120728</p>\n<p class=\"eventLocation\">ゆめタウン佐賀</p>\n<p class=\"eventMovie\"><a href=\"http://youtu.be/k370e5uSduI\">動画URL</a></p>\n<p class=\"eventNote\">備考: http://youtu.be/qoJ4XotwzWw</p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120728/20120728.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120728/20120728_1.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120728/20120728_2.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120728/20120728_3.jpg\"></p></div></div>",
         "billboard": {
@@ -262,6 +266,7 @@
     },
     {
         "id": "event-5",
+        "availability": "2015-05-23T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "「きょうの健康」公開収録",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 「きょうの健康」公開収録</p>\n<p class=\"eventDay\">20150523</p>\n<p class=\"eventLocation\">神埼市中央公民館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150523/20150523.jpg\"></p></div></div>",
         "billboard": {
@@ -326,6 +331,7 @@
     },
     {
         "id": "event-6",
+        "availability": "2015-05-08T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "「知って、肝炎」イベント",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 「知って、肝炎」イベント</p>\n<p class=\"eventDay\">20150508</p>\n<p class=\"eventLocation\">佐賀県庁</p>\n<p class=\"eventMovie\"><a href=\"https://www.youtube.com/watch?v=yfyrgytophk\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150508/20150508.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150508/20150508_1.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150508/20150508_2.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150508/20150508_3.jpg\"></p></div></div>",
         "billboard": {
@@ -390,6 +396,7 @@
     },
     {
         "id": "event-7",
+        "availability": "2014-07-19T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "「みんなのMAEMUKI駅伝」スタートセレモニー",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 「みんなのMAEMUKI駅伝」スタートセレモニー</p>\n<p class=\"eventDay\">20140719</p>\n<p class=\"eventLocation\">武雄市図書館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140719/20140719.jpg\"></p></div></div>",
         "billboard": {
@@ -454,6 +461,7 @@
     },
     {
         "id": "event-8",
+        "availability": "2015-02-08T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第40回さが農業まつり",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第40回さが農業まつり</p>\n<p class=\"eventDay\">20150208</p>\n<p class=\"eventLocation\">佐賀空港東特設会場</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150208/20150208.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150208/20150208_1.jpg\"></p></div></div>",
         "billboard": {
@@ -518,6 +526,7 @@
     },
     {
         "id": "event-9",
+        "availability": "2014-02-05T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第39回さが農業まつり",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第39回さが農業まつり</p>\n<p class=\"eventDay\">20140205</p>\n<p class=\"eventLocation\">佐賀空港東特設会場</p>\n<p class=\"eventMovie\"><a href=\"http://youtu.be/ufDaGsIzEMU\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -582,6 +591,7 @@
     },
     {
         "id": "event-10",
+        "availability": "2013-01-30T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第38回さが農業まつり",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第38回さが農業まつり</p>\n<p class=\"eventDay\">20130130</p>\n<p class=\"eventLocation\">佐賀空港東特設会場</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -646,6 +656,7 @@
     },
     {
         "id": "event-11",
+        "availability": "2015-01-24T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "NHKのど自慢",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHKのど自慢</p>\n<p class=\"eventDay\">20150124</p>\n<p class=\"eventLocation\">唐津市民会館</p>\n<p class=\"eventMovie\"><a href=\"http://www6.nhk.or.jp/nodojiman/list/backnumber.html?i=150125\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150124/20150124.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150124/20150124_1.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150124/20150124_2.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150124/20150124_3.jpg\"></p></div></div>",
         "billboard": {
@@ -710,6 +721,7 @@
     },
     {
         "id": "event-12",
+        "availability": "2013-09-28T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "NHKのど自慢",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHKのど自慢</p>\n<p class=\"eventDay\">20130928</p>\n<p class=\"eventLocation\">江北町ふれあい交流センター・ネイブル</p>\n<p class=\"eventMovie\"><a href=\"http://www6.nhk.or.jp/nodojiman/list/backnumber.html?i=130929\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130928/20130928.jpg\"></p></div></div>",
         "billboard": {
@@ -774,6 +786,7 @@
     },
     {
         "id": "event-13",
+        "availability": "2015-11-28T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "NHKのど自慢",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHKのど自慢</p>\n<p class=\"eventDay\">20151128</p>\n<p class=\"eventLocation\">鳥栖市民文化会館</p>\n<p class=\"eventMovie\"><a href=\"http://www6.nhk.or.jp/nodojiman/list/backnumber.html?i=151129\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20151128/20151128.jpg\"></p></div></div>",
         "billboard": {
@@ -838,6 +851,7 @@
     },
     {
         "id": "event-14",
+        "availability": "2015-08-17T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "NHK[きょうの健康]出演",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[きょうの健康]出演</p>\n<p class=\"eventDay\">20150817</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/kenkotoday/archives/2015/08/0817.html\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -902,6 +916,7 @@
     },
     {
         "id": "event-15",
+        "availability": "2015-08-18T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "NHK[きょうの健康]出演",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[きょうの健康]出演</p>\n<p class=\"eventDay\">20150818</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/kenkotoday/archives/2015/08/0818.html\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -966,6 +981,7 @@
     },
     {
         "id": "event-16",
+        "availability": "2015-08-19T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "NHK[きょうの健康]出演",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[きょうの健康]出演</p>\n<p class=\"eventDay\">20150819</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/kenkotoday/archives/2015/08/0819.html\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -1030,6 +1046,7 @@
     },
     {
         "id": "event-17",
+        "availability": "2015-08-20T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "NHK[きょうの健康]出演",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[きょうの健康]出演</p>\n<p class=\"eventDay\">20150820</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/kenkotoday/archives/2015/08/0820.html\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -1094,6 +1111,7 @@
     },
     {
         "id": "event-18",
+        "availability": "2014-10-25T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "NHK[チョイス！]出演",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[チョイス！]出演</p>\n<p class=\"eventDay\">20141025</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/choice/archives/2014/10/1025.html\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20141025/20141025.jpg\"></p></div></div>",
         "billboard": {
@@ -1158,6 +1176,7 @@
     },
     {
         "id": "event-19",
+        "availability": "2014-07-19T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "NHK[チョイス！]出演",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[チョイス！]出演</p>\n<p class=\"eventDay\">20140719</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/choice/archives/2014/07/0719.html\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140719/20140719.jpg\"></p></div></div>",
         "billboard": {
@@ -1222,6 +1241,7 @@
     },
     {
         "id": "event-20",
+        "availability": "2014-01-04T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "NHK[チョイス！]出演",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[チョイス！]出演</p>\n<p class=\"eventDay\">20140104</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/choice/archives/2014/01/0104.html\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -1286,6 +1306,7 @@
     },
     {
         "id": "event-21",
+        "availability": "2013-11-16T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "NHK[チョイス！]出演",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[チョイス！]出演</p>\n<p class=\"eventDay\">20131116</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/choice/archives/2013/11/1116.html\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20131116/20131116.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20131116/20131116_1.jpg\"></p></div></div>",
         "billboard": {
@@ -1350,6 +1371,7 @@
     },
     {
         "id": "event-22",
+        "availability": "2013-06-22T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "NHK[チョイス！]出演",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHK[チョイス！]出演</p>\n<p class=\"eventDay\">20130622</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nhk.or.jp/kenko/choice/archives/2013/06/0622.html\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130622/20130622.jpg\"></p></div></div>",
         "billboard": {
@@ -1414,6 +1436,7 @@
     },
     {
         "id": "event-23",
+        "availability": "2015-01-23T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "おはよう日本出演",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> おはよう日本出演</p>\n<p class=\"eventDay\">20150123</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"https://www.youtube.com/watch?v=bDORKzokr0A\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -1478,6 +1501,7 @@
     },
     {
         "id": "event-24",
+        "availability": "2014-10-18T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "2014NHK佐賀まつり",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 2014NHK佐賀まつり</p>\n<p class=\"eventDay\">20141018</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"http://youtu.be/Nsau9suE2Ns\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20141018/20141018.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20141018/20141018_1.jpg\"></p></div></div>",
         "billboard": {
@@ -1542,6 +1566,7 @@
     },
     {
         "id": "event-25",
+        "availability": "2013-10-26T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "2013NHK佐賀まつり",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 2013NHK佐賀まつり</p>\n<p class=\"eventDay\">20131026</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20131026/20131026.jpg\"></p></div></div>",
         "billboard": {
@@ -1606,6 +1631,7 @@
     },
     {
         "id": "event-26",
+        "availability": "2012-10-20T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "2012NHK佐賀まつり",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 2012NHK佐賀まつり</p>\n<p class=\"eventDay\">20121020</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20121020/20121020.jpg\"></p></div></div>",
         "billboard": {
@@ -1670,6 +1696,7 @@
     },
     {
         "id": "event-27",
+        "availability": "2015-02-13T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "歌王さが 決勝大会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 歌王さが 決勝大会</p>\n<p class=\"eventDay\">20150213</p>\n<p class=\"eventLocation\">佐賀市文化会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150213/20150213.jpg\"></p></div></div>",
         "billboard": {
@@ -1734,6 +1761,7 @@
     },
     {
         "id": "event-28",
+        "availability": "2014-03-07T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "歌王さが 決勝大会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 歌王さが 決勝大会</p>\n<p class=\"eventDay\">20140307</p>\n<p class=\"eventLocation\">佐賀市文化会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140307/20140307.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140307/20140307_1.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140307/20140307_2.jpg\"></p></div></div>",
         "billboard": {
@@ -1798,6 +1826,7 @@
     },
     {
         "id": "event-29",
+        "availability": "2014-01-26T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "歌王さが 有田伊万里予選会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 歌王さが 有田伊万里予選会</p>\n<p class=\"eventDay\">20140126</p>\n<p class=\"eventLocation\">炎の博覧会会場ホール</p>\n<p class=\"eventMovie\"><a href=\"https://www.youtube.com/watch?v=IRGNemd6xlU\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140126/20140126.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140126/20140126_1.jpg\"></p></div></div>",
         "billboard": {
@@ -1862,6 +1891,7 @@
     },
     {
         "id": "event-30",
+        "availability": "2014-01-18T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "歌王さが 佐賀地区予選会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 歌王さが 佐賀地区予選会</p>\n<p class=\"eventDay\">20140118</p>\n<p class=\"eventLocation\">東与賀文化ホール</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140118/20140118.jpg\"></p></div></div>",
         "billboard": {
@@ -1926,6 +1956,7 @@
     },
     {
         "id": "event-31",
+        "availability": "2014-01-13T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "歌王さが 唐津・玄海地区予選会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 歌王さが 唐津・玄海地区予選会</p>\n<p class=\"eventDay\">20140113</p>\n<p class=\"eventLocation\">唐津市文化体育館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140113/20140113.jpg\"></p></div></div>",
         "billboard": {
@@ -1990,6 +2021,7 @@
     },
     {
         "id": "event-32",
+        "availability": "2013-12-21T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "歌王さが 鳥栖・三養基地区予選会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 歌王さが 鳥栖・三養基地区予選会</p>\n<p class=\"eventDay\">20131221</p>\n<p class=\"eventLocation\">サンメッセ鳥栖</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -2054,6 +2086,7 @@
     },
     {
         "id": "event-33",
+        "availability": "2013-11-23T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "歌王さが 杵藤予選会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 歌王さが 杵藤予選会</p>\n<p class=\"eventDay\">20131123</p>\n<p class=\"eventLocation\">白石町総合センター</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20131123/20131123.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20131123/20131123_1.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20131123/20131123_2.jpg\"></p></div></div>",
         "billboard": {
@@ -2118,6 +2151,7 @@
     },
     {
         "id": "event-34",
+        "availability": "2014-05-02T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "[ストップ！肝がん]",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> [ストップ！肝がん]</p>\n<p class=\"eventDay\">20140502</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"https://youtu.be/GcIM05sCV_s\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140502/20140502.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140502/20140502_1.jpg\"></p></div></div>",
         "billboard": {
@@ -2182,6 +2216,7 @@
     },
     {
         "id": "event-35",
+        "availability": "2014-02-25T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "[ストップ！肝がん]",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> [ストップ！肝がん]</p>\n<p class=\"eventDay\">20140225</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140225/20140225.jpg\"></p></div></div>",
         "billboard": {
@@ -2246,6 +2281,7 @@
     },
     {
         "id": "event-36",
+        "availability": "2013-12-27T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "[ストップ！肝がん]",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> [ストップ！肝がん]</p>\n<p class=\"eventDay\">20131227</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20131227/20131227.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20131227/20131227_1.jpg\"></p></div></div>",
         "billboard": {
@@ -2310,6 +2346,7 @@
     },
     {
         "id": "event-37",
+        "availability": "2013-06-28T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "[ストップ！肝がん]",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> [ストップ！肝がん]</p>\n<p class=\"eventDay\">20130628</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130628/20130628.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130628/20130628_1.jpg\"></p></div></div>",
         "billboard": {
@@ -2374,6 +2411,7 @@
     },
     {
         "id": "event-38",
+        "availability": "2013-06-25T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "[ストップ！肝がん]",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> [ストップ！肝がん]</p>\n<p class=\"eventDay\">20130625</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130625/20130625.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130625/20130625_1.jpg\"></p></div></div>",
         "billboard": {
@@ -2438,6 +2476,7 @@
     },
     {
         "id": "event-39",
+        "availability": "2014-07-28T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "ひるまえ情報便",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ひるまえ情報便</p>\n<p class=\"eventDay\">20140728</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"https://youtu.be/OLRmJLA8FAY\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140728/20140728.jpg\"></p></div></div>",
         "billboard": {
@@ -2502,6 +2541,7 @@
     },
     {
         "id": "event-40",
+        "availability": "2014-06-30T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "ひるまえ情報便",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ひるまえ情報便</p>\n<p class=\"eventDay\">20140630</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140630/20140630.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140630/20140630_1.jpg\"></p></div></div>",
         "billboard": {
@@ -2566,6 +2606,7 @@
     },
     {
         "id": "event-41",
+        "availability": "2013-09-09T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "ひるまえ情報便",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ひるまえ情報便</p>\n<p class=\"eventDay\">20130909</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130909/20130909.jpg\"></p></div></div>",
         "billboard": {
@@ -2630,6 +2671,7 @@
     },
     {
         "id": "event-42",
+        "availability": "2013-09-30T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "ひるまえ情報便",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ひるまえ情報便</p>\n<p class=\"eventDay\">20130930</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -2694,6 +2736,7 @@
     },
     {
         "id": "event-43",
+        "availability": "2013-09-02T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "ひるまえ情報便",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ひるまえ情報便</p>\n<p class=\"eventDay\">20130902</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130902/20130902.jpg\"></p></div></div>",
         "billboard": {
@@ -2758,6 +2801,7 @@
     },
     {
         "id": "event-44",
+        "availability": "2012-07-09T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "ひるまえ情報便",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ひるまえ情報便</p>\n<p class=\"eventDay\">20120709</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -2822,6 +2866,7 @@
     },
     {
         "id": "event-45",
+        "availability": "2012-07-02T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "ひるまえ情報便",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ひるまえ情報便</p>\n<p class=\"eventDay\">20120702</p>\n<p class=\"eventLocation\">NHK佐賀放送局</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120702/20120702.jpg\"></p></div></div>",
         "billboard": {
@@ -2886,6 +2931,7 @@
     },
     {
         "id": "event-46",
+        "availability": "2015-02-21T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "NHKEテレ TVシンポジウム「C型肝炎とたたかう」",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> NHKEテレ TVシンポジウム「C型肝炎とたたかう」</p>\n<p class=\"eventDay\">20150221</p>\n<p class=\"eventLocation\">ベルサール秋葉原</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150221/20150221.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150221/20150221_1.jpg\"></p></div></div>",
         "billboard": {
@@ -2950,6 +2996,7 @@
     },
     {
         "id": "event-47",
+        "availability": "2014-03-29T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "2014STSまつり",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 2014STSまつり</p>\n<p class=\"eventDay\">20140329</p>\n<p class=\"eventLocation\">サガテレビ</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -3014,6 +3061,7 @@
     },
     {
         "id": "event-48",
+        "availability": "2012-04-05T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "健康バンバン",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 健康バンバン</p>\n<p class=\"eventDay\">20120405</p>\n<p class=\"eventLocation\">サガテレビ</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120405/20120405.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120405/20120405_1.jpg\"></p></div></div>",
         "billboard": {
@@ -3078,6 +3126,7 @@
     },
     {
         "id": "event-49",
+        "availability": "2014-03-09T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "女性フェスタ in 有田",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 女性フェスタ in 有田</p>\n<p class=\"eventDay\">20140309</p>\n<p class=\"eventLocation\">有田炎の博記念堂</p>\n<p class=\"eventMovie\"><a href=\"https://youtu.be/FW9b49lWhT4\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140309/20140309.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140309/20140309_1.jpg\"></p></div></div>",
         "billboard": {
@@ -3142,6 +3191,7 @@
     },
     {
         "id": "event-50",
+        "availability": "2013-05-19T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第5回県境フェスティバル",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第5回県境フェスティバル</p>\n<p class=\"eventDay\">20130519</p>\n<p class=\"eventLocation\">久留米西部防災公園</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130519/20130519.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130519/20130519_1.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130519/20130519_2.jpg\"></p></div></div>",
         "billboard": {
@@ -3206,6 +3256,7 @@
     },
     {
         "id": "event-51",
+        "availability": "2013-03-30T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "かしま発酵まつり",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> かしま発酵まつり</p>\n<p class=\"eventDay\">20130330</p>\n<p class=\"eventLocation\">矢野酒造</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130330/20130330.jpg\"></p></div></div>",
         "billboard": {
@@ -3270,6 +3321,7 @@
     },
     {
         "id": "event-52",
+        "availability": "2012-11-11T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第32回牛津産業祭り",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第32回牛津産業祭り</p>\n<p class=\"eventDay\">20121111</p>\n<p class=\"eventLocation\">牛津</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20121111/20121111.jpg\"></p></div></div>",
         "billboard": {
@@ -3334,6 +3386,7 @@
     },
     {
         "id": "event-53",
+        "availability": "2012-10-27T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第29回 三瀬村田舎と都市のふれあい祭り",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第29回 三瀬村田舎と都市のふれあい祭り</p>\n<p class=\"eventDay\">20121027</p>\n<p class=\"eventLocation\">三瀬小学校</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -3398,6 +3451,7 @@
     },
     {
         "id": "event-54",
+        "availability": "2012-07-11T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "肝炎講義",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 肝炎講義</p>\n<p class=\"eventDay\">20120711</p>\n<p class=\"eventLocation\">成穎中学校</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120711/20120711.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120711/20120711_1.jpg\"></p></div></div>",
         "billboard": {
@@ -3462,6 +3516,7 @@
     },
     {
         "id": "event-55",
+        "availability": "2012-04-21T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "サガン鳥栖キックオフカウントダウン",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> サガン鳥栖キックオフカウントダウン</p>\n<p class=\"eventDay\">20120421</p>\n<p class=\"eventLocation\">佐賀県総合運動場</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120421/20120421.jpg\"></p></div></div>",
         "billboard": {
@@ -3526,6 +3581,7 @@
     },
     {
         "id": "event-56",
+        "availability": "2012-03-17T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "九州新幹線開業1周年イベント",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 九州新幹線開業1周年イベント</p>\n<p class=\"eventDay\">20120317</p>\n<p class=\"eventLocation\">ベストアメニティスタジアム</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120317/20120317.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120317/20120317_1.jpg\"></p></div></div>",
         "billboard": {
@@ -3590,6 +3646,7 @@
     },
     {
         "id": "event-57",
+        "availability": "2015-01-28T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "肝炎治療講話",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 肝炎治療講話</p>\n<p class=\"eventDay\">20150128</p>\n<p class=\"eventLocation\">多久公民館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150128/20150128.jpg\"></p></div></div>",
         "billboard": {
@@ -3654,6 +3711,7 @@
     },
     {
         "id": "event-58",
+        "availability": "2015-01-11T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "「医学のあけぼのから先端医療まで」展",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 「医学のあけぼのから先端医療まで」展</p>\n<p class=\"eventDay\">20150111</p>\n<p class=\"eventLocation\">佐賀大学美術館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150111/20150111.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150111/20150111_1.jpg\"></p></div></div>",
         "billboard": {
@@ -3718,6 +3776,7 @@
     },
     {
         "id": "event-59",
+        "availability": "2013-03-08T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "小川島市民講演",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 小川島市民講演</p>\n<p class=\"eventDay\">20130308</p>\n<p class=\"eventLocation\">小川島老人いこいの家</p>\n<p class=\"eventMovie\"><a href=\"https://youtu.be/geSUquweC-w\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130308/20130308.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130308/20130308_1.jpg\"></p></div></div>",
         "billboard": {
@@ -3782,6 +3841,7 @@
     },
     {
         "id": "event-60",
+        "availability": "2013-03-07T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "肝炎と糖尿病啓発講座",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 肝炎と糖尿病啓発講座</p>\n<p class=\"eventDay\">20130307</p>\n<p class=\"eventLocation\">唐津玄海漁業協同組合</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130307/20130307.jpg\"></p></div></div>",
         "billboard": {
@@ -3846,6 +3906,7 @@
     },
     {
         "id": "event-61",
+        "availability": "2013-03-06T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "加唐島市民講演",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 加唐島市民講演</p>\n<p class=\"eventDay\">20130306</p>\n<p class=\"eventLocation\">加唐島診療所</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130306/20130306.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130306/20130306_1.jpg\"></p></div></div>",
         "billboard": {
@@ -3910,6 +3971,7 @@
     },
     {
         "id": "event-62",
+        "availability": "2013-03-01T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "馬渡島市民講演",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 馬渡島市民講演</p>\n<p class=\"eventDay\">20130301</p>\n<p class=\"eventLocation\">馬渡島診療所</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130301/20130301.jpg\"></p></div></div>",
         "billboard": {
@@ -3974,6 +4036,7 @@
     },
     {
         "id": "event-64",
+        "availability": "2013-01-09T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "高島市民講演",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 高島市民講演</p>\n<p class=\"eventDay\">20130109</p>\n<p class=\"eventLocation\">高島診療所</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -4038,6 +4101,7 @@
     },
     {
         "id": "event-65",
+        "availability": "2012-11-27T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "神集島市民講演",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 神集島市民講演</p>\n<p class=\"eventDay\">20121127</p>\n<p class=\"eventLocation\">神集島診療所</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20121127/20121127.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20121127/20121127_1.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20121127/20121127_2.jpg\"></p></div></div>",
         "billboard": {
@@ -4102,6 +4166,7 @@
     },
     {
         "id": "event-66",
+        "availability": "2015-03-19T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "平成26年度肝炎専門医療従事者研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成26年度肝炎専門医療従事者研修会</p>\n<p class=\"eventDay\">20150319</p>\n<p class=\"eventLocation\">アバンセ</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150319/20150319.jpg\"></p></div></div>",
         "billboard": {
@@ -4166,6 +4231,7 @@
     },
     {
         "id": "event-67",
+        "availability": "2014-03-26T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "平成25年度肝炎専門医療従事者研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成25年度肝炎専門医療従事者研修会</p>\n<p class=\"eventDay\">20140326</p>\n<p class=\"eventLocation\">アバンセ</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -4230,6 +4296,7 @@
     },
     {
         "id": "event-68",
+        "availability": "2013-03-27T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "平成24年度肝炎専門医療従事者研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成24年度肝炎専門医療従事者研修会</p>\n<p class=\"eventDay\">20130327</p>\n<p class=\"eventLocation\">アバンセ</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130327/20130327.jpg\"></p></div></div>",
         "billboard": {
@@ -4294,6 +4361,7 @@
     },
     {
         "id": "event-69",
+        "availability": "2014-09-23T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第14回県民公開講座",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第14回県民公開講座</p>\n<p class=\"eventDay\">20140923</p>\n<p class=\"eventLocation\">アバンセ</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140923/20140923.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140923/20140923_1.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140923/20140923_2.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140923/20140923_3.jpg\"></p></div></div>",
         "billboard": {
@@ -4358,6 +4426,7 @@
     },
     {
         "id": "event-70",
+        "availability": "2013-06-30T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第13回県民公開講座",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第13回県民公開講座</p>\n<p class=\"eventDay\">20130630</p>\n<p class=\"eventLocation\">アバンセ</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130630/20130630.jpg\"></p></div></div>",
         "billboard": {
@@ -4422,6 +4491,7 @@
     },
     {
         "id": "event-71",
+        "availability": "2012-07-29T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第12回県民公開講座",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第12回県民公開講座</p>\n<p class=\"eventDay\">20120729</p>\n<p class=\"eventLocation\">アバンセ</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120729/20120729.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120729/20120729_1.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120729/20120729_2.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120729/20120729_3.jpg\"></p></div></div>",
         "billboard": {
@@ -4486,6 +4556,7 @@
     },
     {
         "id": "event-72",
+        "availability": "2012-03-31T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "講話「治せる肝炎、防げる肝がん」",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 講話「治せる肝炎、防げる肝がん」</p>\n<p class=\"eventDay\">20120331</p>\n<p class=\"eventLocation\">アバンセ</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120331/20120331.jpg\"></p></div></div>",
         "billboard": {
@@ -4550,6 +4621,7 @@
     },
     {
         "id": "event-73",
+        "availability": "2013-08-04T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "鳥栖三養基市民公開講座",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 鳥栖三養基市民公開講座</p>\n<p class=\"eventDay\">20130804</p>\n<p class=\"eventLocation\">鳥栖市民文化会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -4614,6 +4686,7 @@
     },
     {
         "id": "event-74",
+        "availability": "2014-02-23T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第5回肝炎佐賀の会 講演会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第5回肝炎佐賀の会 講演会</p>\n<p class=\"eventDay\">20140223</p>\n<p class=\"eventLocation\">鳥栖市民文化会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140223/20140223.jpg\"></p></div></div>",
         "billboard": {
@@ -4678,6 +4751,7 @@
     },
     {
         "id": "event-75",
+        "availability": "2014-09-30T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "健康フォーラム2014 in 松梅",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 健康フォーラム2014 in 松梅</p>\n<p class=\"eventDay\">20140930</p>\n<p class=\"eventLocation\">松梅小学校</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140930/20140930.jpg\"></p></div></div>",
         "billboard": {
@@ -4742,6 +4816,7 @@
     },
     {
         "id": "event-76",
+        "availability": "2013-09-08T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "肝臓フォーラム in 松梅",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 肝臓フォーラム in 松梅</p>\n<p class=\"eventDay\">20130908</p>\n<p class=\"eventLocation\">松梅小学校</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130908/20130908.jpg\"></p></div></div>",
         "billboard": {
@@ -4806,6 +4881,7 @@
     },
     {
         "id": "event-77",
+        "availability": "2013-09-14T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "佐賀大学附属小学校 授業",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 佐賀大学附属小学校 授業</p>\n<p class=\"eventDay\">20130914</p>\n<p class=\"eventLocation\">佐賀大学文化教育学部附属小学校</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -4870,6 +4946,7 @@
     },
     {
         "id": "event-78",
+        "availability": "2013-09-28T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "柳川市民公開講座",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 柳川市民公開講座</p>\n<p class=\"eventDay\">20130928</p>\n<p class=\"eventLocation\">長田病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130928/20130928.jpg\"></p></div></div>",
         "billboard": {
@@ -4934,6 +5011,7 @@
     },
     {
         "id": "event-79",
+        "availability": "2012-07-07T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "柳川市民公開講座",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 柳川市民公開講座</p>\n<p class=\"eventDay\">20120707</p>\n<p class=\"eventLocation\">長田病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120707/20120707.jpg\"></p></div></div>",
         "billboard": {
@@ -4998,6 +5076,7 @@
     },
     {
         "id": "event-80",
+        "availability": "2014-09-03T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "平成26年度肝炎コーディネーター・フォローアップ研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成26年度肝炎コーディネーター・フォローアップ研修会</p>\n<p class=\"eventDay\">20140903</p>\n<p class=\"eventLocation\">武雄市文化会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -5062,6 +5141,7 @@
     },
     {
         "id": "event-81",
+        "availability": "2014-08-22T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "平成26年度肝炎コーディネーター・フォローアップ研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成26年度肝炎コーディネーター・フォローアップ研修会</p>\n<p class=\"eventDay\">20140822</p>\n<p class=\"eventLocation\">佐賀市民会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -5126,6 +5206,7 @@
     },
     {
         "id": "event-82",
+        "availability": "2013-10-20T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "平成25年度肝炎コーディネーター・フォローアップ研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成25年度肝炎コーディネーター・フォローアップ研修会</p>\n<p class=\"eventDay\">20131020</p>\n<p class=\"eventLocation\">メートプラザ佐賀</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -5190,6 +5271,7 @@
     },
     {
         "id": "event-83",
+        "availability": "2012-10-29T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "平成24年度肝炎コーディネーター・フォローアップ研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成24年度肝炎コーディネーター・フォローアップ研修会</p>\n<p class=\"eventDay\">20121029</p>\n<p class=\"eventLocation\">武雄市文化会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -5254,6 +5336,7 @@
     },
     {
         "id": "event-84",
+        "availability": "2012-10-31T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "平成24年度肝炎コーディネーター・フォローアップ研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成24年度肝炎コーディネーター・フォローアップ研修会</p>\n<p class=\"eventDay\">20121031</p>\n<p class=\"eventLocation\">アバンセ</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20121031/20121031.jpg\"></p></div></div>",
         "billboard": {
@@ -5318,6 +5401,7 @@
     },
     {
         "id": "event-85",
+        "availability": "2012-03-29T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第１回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20120329</p>\n<p class=\"eventLocation\">好生館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ３０名</p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120329/20120329.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120329/20120329_1.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120329/20120329_2.jpg\"></p></div></div>",
         "billboard": {
@@ -5382,6 +5466,7 @@
     },
     {
         "id": "event-86",
+        "availability": "2012-04-19T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第２回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20120419</p>\n<p class=\"eventLocation\">伊万里有田共立病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: １６名</p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120419/20120419.jpg\"></p></div></div>",
         "billboard": {
@@ -5446,6 +5531,7 @@
     },
     {
         "id": "event-87",
+        "availability": "2012-05-28T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第３回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第３回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20120528</p>\n<p class=\"eventLocation\">佐賀病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ３４名</p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120528/20120528.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120528/20120528_1.jpg\"></p></div></div>",
         "billboard": {
@@ -5510,6 +5596,7 @@
     },
     {
         "id": "event-88",
+        "availability": "2012-06-26T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第４回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第４回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20120626</p>\n<p class=\"eventLocation\">済生会唐津病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: １６名</p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120626/20120626.jpg\"></p></div></div>",
         "billboard": {
@@ -5574,6 +5661,7 @@
     },
     {
         "id": "event-89",
+        "availability": "2012-07-24T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第５回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第５回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20120724</p>\n<p class=\"eventLocation\">佐賀中部病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ４７名</p>\n",
         "billboard": {
@@ -5638,6 +5726,7 @@
     },
     {
         "id": "event-90",
+        "availability": "2012-08-29T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第６回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第６回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20120829</p>\n<p class=\"eventLocation\">ビアントス</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: １４名＋久留米大疾患連携室２名</p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120829/20120829.jpg\"></p></div></div>",
         "billboard": {
@@ -5702,6 +5791,7 @@
     },
     {
         "id": "event-91",
+        "availability": "2012-09-28T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第７回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第７回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20120928</p>\n<p class=\"eventLocation\">唐津赤十字病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: １７名</p>\n",
         "billboard": {
@@ -5766,6 +5856,7 @@
     },
     {
         "id": "event-92",
+        "availability": "2012-10-31T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第８回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第８回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20121031</p>\n<p class=\"eventLocation\">嬉野医療センター</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ２９名</p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20121031/20121031.jpg\"></p></div></div>",
         "billboard": {
@@ -5830,6 +5921,7 @@
     },
     {
         "id": "event-93",
+        "availability": "2012-11-14T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第９回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第９回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20121114</p>\n<p class=\"eventLocation\">好生館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ３１名</p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20121114/20121114.jpg\"></p></div></div>",
         "billboard": {
@@ -5894,6 +5986,7 @@
     },
     {
         "id": "event-94",
+        "availability": "2012-12-11T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第１０回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１０回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20121211</p>\n<p class=\"eventLocation\">伊万里有田共立病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ５９名</p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20121211/20121211.jpg\"></p></div></div>",
         "billboard": {
@@ -5958,6 +6051,7 @@
     },
     {
         "id": "event-95",
+        "availability": "2013-01-17T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第１１回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１１回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130117</p>\n<p class=\"eventLocation\">佐賀病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ３７名</p>\n",
         "billboard": {
@@ -6022,6 +6116,7 @@
     },
     {
         "id": "event-96",
+        "availability": "2013-02-03T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第１２回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１２回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130203</p>\n<p class=\"eventLocation\">マリターレ創世</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: １７名</p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130203/20130203.jpg\"></p></div></div>",
         "billboard": {
@@ -6086,6 +6181,7 @@
     },
     {
         "id": "event-97",
+        "availability": "2013-03-14T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第１３回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１３回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130314</p>\n<p class=\"eventLocation\">済生会唐津病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ４２名</p>\n",
         "billboard": {
@@ -6150,6 +6246,7 @@
     },
     {
         "id": "event-98",
+        "availability": "2013-04-15T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第１４回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１４回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130415</p>\n<p class=\"eventLocation\">佐賀中部病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: １０３名</p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130415/20130415.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130415/20130415_1.jpg\"></p></div></div>",
         "billboard": {
@@ -6214,6 +6311,7 @@
     },
     {
         "id": "event-99",
+        "availability": "2013-05-24T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第１５回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１５回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130524</p>\n<p class=\"eventLocation\">嬉野医療センター</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ７５名</p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130524/20130524.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130524/20130524_1.jpg\"></p></div></div>",
         "billboard": {
@@ -6278,6 +6376,7 @@
     },
     {
         "id": "event-100",
+        "availability": "2013-06-03T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第１６回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１６回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130603</p>\n<p class=\"eventLocation\">唐津赤十字病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ５６名</p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130603/20130603.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130603/20130603_1.jpg\"></p></div></div>",
         "billboard": {
@@ -6342,6 +6441,7 @@
     },
     {
         "id": "event-101",
+        "availability": "2013-07-24T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第１７回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１７回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130724</p>\n<p class=\"eventLocation\">好生館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ７４名</p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130724/20130724.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130724/20130724_1.jpg\"></p></div></div>",
         "billboard": {
@@ -6406,6 +6506,7 @@
     },
     {
         "id": "event-102",
+        "availability": "2013-08-09T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第１８回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１８回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130809</p>\n<p class=\"eventLocation\">サンメッセ鳥栖</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ５７名</p>\n",
         "billboard": {
@@ -6470,6 +6571,7 @@
     },
     {
         "id": "event-103",
+        "availability": "2013-09-13T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第１９回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第１９回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20130913</p>\n<p class=\"eventLocation\">伊万里有田共立病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ２６名</p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130913/20130913.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130913/20130913_1.jpg\"></p></div></div>",
         "billboard": {
@@ -6534,6 +6636,7 @@
     },
     {
         "id": "event-104",
+        "availability": "2013-10-25T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第２０回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２０回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20131025</p>\n<p class=\"eventLocation\">アバンセ</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ５６名</p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20131025/20131025.jpg\"></p></div></div>",
         "billboard": {
@@ -6598,6 +6701,7 @@
     },
     {
         "id": "event-105",
+        "availability": "2013-11-28T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第２１回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２１回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20131128</p>\n<p class=\"eventLocation\">済生会唐津病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ３５名</p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20131128/20131128.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20131128/20131128_1.jpg\"></p></div></div>",
         "billboard": {
@@ -6662,6 +6766,7 @@
     },
     {
         "id": "event-106",
+        "availability": "2013-12-16T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第２２回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２２回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20131216</p>\n<p class=\"eventLocation\">佐賀中部病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ５６名</p>\n",
         "billboard": {
@@ -6726,6 +6831,7 @@
     },
     {
         "id": "event-107",
+        "availability": "2014-01-09T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第２３回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２３回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20140109</p>\n<p class=\"eventLocation\">嬉野医療センター</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ２８名</p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140109/20140109.jpg\"></p></div></div>",
         "billboard": {
@@ -6790,6 +6896,7 @@
     },
     {
         "id": "event-108",
+        "availability": "2014-02-10T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第２４回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２４回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20140210</p>\n<p class=\"eventLocation\">唐津赤十字病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ３０名</p>\n",
         "billboard": {
@@ -6854,6 +6961,7 @@
     },
     {
         "id": "event-109",
+        "availability": "2014-12-04T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第２５回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２５回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20141204</p>\n<p class=\"eventLocation\">唐津市民会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ２８名</p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20141204/20141204.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20141204/20141204_1.jpg\"></p></div></div>",
         "billboard": {
@@ -6918,6 +7026,7 @@
     },
     {
         "id": "event-110",
+        "availability": "2014-12-18T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第２６回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２６回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20141218</p>\n<p class=\"eventLocation\">鳥栖市民文化会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: １１名</p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20141218/20141218.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20141218/20141218_1.jpg\"></p></div></div>",
         "billboard": {
@@ -6982,6 +7091,7 @@
     },
     {
         "id": "event-111",
+        "availability": "2015-01-14T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第２７回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２７回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20150114</p>\n<p class=\"eventLocation\">有田町生涯学習センター</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ２７名</p>\n",
         "billboard": {
@@ -7046,6 +7156,7 @@
     },
     {
         "id": "event-112",
+        "availability": "2015-01-22T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第２８回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２８回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20150122</p>\n<p class=\"eventLocation\">武雄市文化会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ４８名</p>\n",
         "billboard": {
@@ -7110,6 +7221,7 @@
     },
     {
         "id": "event-113",
+        "availability": "2015-02-03T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第２９回さが肝疾患地域連携研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第２９回さが肝疾患地域連携研修会</p>\n<p class=\"eventDay\">20150203</p>\n<p class=\"eventLocation\">佐賀市文化会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: ８６名</p>\n",
         "billboard": {
@@ -7174,6 +7286,7 @@
     },
     {
         "id": "event-114",
+        "availability": "2012-02-01T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "肝疾患センター立ち上げ",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 肝疾患センター立ち上げ</p>\n<p class=\"eventDay\">20120201</p>\n<p class=\"eventLocation\">佐賀大学医学部附属病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120201/20120201.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120201/20120201_1.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120201/20120201_2.jpg\"></p></div></div>",
         "billboard": {
@@ -7238,6 +7351,7 @@
     },
     {
         "id": "event-115",
+        "availability": "2014-02-03T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "会議",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 会議</p>\n<p class=\"eventDay\">20140203</p>\n<p class=\"eventLocation\">佐賀県庁</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140203/20140203.jpg\"></p></div></div>",
         "billboard": {
@@ -7302,6 +7416,7 @@
     },
     {
         "id": "event-116",
+        "availability": "2012-07-27T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "啓発活動",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 啓発活動</p>\n<p class=\"eventDay\">20120727</p>\n<p class=\"eventLocation\">佐賀駅</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120727/20120727.jpg\"></p></div></div>",
         "billboard": {
@@ -7366,6 +7481,7 @@
     },
     {
         "id": "event-117",
+        "availability": "2014-07-28T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "ご当地キャラと学ぼう！肝臓と肝炎のこと！",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ご当地キャラと学ぼう！肝臓と肝炎のこと！</p>\n<p class=\"eventDay\">20140728</p>\n<p class=\"eventLocation\">アーバンドッグららぽーと豊洲</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140728/20140728.jpg\"></p></div></div>",
         "billboard": {
@@ -7430,6 +7546,7 @@
     },
     {
         "id": "event-118",
+        "availability": "2015-05-31T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "ろんだん佐賀",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> ろんだん佐賀</p>\n<p class=\"eventDay\">20150531</p>\n<p class=\"eventLocation\">佐賀新聞社</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150531/20150531.jpg\"></p></div></div>",
         "billboard": {
@@ -7494,6 +7611,7 @@
     },
     {
         "id": "event-119",
+        "availability": "2015-05-21T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "佐賀新聞記事",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 佐賀新聞記事</p>\n<p class=\"eventDay\">20150521</p>\n<p class=\"eventLocation\">佐賀新聞社</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -7558,6 +7676,7 @@
     },
     {
         "id": "event-120",
+        "availability": "2013-03-13T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "佐賀新聞記事",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 佐賀新聞記事</p>\n<p class=\"eventDay\">20130313</p>\n<p class=\"eventLocation\">佐賀新聞社</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130313/20130313.jpg\"></p></div></div>",
         "billboard": {
@@ -7622,6 +7741,7 @@
     },
     {
         "id": "event-121",
+        "availability": "2013-03-30T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "佐賀新聞記事",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 佐賀新聞記事</p>\n<p class=\"eventDay\">20130330</p>\n<p class=\"eventLocation\">佐賀新聞社</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130330/20130330.jpg\"></p></div></div>",
         "billboard": {
@@ -7686,6 +7806,7 @@
     },
     {
         "id": "event-122",
+        "availability": "2013-04-28T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "佐賀新聞記事",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 佐賀新聞記事</p>\n<p class=\"eventDay\">20130428</p>\n<p class=\"eventLocation\">佐賀新聞社</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130428/20130428.jpg\"></p></div></div>",
         "billboard": {
@@ -7750,6 +7871,7 @@
     },
     {
         "id": "event-123",
+        "availability": "2013-06-21T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "「桜の咲くころには」",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 「桜の咲くころには」</p>\n<p class=\"eventDay\">20130621</p>\n<p class=\"eventLocation\">江口病院</p>\n<p class=\"eventMovie\"><a href=\"https://www.youtube.com/watch?v=IexQx_7I-kY\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130621/20130621.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130621/20130621_1.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130621/20130621_2.jpg\"></p></div></div>",
         "billboard": {
@@ -7814,6 +7936,7 @@
     },
     {
         "id": "event-124",
+        "availability": "2013-08-31T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "農業方策祈願祭での講話",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 農業方策祈願祭での講話</p>\n<p class=\"eventDay\">20130831</p>\n<p class=\"eventLocation\">多久市両之原公民館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130831/20130831.jpg\"></p></div></div>",
         "billboard": {
@@ -7878,6 +8001,7 @@
     },
     {
         "id": "event-125",
+        "availability": "2013-08-30T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "「ストップ！肝がん」講話",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 「ストップ！肝がん」講話</p>\n<p class=\"eventDay\">20130830</p>\n<p class=\"eventLocation\">白石漁協</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130830/20130830.jpg\"></p></div></div>",
         "billboard": {
@@ -7942,6 +8066,7 @@
     },
     {
         "id": "event-126",
+        "availability": "2013-10-27T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "「ストップ！肝がん」トークイベント",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 「ストップ！肝がん」トークイベント</p>\n<p class=\"eventDay\">20131027</p>\n<p class=\"eventLocation\">佐賀城本丸歴史館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20131027/20131027.jpg\"></p></div></div>",
         "billboard": {
@@ -8006,6 +8131,7 @@
     },
     {
         "id": "event-127",
+        "availability": "2013-11-27T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "安全運転管理者法定講習会での講話",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 安全運転管理者法定講習会での講話</p>\n<p class=\"eventDay\">20131127</p>\n<p class=\"eventLocation\">佐賀県公安委員会</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20131127/20131127.jpg\"></p></div></div>",
         "billboard": {
@@ -8070,6 +8196,7 @@
     },
     {
         "id": "event-128",
+        "availability": "2013-12-21T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "[行かんばい肝]CM",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> [行かんばい肝]CM</p>\n<p class=\"eventDay\">20131221</p>\n<p class=\"eventLocation\">好生館</p>\n<p class=\"eventMovie\"><a href=\"https://www.youtube.com/watch?v=PV6ME24Roak\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -8134,6 +8261,7 @@
     },
     {
         "id": "event-129",
+        "availability": "2014-01-23T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "[行かんばい肝]CM",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> [行かんばい肝]CM</p>\n<p class=\"eventDay\">20140123</p>\n<p class=\"eventLocation\">白山商店街</p>\n<p class=\"eventMovie\"><a href=\"https://www.youtube.com/watch?v=PV6ME24Roak\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140123/20140123.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140123/20140123_1.jpg\"></p></div></div>",
         "billboard": {
@@ -8198,6 +8326,7 @@
     },
     {
         "id": "event-130",
+        "availability": "2012-08-29T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "唐津の離島の肝炎を考える会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 唐津の離島の肝炎を考える会</p>\n<p class=\"eventDay\">20120829</p>\n<p class=\"eventLocation\">唐津赤十字病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120829/20120829.jpg\"></p></div></div>",
         "billboard": {
@@ -8262,6 +8391,7 @@
     },
     {
         "id": "event-131",
+        "availability": "2015-03-03T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "医療ルネサンス",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 医療ルネサンス</p>\n<p class=\"eventDay\">20150303</p>\n<p class=\"eventLocation\">読売新聞</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150303/20150303.jpg\"></p></div></div>",
         "billboard": {
@@ -8326,6 +8456,7 @@
     },
     {
         "id": "event-132",
+        "availability": "2012-07-07T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "院内勉強会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 院内勉強会</p>\n<p class=\"eventDay\">20120707</p>\n<p class=\"eventLocation\">美川眼科</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120707/20120707.jpg\"></p></div></div>",
         "billboard": {
@@ -8390,6 +8521,7 @@
     },
     {
         "id": "event-133",
+        "availability": "2012-08-02T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第1回さがの医薬薬連携の会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第1回さがの医薬薬連携の会</p>\n<p class=\"eventDay\">20120802</p>\n<p class=\"eventLocation\">肝疾患センター</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120802/20120802.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120802/20120802_1.jpg\"></p></div></div>",
         "billboard": {
@@ -8454,6 +8586,7 @@
     },
     {
         "id": "event-134",
+        "availability": "2012-09-15T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第1回がんサロン",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第1回がんサロン</p>\n<p class=\"eventDay\">20120915</p>\n<p class=\"eventLocation\">武雄市文化会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120915/20120915.jpg\"></p></div></div>",
         "billboard": {
@@ -8518,6 +8651,7 @@
     },
     {
         "id": "event-135",
+        "availability": "2012-11-14T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "産業保健研究会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 産業保健研究会</p>\n<p class=\"eventDay\">20121114</p>\n<p class=\"eventLocation\">佐賀県産業保健協会</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20121114/20121114.jpg\"></p></div></div>",
         "billboard": {
@@ -8582,6 +8716,7 @@
     },
     {
         "id": "event-136",
+        "availability": "2013-01-19T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "CM撮影",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> CM撮影</p>\n<p class=\"eventDay\">20130119</p>\n<p class=\"eventLocation\">佐賀大学文化教育学部附属小学校</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130119/20130119.jpg\"></p></div></div>",
         "billboard": {
@@ -8646,6 +8781,7 @@
     },
     {
         "id": "event-137",
+        "availability": "2013-03-13T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "タクシー内啓発",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> タクシー内啓発</p>\n<p class=\"eventDay\">20130313</p>\n<p class=\"eventLocation\">佐賀タクシー</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130313/20130313.jpg\"></p></div></div>",
         "billboard": {
@@ -8710,6 +8846,7 @@
     },
     {
         "id": "event-138",
+        "availability": "2013-03-19T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "銀行内啓発",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 銀行内啓発</p>\n<p class=\"eventDay\">20130319</p>\n<p class=\"eventLocation\">佐賀共栄銀行木原支店</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130319/20130319.jpg\"></p></div></div>",
         "billboard": {
@@ -8774,6 +8911,7 @@
     },
     {
         "id": "event-139",
+        "availability": "2013-10-13T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "肝炎佐賀の会勉強会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 肝炎佐賀の会勉強会</p>\n<p class=\"eventDay\">20131013</p>\n<p class=\"eventLocation\">佐賀市立図書館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: http://www1.saga-s.co.jp/news/saga.0.2564654.article.html</p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20131013/20131013.jpg\"></p></div></div>",
         "billboard": {
@@ -8838,6 +8976,7 @@
     },
     {
         "id": "event-140",
+        "availability": "2014-04-19T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "香川肝炎相談支援センター 公開講座",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 香川肝炎相談支援センター 公開講座</p>\n<p class=\"eventDay\">20140419</p>\n<p class=\"eventLocation\">香川県立中央病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140419/20140419.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140419/20140419_1.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140419/20140419_2.jpg\"></p></div></div>",
         "billboard": {
@@ -8902,6 +9041,7 @@
     },
     {
         "id": "event-141",
+        "availability": "2014-05-10T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "溝上薬局 健康ゼミナール",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 溝上薬局 健康ゼミナール</p>\n<p class=\"eventDay\">20140510</p>\n<p class=\"eventLocation\">佐賀市文化会館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140510/20140510.jpg\"></p></div></div>",
         "billboard": {
@@ -8966,6 +9106,7 @@
     },
     {
         "id": "event-142",
+        "availability": "2014-11-01T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "歴史に学ぶ地域の先進医療",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 歴史に学ぶ地域の先進医療</p>\n<p class=\"eventDay\">20141101</p>\n<p class=\"eventLocation\">アバンセ</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20141101/20141101.jpg\"></p></div></div>",
         "billboard": {
@@ -9030,6 +9171,7 @@
     },
     {
         "id": "event-143",
+        "availability": "2015-03-12T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "福井県第20回肝疾患診療従事者研修会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 福井県第20回肝疾患診療従事者研修会</p>\n<p class=\"eventDay\">20150312</p>\n<p class=\"eventLocation\">福井商工会議所</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150312/20150312.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150312/20150312_1.jpg\"></p></div></div>",
         "billboard": {
@@ -9094,6 +9236,7 @@
     },
     {
         "id": "event-144",
+        "availability": "2015-05-16T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第64回日本医学検査学会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第64回日本医学検査学会</p>\n<p class=\"eventDay\">20150516</p>\n<p class=\"eventLocation\">福岡国際会議場</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150516/20150516.jpg\"></p></div></div>",
         "billboard": {
@@ -9158,6 +9301,7 @@
     },
     {
         "id": "event-145",
+        "availability": "2012-02-28T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "特任肝炎コーディネーター第1回ミーティング",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 特任肝炎コーディネーター第1回ミーティング</p>\n<p class=\"eventDay\">20120228</p>\n<p class=\"eventLocation\">肝疾患センター</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20120228/20120228.jpg\"></p></div></div>",
         "billboard": {
@@ -9222,6 +9366,7 @@
     },
     {
         "id": "event-146",
+        "availability": "2013-01-16T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "肝炎ケアチーム見学",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 肝炎ケアチーム見学</p>\n<p class=\"eventDay\">20130116</p>\n<p class=\"eventLocation\">長田病院</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130116/20130116.jpg\"></p></div></div>",
         "billboard": {
@@ -9286,6 +9431,7 @@
     },
     {
         "id": "event-147",
+        "availability": "2013-02-21T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "健康づくり座談会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 健康づくり座談会</p>\n<p class=\"eventDay\">20130221</p>\n<p class=\"eventLocation\">小城公民館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130221/20130221.jpg\"></p></div></div>",
         "billboard": {
@@ -9350,6 +9496,7 @@
     },
     {
         "id": "event-149",
+        "availability": "2013-04-21T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "佐賀新聞記事",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 佐賀新聞記事</p>\n<p class=\"eventDay\">20130421</p>\n<p class=\"eventLocation\">佐賀新聞社</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130421/20130421.jpg\"></p></div></div>",
         "billboard": {
@@ -9414,6 +9561,7 @@
     },
     {
         "id": "event-150",
+        "availability": "2013-05-12T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "佐賀新聞記事",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 佐賀新聞記事</p>\n<p class=\"eventDay\">20130512</p>\n<p class=\"eventLocation\">佐賀新聞社</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20130512/20130512.jpg\"></p></div></div>",
         "billboard": {
@@ -9478,6 +9626,7 @@
     },
     {
         "id": "event-151",
+        "availability": "2014-05-24T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "肝臓病市民公開講座",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 肝臓病市民公開講座</p>\n<p class=\"eventDay\">20140524</p>\n<p class=\"eventLocation\">武雄市北方公民館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20140524/20140524.jpg\"></p></div></div>",
         "billboard": {
@@ -9542,6 +9691,7 @@
     },
     {
         "id": "event-152",
+        "availability": "2015-06-27T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "第15回県民公開講座",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 第15回県民公開講座</p>\n<p class=\"eventDay\">20150627</p>\n<p class=\"eventLocation\">サンメッセ鳥栖</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150627/20150627.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150627/20150627_1.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150627/20150627_2.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150627/20150627_3.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150627/20150627_4.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150627/20150627_5.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150627/20150627_6.jpg\"></p></div></div>",
         "billboard": {
@@ -9606,6 +9756,7 @@
     },
     {
         "id": "event-153",
+        "availability": "2015-06-21T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "平成27年度佐賀地区サルビアの会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成27年度佐賀地区サルビアの会</p>\n<p class=\"eventDay\">20150621</p>\n<p class=\"eventLocation\">アバンセ</p>\n<p class=\"eventMovie\"><a href=\"https://youtu.be/fTHvbHV_iwA\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150621/20150621.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150621/20150621_1.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150621/20150621_2.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150621/20150621_3.jpg\"></p></div></div>",
         "billboard": {
@@ -9670,6 +9821,7 @@
     },
     {
         "id": "event-154",
+        "availability": "2015-07-05T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "平成27年度杵藤地区サルビアの会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成27年度杵藤地区サルビアの会</p>\n<p class=\"eventDay\">20150705</p>\n<p class=\"eventLocation\">市民交流プラザ「かたらい」</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150705/20150705.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150705/20150705_1.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150705/20150705_2.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150705/20150705_3.jpg\"></p></div></div>",
         "billboard": {
@@ -9734,6 +9886,7 @@
     },
     {
         "id": "event-155",
+        "availability": "2015-09-13T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "平成27年度鳥栖地区サルビアの会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成27年度鳥栖地区サルビアの会</p>\n<p class=\"eventDay\">20150913</p>\n<p class=\"eventLocation\">鳥栖まちづくり推進センター</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150913/20150913.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150913/20150913_1.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20150913/20150913_2.jpg\"></p></div></div>",
         "billboard": {
@@ -9798,6 +9951,7 @@
     },
     {
         "id": "event-156",
+        "availability": "2015-09-17T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "佐賀大学プレスリリース",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 佐賀大学プレスリリース</p>\n<p class=\"eventDay\">20150917</p>\n<p class=\"eventLocation\">佐賀大学</p>\n<p class=\"eventMovie\"><a href=\"http://www.saga-u.ac.jp/koho/press/201509174819\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -9862,6 +10016,7 @@
     },
     {
         "id": "event-157",
+        "availability": "2015-09-23T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "西日本新聞新聞記事",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 西日本新聞新聞記事</p>\n<p class=\"eventDay\">20150923</p>\n<p class=\"eventLocation\">西日本新聞社佐賀総局</p>\n<p class=\"eventMovie\"><a href=\"http://www.nishinippon.co.jp/nnp/saga/article/196768\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n",
         "billboard": {
@@ -9926,6 +10081,7 @@
     },
     {
         "id": "event-158",
+        "availability": "2015-10-03T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "感染研一般公開",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 感染研一般公開</p>\n<p class=\"eventDay\">20151003</p>\n<p class=\"eventLocation\">国立感染症研究所</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20151003/20151003.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20151003/20151003_1.jpg\"></p></div></div>",
         "billboard": {
@@ -9990,6 +10146,7 @@
     },
     {
         "id": "event-159",
+        "availability": "2015-12-12T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "平成27年度唐津地区サルビアの会",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 平成27年度唐津地区サルビアの会</p>\n<p class=\"eventDay\">20151212</p>\n<p class=\"eventLocation\">唐津市都市コミュニティーセンター</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20151212/20151212.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20151212/20151212_1.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20151212/20151212_2.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20151212/20151212_3.jpg\"></p></div></div>",
         "billboard": {
@@ -10054,6 +10211,7 @@
     },
     {
         "id": "event-160",
+        "availability": "2015-11-14T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "神埼市郡医師会市民公開講座",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 神埼市郡医師会市民公開講座</p>\n<p class=\"eventDay\">20151114</p>\n<p class=\"eventLocation\">神埼市中央公民館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20151114/20151114.jpg\"></p></div></div>",
         "billboard": {
@@ -10118,6 +10276,7 @@
     },
     {
         "id": "event-161",
+        "availability": "2015-10-17T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "日本消化器病学会九州支部 第86回市民公開講座",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 日本消化器病学会九州支部 第86回市民公開講座</p>\n<p class=\"eventDay\">20151017</p>\n<p class=\"eventLocation\">佐賀県立美術館</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20151017/20151017.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20151017/20151017_1.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20151017/20151017_2.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20151017/20151017_3.jpg\"></p><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20151017/20151017_4.jpg\"></p></div></div>",
         "billboard": {
@@ -10182,6 +10341,7 @@
     },
     {
         "id": "event-162",
+        "availability": "2015-10-22T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "「たたけ！肝炎ウイルス」プレスリリース",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 「たたけ！肝炎ウイルス」プレスリリース</p>\n<p class=\"eventDay\">20151022</p>\n<p class=\"eventLocation\">佐賀県庁</p>\n<p class=\"eventMovie\"><a href=\"https://www.pref.saga.lg.jp/web/kisha/_92102/_92605.html\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20151022/20151022.jpg\"></p></div></div>",
         "billboard": {
@@ -10246,6 +10406,7 @@
     },
     {
         "id": "event-163",
+        "availability": "2015-10-14T00:00:00+09:00/2016-01-01T00:00:00+09:00",
         "name": "戦略的健康経営が会社を変える！",
         "description": "<div class=\"eventBalloon\">\n<p class=\"eventName\"> 戦略的健康経営が会社を変える！</p>\n<p class=\"eventDay\">20151014</p>\n<p class=\"eventLocation\">ドーンセンター</p>\n<p class=\"eventMovie\"><a href=\"\">動画URL</a></p>\n<p class=\"eventNote\">備考: </p>\n<div class=\"balloonImage\"><p class=\"balloonImage\"><img class=\"balloonImage\" src=\"images/sagaPhoto/20151014/20151014.jpg\"></p></div></div>",
         "billboard": {

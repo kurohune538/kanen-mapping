@@ -48,6 +48,7 @@
 	<input id="range01" type="range" min="0" max="20" value="20" step="1" oninput="transParent();" />
 </div>
 <div id="blackOut"><img class="loading" src="data/loading.gif"></div>
+<div id="timeCounter"></div>
 <div id="cesiumContainer"></div>
 <!--
 <div id="button" class="general-button">
@@ -106,10 +107,15 @@ var shareButton = document.getElementById("sB");
 var streetViewWrapper = document.getElementById("streetView_wrapper");
 var svNotAvailable = document.getElementById("svNotAvailable");
 
-//SVエラーメッセージレイヤを隠す
+//SVエラーメッセージレイヤを隠す＋ボタン位置調整
 
 $(function() {
 	$(svNotAvailable).hide();
+});
+
+$(function() {
+	$('#buttonGeo').css('bottom','44px');
+	$('.sharebutton').css('bottom','12px');
 });
 
 //視点配列作成関数
@@ -199,7 +205,6 @@ var viewer = new Cesium.Viewer('cesiumContainer',{
 	
 	navigationHelpButton : false,
 	geocoder:false,
-	timeline: false,
 	animation: false,
 	sceneModePicker:false,
 	scene3DOnly : true,
@@ -226,7 +231,6 @@ viewer.camera.setView({
 	position : Cesium.Cartesian3.fromDegrees(132.45470999999998,34.394915,20000000),
 	roll : 0.0
 });
-
 
 //Z軸束縛
 
@@ -286,10 +290,14 @@ function loadCzml(){
 			osm.alpha = 1.0;
 			osm.brightness = 0.50;
 			osm.saturation = 0.1;
-setClickEvent();
-setTimeout('fadeInOut(blackOutDiv,0)',3000);
-}
-}, 200);
+			setClickEvent();
+			viewer.clock.onTick.addEventListener(function(clock){
+				var nowTime = viewer.clock.currentTime;
+				checkTime();
+			});
+			setTimeout('fadeInOut(blackOutDiv,0)',3000);
+		}
+	}, 200);
 }
 
 /*
@@ -339,7 +347,6 @@ function setClickEvent(){
 			var sv = new google.maps.StreetViewService();
 			sv.getPanoramaByLocation(latlng, 50, 
 				function (data, status) {
-					//ストリートビュー未対応エリアの場合
 					if (status != google.maps.StreetViewStatus.OK) {
 						svNotAvailable.innerHTML = '<p class="errorMessage">この場所のストリートビューは利用できません</p>';
 						fadeInOut(svNotAvailable,1);
@@ -380,6 +387,38 @@ function setClickEvent(){
 				});
 }
 }, Cesium.ScreenSpaceEventType.LEFT_DOUBLE_CLICK);
+checkTime();
+}
+
+//時間チェック
+
+function checkTime() {
+	viewer.clock.multiplier = 3000 * 60 * 60;
+	var now = viewer.clock.currentTime;
+	var nowJST = new Cesium.JulianDate;
+	Cesium.JulianDate.addHours(now, 9, nowJST);
+	var nowIso = Cesium.JulianDate.toIso8601(nowJST);
+	thisTime = '3.' + nowIso.substr(8,2) + '.' + nowIso.substr(11,2);
+
+	var nowDate = Cesium.JulianDate.toDate(now);
+	var y = nowDate.getFullYear();
+	var m = nowDate.getMonth() + 1;
+	var d = nowDate.getDate();
+	if (m < 10) {
+		m = '0' + m;
+	}
+	if (d < 10) {
+		d = '0' + d;
+	}
+	var displayTime = y + '年' + m + '月' + d + '日';
+	timeCounter(displayTime);
+}
+
+//カウンター表示
+
+function timeCounter(displayTime){
+	var timeCounter = document.getElementById("timeCounter");
+	timeCounter.innerHTML = '<p class="timeCounter">' + displayTime +'</p>';
 }
 
 //視点変更
