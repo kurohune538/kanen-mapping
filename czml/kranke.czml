@@ -5,7 +5,7 @@
         "version": "1.0"
     },
     {
-        "id": "kranke-001",
+        "id": "kranke-1",
         "name": "患者家族の思い",
         "description": "<p class=\"title\">患者家族の思い</p>\n<p class=\"category\">患者家族</p>\n<p class=\"youtube\"><iframe width=\"100%\" height=\"223\" src=\"https://www.youtube.com/embed/IqmwUqEVZDE?rel=0\" frameborder=\"0\" allowfullscreen></iframe></p>",
         "billboard": {
@@ -44,7 +44,7 @@
         }
     },
     {
-        "id": "kranke-002",
+        "id": "kranke-2",
         "name": "困ったことを、一言家族の人に言ってほしいです",
         "description": "<p class=\"title\">困ったことを、一言家族の人に言ってほしいです</p>\n<p class=\"category\">C型</p>\n<p class=\"care\">肝臓がん治療歴なし</p>\n<p class=\"status\">肝炎未治療</p>\n<p class=\"youtube\"><iframe width=\"100%\" height=\"223\" src=\"https://www.youtube.com/embed/dnX2O59D5UM?rel=0\" frameborder=\"0\" allowfullscreen></iframe></p>",
         "billboard": {
@@ -83,7 +83,7 @@
         }
     },
     {
-        "id": "kranke-003",
+        "id": "kranke-3",
         "name": "肝臓がんも治療しました",
         "description": "<p class=\"title\">肝臓がんも治療しました</p>\n<p class=\"category\">C型</p>\n<p class=\"care\">肝臓がん治療歴あり</p>\n<p class=\"status\">肝炎治療済み</p>\n<p class=\"youtube\"><iframe width=\"100%\" height=\"223\" src=\"https://www.youtube.com/embed/PofCjA1c-N8?rel=0\" frameborder=\"0\" allowfullscreen></iframe></p>",
         "billboard": {
@@ -122,7 +122,7 @@
         }
     },
     {
-        "id": "kranke-004",
+        "id": "kranke-4",
         "name": "肝炎コーディネーターに支えてもらいました",
         "description": "<p class=\"title\">肝炎コーディネーターに支えてもらいました</p>\n<p class=\"category\">C型</p>\n<p class=\"care\">肝臓がん治療歴なし</p>\n<p class=\"status\">肝炎治療済み</p>\n<p class=\"youtube\"><iframe width=\"100%\" height=\"223\" src=\"https://www.youtube.com/embed/aBfqZ8CY5E0?rel=0\" frameborder=\"0\" allowfullscreen></iframe></p>",
         "billboard": {
@@ -161,7 +161,7 @@
         }
     },
     {
-        "id": "kranke-005",
+        "id": "kranke-5",
         "name": "診断された当初は「困ったな」と思っていませんでした",
         "description": "<p class=\"title\">診断された当初は「困ったな」と思っていませんでした</p>\n<p class=\"category\">C型</p>\n<p class=\"care\">肝臓がん治療歴なし</p>\n<p class=\"status\">肝炎治療済み</p>\n<p class=\"youtube\"><iframe width=\"100%\" height=\"223\" src=\"https://www.youtube.com/embed/psxp8zuAE4o?rel=0\" frameborder=\"0\" allowfullscreen></iframe></p>",
         "billboard": {
@@ -200,7 +200,7 @@
         }
     },
     {
-        "id": "kranke-006",
+        "id": "kranke-6",
         "name": "最初は治療に否定的でした",
         "description": "<p class=\"title\">最初は治療に否定的でした</p>\n<p class=\"category\">C型</p>\n<p class=\"care\">肝臓がん治療歴なし</p>\n<p class=\"status\">肝炎治療済み</p>\n<p class=\"youtube\"><iframe width=\"100%\" height=\"223\" src=\"https://www.youtube.com/embed/ur2iGX_lTys?rel=0\" frameborder=\"0\" allowfullscreen></iframe></p>",
         "billboard": {
@@ -239,7 +239,7 @@
         }
     },
     {
-        "id": "kranke-007",
+        "id": "kranke-7",
         "name": "インターフェロン治療を4回し、治癒しました",
         "description": "<p class=\"title\">インターフェロン治療を4回し、治癒しました</p>\n<p class=\"category\">C型</p>\n<p class=\"care\">肝臓がん治療歴なし</p>\n<p class=\"status\">肝炎治療済み</p>\n<p class=\"youtube\"><iframe width=\"100%\" height=\"223\" src=\"https://www.youtube.com/embed/ZQtXcxFn_Sc?rel=0\" frameborder=\"0\" allowfullscreen></iframe></p>",
         "billboard": {
