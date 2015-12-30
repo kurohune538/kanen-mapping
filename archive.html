@@ -35,28 +35,24 @@
 </head>
 
 <body>
-	<div class="geocodeArchive">
+	<div class="geocode">
 		<form action="javascript:geocode()" class="textbox" />
 		<input id="inputtext" class="textbox" type="text" value="" placeholder="地名で検索" />
 	</form>
 </div>
 <div id="svNotAvailable" onclick="fadeInOut(svNotAvailable,0)"></div>
-<!--
 <div id="slide_menu"></div>
--->
 <div id="slider">
 	<input id="range01" type="range" min="0" max="20" value="20" step="1" oninput="transParent();" />
 </div>
 <div id="blackOut"><img class="loading" src="data/loading.gif"></div>
 <div id="timeCounter"></div>
 <div id="cesiumContainer"></div>
-<!--
 <div id="button" class="general-button">
 	<div class="button-content">
 		<span class="icon-font">menu</span>
 	</div>
 </div>
--->
 <div id="buttonGeo" class="general-button" onclick="flyToMyLocation();">
 	<div class="button-content">
 		<span class="icon-font">geo</span>
@@ -100,6 +96,7 @@
 	<button class="btn" onclick="fadeInOut(streetView_wrapper,0)">×</button>
 </div>
 <script>
+
 //各種DIVオブジェクトを取得
 
 var blackOutDiv = document.getElementById("blackOut");
@@ -111,9 +108,6 @@ var svNotAvailable = document.getElementById("svNotAvailable");
 
 $(function() {
 	$(svNotAvailable).hide();
-});
-
-$(function() {
 	$('#buttonGeo').css('bottom','44px');
 	$('.sharebutton').css('bottom','12px');
 });
@@ -166,8 +160,9 @@ kmlDataArray[0]=new kmlData("患者インタビュー",'kml/kranke.kml');
 var entities;
 var osm;
 var mobile = 0;
+var stopISO = '2016-02-28T00:00:00+09:00';
 
-/*
+
 //プルダウンメニュー作成
 
 var viewPointChangeMenu = document.getElementById('slide_menu');
@@ -177,9 +172,9 @@ for (var i=0; i<viewPointsArray.length; i++) {
 	dropDownList = dropDownList + '<li><a href="#" onclick = "changeViewPoint(' + i + ',' + '3.5);return false;">' + viewPointsArray[i].label + '</a></li>';
 }
 
-var viewPointChangeMenuHtml = '<ul class="viewpoint">' + dropDownList + '</ul>';
+var viewPointChangeMenuHtml = '<ul class="viewpoint">' + dropDownList + '<hr noshade/><a href="index.html">肝炎マッピング</a></li></ul>';
 viewPointChangeMenu.innerHTML = viewPointChangeMenuHtml;
-*/
+
 
 //デバイスのOS取得
 
@@ -236,13 +231,14 @@ viewer.camera.setView({
 
 viewer.camera.constrainedAxis = Cesium.Cartesian3.UNIT_Z;
 
-//スマホの場合はカメラの傾きを束縛
+//スマホの場合はカメラの傾きを束縛,シェアボタン非表示
 
 if (mobile == 1){
 	viewer.scene.screenSpaceCameraController.enableTilt = false;
 	fadeInOut(shareButton,0);
 } else {
 
+/*
 //スマホ以外の場合は地形を表示
 
 var cesiumTerrainProviderMeshes = new Cesium.CesiumTerrainProvider({
@@ -251,6 +247,7 @@ var cesiumTerrainProviderMeshes = new Cesium.CesiumTerrainProvider({
 	requestVertexNormals : false
 });
 //viewer.terrainProvider = cesiumTerrainProviderMeshes;
+*/
 }
 fadeInOut(blackOutDiv,0);
 
@@ -275,9 +272,26 @@ function landing(){
 function loadCzml(){
 	var i = 0;
 	var load = setInterval(function(){
-		var promise = Cesium.CzmlDataSource.load(czmlDataArray[i].url);
+		var czmlDataSource = new Cesium.CzmlDataSource();
+		var promise = czmlDataSource.load(czmlDataArray[i].url);
 		promise.then(function(dataSource) {
 			viewer.dataSources.add(dataSource);
+
+			var billboardsIds = czmlDataSource.entities.values[0]._id;
+			var billboardsIdsPrefix = billboardsIds.substr(0,billboardsIds.indexOf('-'));
+			var billboardsIdsLength = czmlDataSource.entities.values.length;
+
+			var i = 1;
+			while (i <= billboardsIdsLength + 2){
+				var id = billboardsIdsPrefix + '-' + i;				
+				var entity = czmlDataSource.entities.getById(id);
+				if (entity) {
+					var translucencyByDistance = new Cesium.NearFarScalar(2.0e3, 1.0, 3.0e4, 0.0);
+					entity.label.translucencyByDistance = translucencyByDistance;
+				}
+				i++;
+			}
+
 		}).otherwise(function(error){
 			alert('CZMLデータが読み込めません');
 		});
@@ -394,7 +408,14 @@ checkTime();
 
 function checkTime() {
 	viewer.clock.multiplier = 3000 * 60 * 60;
+
 	var now = viewer.clock.currentTime;
+	var stop = Cesium.JulianDate.fromIso8601(stopISO);
+	var nowAndCurrent = Cesium.JulianDate.compare(now, stop);
+	if (nowAndCurrent > 0){
+		viewer.clock.shouldAnimate = false;
+	}
+
 	var nowJST = new Cesium.JulianDate;
 	Cesium.JulianDate.addHours(now, 9, nowJST);
 	var nowIso = Cesium.JulianDate.toIso8601(nowJST);
@@ -445,6 +466,7 @@ function changeViewPoint(num, delay) {
 //ジオコーディング
 
 function geocode() {
+
 	var geocoder = new google.maps.Geocoder();
 	var input = document.getElementById('inputtext').value;
 	geocoder.geocode(
