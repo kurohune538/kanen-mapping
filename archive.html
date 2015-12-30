@@ -97,6 +97,11 @@
 </div>
 <script>
 
+// スワイプによるスクロールを禁止させる
+document.body.addEventListener('touchstart', function(event) {
+	event.preventDefault();
+});
+
 //各種DIVオブジェクトを取得
 
 var blackOutDiv = document.getElementById("blackOut");
@@ -304,8 +309,8 @@ function loadCzml(){
 			setClickEvent();
 			viewer.clock.onTick.addEventListener(function(clock){
 				var nowTime = viewer.clock.currentTime;
-				checkTime();
-			});
+//				checkTime();
+});
 			setTimeout('fadeInOut(blackOutDiv,0)',3000);
 		}
 	}, 200);
@@ -398,7 +403,7 @@ function setClickEvent(){
 				});
 }
 }, Cesium.ScreenSpaceEventType.LEFT_DOUBLE_CLICK);
-checkTime();
+setTimeout('checkTime()',1000);
 }
 
 //時間チェック
