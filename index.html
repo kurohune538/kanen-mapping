@@ -96,6 +96,7 @@
 
 //各種DIVオブジェクトを取得
 
+var cesiumDiv = document.getElementById("cesiumContainer");
 var blackOutDiv = document.getElementById("blackOut");
 var streetViewWrapper = document.getElementById("streetView_wrapper");
 var svNotAvailable = document.getElementById("svNotAvailable");
@@ -105,6 +106,12 @@ var shareButton = document.getElementById("sB");
 
 $(function() {
 	$(svNotAvailable).hide();
+});
+
+//スワイプによるスクロールを禁止
+
+cesiumDiv.addEventListener('touchstart', function(event) {
+	event.preventDefault();
 });
 
 //視点配列作成関数
