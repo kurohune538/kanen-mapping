@@ -99,6 +99,7 @@
 
 //各種DIVオブジェクトを取得
 
+var cesiumDiv = document.getElementById("cesiumContainer");
 var blackOutDiv = document.getElementById("blackOut");
 var streetViewWrapper = document.getElementById("streetView_wrapper");
 var svNotAvailable = document.getElementById("svNotAvailable");
@@ -108,6 +109,12 @@ var svNotAvailable = document.getElementById("svNotAvailable");
 $(function() {
 	$(svNotAvailable).hide();
 	$('#buttonGeo').css('bottom','44px');
+});
+
+//スワイプによるスクロールを禁止
+
+cesiumDiv.addEventListener('touchstart', function(event) {
+	event.preventDefault();
 });
 
 //視点配列作成関数
@@ -159,7 +166,6 @@ var entities;
 var osm;
 var mobile = 0;
 var stopISO = '2016-02-28T00:00:00+09:00';
-
 
 //プルダウンメニュー作成
 
@@ -229,13 +235,13 @@ viewer.camera.setView({
 
 viewer.camera.constrainedAxis = Cesium.Cartesian3.UNIT_Z;
 
-//スマホの場合はカメラの傾きを束縛,シェアボタン非表示
+/*
+//スマホの場合はカメラの傾きを束縛
 
 if (mobile == 1){
 	viewer.scene.screenSpaceCameraController.enableTilt = false;
 } else {
 
-/*
 //スマホ以外の場合は地形を表示
 
 var cesiumTerrainProviderMeshes = new Cesium.CesiumTerrainProvider({
@@ -244,8 +250,8 @@ var cesiumTerrainProviderMeshes = new Cesium.CesiumTerrainProvider({
 	requestVertexNormals : false
 });
 //viewer.terrainProvider = cesiumTerrainProviderMeshes;
-*/
 }
+*/
 fadeInOut(blackOutDiv,0);
 
 //視点移動シークエンス
@@ -283,8 +289,12 @@ function loadCzml(){
 				var id = billboardsIdsPrefix + '-' + i;				
 				var entity = czmlDataSource.entities.getById(id);
 				if (entity) {
-					var translucencyByDistance = new Cesium.NearFarScalar(2.0e3, 1.0, 5.0e4, 0.0);
-					entity.label.translucencyByDistance = translucencyByDistance;
+					if (mobile == 1){
+						entity.label.show = false;
+					} else {
+						var translucencyByDistance = new Cesium.NearFarScalar(2.0e3, 1.0, 5.0e4, 0.0);
+						entity.label.translucencyByDistance = translucencyByDistance;
+					}
 				}
 				i++;
 			}
@@ -305,7 +315,7 @@ function loadCzml(){
 			viewer.clock.onTick.addEventListener(function(clock){
 				var nowTime = viewer.clock.currentTime;
 				setTimeout('checkTime()',3000);
-});
+			});
 			setTimeout('fadeInOut(blackOutDiv,0)',3000);
 		}
 	}, 200);
