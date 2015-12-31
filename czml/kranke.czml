@@ -11,7 +11,7 @@
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "../images/kao_kranke/001.png",
-            "scale": 0.75,
+            "scale": 0.70,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -50,7 +50,7 @@
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "../images/kao_kranke/002.png",
-            "scale": 0.75,
+            "scale": 0.70,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -89,7 +89,7 @@
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "../images/kao_kranke/003.png",
-            "scale": 0.75,
+            "scale": 0.70,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -128,7 +128,7 @@
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "../images/kao_kranke/004.png",
-            "scale": 0.75,
+            "scale": 0.70,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -167,7 +167,7 @@
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "../images/kao_kranke/005.png",
-            "scale": 0.75,
+            "scale": 0.70,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -206,7 +206,7 @@
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "../images/kao_kranke/006.png",
-            "scale": 0.75,
+            "scale": 0.70,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
@@ -245,7 +245,7 @@
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "../images/kao_kranke/007.png",
-            "scale": 0.75,
+            "scale": 0.70,
             "show": "true",
             "verticalOrigin": "BOTTOM"
         },
