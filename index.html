@@ -94,6 +94,19 @@
 </div>
 <script>
 
+//デバイスのOS取得
+
+var getDevice = (function(){
+	var ua = navigator.userAgent;
+	if(ua.indexOf('iPhone') > 0 || ua.indexOf('iPod') > 0 || ua.indexOf('Android') > 0 && ua.indexOf('Mobile') > 0){
+		mobile = 1;
+	}else if(ua.indexOf('iPad') > 0 || ua.indexOf('Android') > 0){
+		mobile = 2;
+	}else{
+		mobile = 0;
+	}
+})();
+
 //各種DIVオブジェクトを取得
 
 var cesiumDiv = document.getElementById("cesiumContainer");
@@ -113,7 +126,7 @@ $(function() {
 var cesiumDiv = document.getElementById("cesiumContainer");
 
 function preventScroll(event) {
-  event.preventDefault();
+	event.preventDefault();
 }
 
 cesiumDiv.addEventListener("gesturestart", preventScroll, false);
@@ -137,7 +150,11 @@ viewPointsArray[1]=new viewPoints("小城市民病院",33.295993,130.196842,0,-8
 viewPointsArray[2]=new viewPoints("江口病院",33.260708,130.230819,0,-85,2500);
 viewPointsArray[3]=new viewPoints("佐賀県全域",33.251168,130.119531,0,-85,96062);
 viewPointsArray[4]=new viewPoints("日本全土",36.099338,133.689885,0,-85,2000000);
-viewPointsArray[5]=new viewPoints("初期位置",33.188542,130.127938,0,-37,53883);
+if (mobile == 1){
+	viewPointsArray[5]=new viewPoints("初期位置",33.188542,130.127938,0,-85,53883);	
+} else {
+	viewPointsArray[5]=new viewPoints("初期位置",33.188542,130.127938,0,-37,53883);
+}
 
 //CZML配列作成関数
 
@@ -170,19 +187,6 @@ for (var i=0; i<viewPointsArray.length; i++) {
 var viewPointChangeMenuHtml = '<ul class="viewpoint">' + dropDownList + '<hr noshade/><li><a href="archive.html">肝炎アーカイブ</a></li></ul>';
 viewPointChangeMenu.innerHTML = viewPointChangeMenuHtml;
 
-//デバイスのOS取得
-
-var getDevice = (function(){
-	var ua = navigator.userAgent;
-	if(ua.indexOf('iPhone') > 0 || ua.indexOf('iPod') > 0 || ua.indexOf('Android') > 0 && ua.indexOf('Mobile') > 0){
-		mobile = 1;
-	}else if(ua.indexOf('iPad') > 0 || ua.indexOf('Android') > 0){
-		mobile = 2;
-	}else{
-		mobile = 0;
-	}
-})();
-
 //viewer初期化
 
 var viewer = new Cesium.Viewer('cesiumContainer',{
@@ -213,7 +217,6 @@ viewer.camera.setView({
 	position : Cesium.Cartesian3.fromDegrees(132.45470999999998,34.394915,20000000),
 	roll : 0.0
 });
-
 
 //Z軸束縛
 
