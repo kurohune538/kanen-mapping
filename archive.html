@@ -111,13 +111,17 @@ $(function() {
 	$('#buttonGeo').css('bottom','44px');
 });
 
-/*
-//スワイプによるスクロールを禁止
+//スワイプによるスクロール禁止
 
-cesiumDiv.addEventListener('touchstart', function(event) {
-	event.preventDefault();
-});
-*/
+var cesiumDiv = document.getElementById("cesiumContainer");
+
+function preventScroll(event) {
+  event.preventDefault();
+}
+
+cesiumDiv.addEventListener("gesturestart", preventScroll, false);
+cesiumDiv.addEventListener("gesturechange", preventScroll, false);
+cesiumDiv.addEventListener("gestureend", preventScroll, false);
 
 //視点配列作成関数
 
