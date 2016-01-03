@@ -136,7 +136,7 @@ viewPointsArray[1]=new viewPoints("小城市民病院",33.295993,130.196842,0,-8
 viewPointsArray[2]=new viewPoints("江口病院",33.260708,130.230819,0,-85,2500);
 viewPointsArray[3]=new viewPoints("佐賀県全域",33.251168,130.119531,0,-85,96062);
 viewPointsArray[4]=new viewPoints("日本全土",36.099338,133.689885,0,-85,2000000);
-viewPointsArray[5]=new viewPoints("初期位置",33.269526,130.297029,0,-30,24000);
+viewPointsArray[5]=new viewPoints("初期位置",33.269526,130.297029,0,-35,24000);
 
 
 //CZML配列作成関数
@@ -294,7 +294,7 @@ function loadCzml(){
 					if (mobile == 1){
 						entity.label.show = false;
 					} else {
-						var translucencyByDistance = new Cesium.NearFarScalar(2.0e3, 1.0, 5.0e4, 0.0);
+						var translucencyByDistance = new Cesium.NearFarScalar(2.0e3, 1.0, 3.0e4, 0.0);
 						entity.label.translucencyByDistance = translucencyByDistance;
 					}
 				}
@@ -316,7 +316,7 @@ function loadCzml(){
 			setClickEvent();
 			viewer.clock.onTick.addEventListener(function(clock){
 				var nowTime = viewer.clock.currentTime;
-				setTimeout('checkTime()',3000);
+				setTimeout('checkTime()',1000);
 			});
 			setTimeout('fadeInOut(blackOutDiv,0)',3000);
 		}
