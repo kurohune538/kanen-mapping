@@ -155,11 +155,11 @@ viewPointsArray[0]=new viewPoints("肝疾患センター",33.284693,130.266907,0
 viewPointsArray[1]=new viewPoints("小城市民病院",33.295993,130.196842,0,-89,8000);
 viewPointsArray[2]=new viewPoints("江口病院",33.260708,130.230819,0,-85,2500);
 viewPointsArray[3]=new viewPoints("佐賀県全域",33.251168,130.119531,0,-85,96062);
-viewPointsArray[4]=new viewPoints("日本全土",36.099338,133.689885,0,-85,2000000);
+viewPointsArray[4]=new viewPoints("日本全土",37.95041488123474,137.44348377604837,0,-85,3421711);
 if (mobile == 1){
-	viewPointsArray[5]=new viewPoints("初期位置",33.188542,130.127938,0,-85,53883);	
+	viewPointsArray[5]=new viewPoints("初期位置",33.248542,130.127938,0,-85,100000);	
 } else {
-	viewPointsArray[5]=new viewPoints("初期位置",33.188542,130.127938,0,-37,53883);
+	viewPointsArray[5]=new viewPoints("初期位置",33.248542,130.127938,0,-45,100000);
 }
 
 //CZML配列作成関数
@@ -190,12 +190,13 @@ viewPointChangeMenu.innerHTML = viewPointChangeMenuHtml;
 //viewer初期化
 
 var viewer = new Cesium.Viewer('cesiumContainer',{
+
+	sceneMode : Cesium.SceneMode.COLUMBUS_VIEW,
 	
 	imageryProvider : new Cesium.ArcGisMapServerImageryProvider({
 		url : '//server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer',
 		enablePickFeatures : false
 	}),
-	
 	navigationHelpButton : false,
 	geocoder:false,
 	timeline: false,
@@ -206,17 +207,10 @@ var viewer = new Cesium.Viewer('cesiumContainer',{
 	fullscreenButton:false
 });
 
-//太陽をOFFにする（iOSブラウザだと太陽ビルボードが化ける不具合に対応）
-
-viewer.scene.sun.show = false;
-
 //カメラのFOVと初期位置を設定
 
-viewer.camera.frustum.fov = 70 * (3.14 / 180);
-viewer.camera.setView({
-	position : Cesium.Cartesian3.fromDegrees(132.45470999999998,34.394915,20000000),
-	roll : 0.0
-});
+viewer.camera.frustum.fov = 60 * (3.14 / 180);
+changeViewPoint(4,0);
 
 //Z軸束縛
 
@@ -236,12 +230,11 @@ fadeInOut(blackOutDiv,0);
 setTimeout('groundZero()',0);
 
 function groundZero(){
-	changeViewPoint(3,3);
-	setTimeout('landing()',4000);
+	changeViewPoint(5,3);
+	setTimeout('landing()',0);
 }
 
 function landing(){
-	changeViewPoint(5,3);
 	setTimeout('fadeInOut(blackOutDiv,1)',3000);
 	setTimeout('loadCzml()',3000);
 }
