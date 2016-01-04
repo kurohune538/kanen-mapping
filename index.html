@@ -94,6 +94,12 @@
 </div>
 <script>
 
+//グローバル変数定義
+
+var entities;
+var osm;
+var mobile = 0;
+
 //デバイスのOS取得
 
 var getDevice = (function(){
@@ -169,12 +175,6 @@ czmlDataArray[1]=new czmlData("ウイルス性肝炎治療費の助成が受け�
 czmlDataArray[2]=new czmlData("無料肝炎ウイルス検査を実施している医療機関",'czml/muryo.czml');
 czmlDataArray[3]=new czmlData("ウイルス性肝炎の陽性指摘後の精密検査費補助が受けられる医療機関",'czml/yousei.czml');
 
-//グローバル変数定義
-
-var entities;
-var osm;
-var mobile = 0;
-
 //プルダウンメニュー作成
 
 var viewPointChangeMenu = document.getElementById('slide_menu');
@@ -224,7 +224,8 @@ viewer.camera.constrainedAxis = Cesium.Cartesian3.UNIT_Z;
 
 //スマホの場合はカメラの傾きを束縛
 
-if (mobile == 1){
+if (mobile != 0){
+	viewer.scene.screenSpaceCameraController.enableLook = false;
 	viewer.scene.screenSpaceCameraController.enableTilt = false;
 	fadeInOut(shareButton,0);
 }
